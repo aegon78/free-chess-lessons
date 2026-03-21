@@ -11,20 +11,26 @@
     font-style: normal;
 }
 
-.level-icon {
+.ficon {
     font-family: 'ChessGlyph';
+    display: inline-block;
     font-variant: normal;
     text-transform: none;
     line-height: 1;
-    color: #555;
-    font-size: 2.1rem;
+    color: #f00;
     font-weight: 400; 
     transform: translateZ(0);
-    -webkit-font-smoothing: antialiased;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: geometricPrecision;
 
+}
+
+.ficon.level-icon{
+    font-size: 2em;
+    color: #666;
+    padding: 0 5px 0 0;
+    transform: translateY(5px);
 }
 
 body{
@@ -46,11 +52,15 @@ body{
 }
 
 .level-header{
-    text-align: center;
-    /* background-color: #f00; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
     cursor: pointer;
-    padding: 15px 0;
+    padding: 0 0 15px 0;
+    position: relative;
 }
+
+
 
 .level-body{
     max-height: 0;
