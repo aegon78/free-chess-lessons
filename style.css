@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: 'ChessGlyph';
+    src: url('chessglyph-regular.91d65138.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.level-icon {
+    font-family: 'ChessGlyph';
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    color: #555;
+    font-size: 2.1rem;
+    font-weight: 400; 
+    transform: translateZ(0);
+    -webkit-font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: geometricPrecision;
+
+}
+
+body{
+    font-family: 'figtree', sans-serif;
+}
+
+.main-section{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.level{
+    border-bottom: 1px solid #ddd;
+}
+
+.level:last-child{
+    border-bottom: none;
+}
+
+.level-header{
+    text-align: center;
+    /* background-color: #f00; */
+    cursor: pointer;
+    padding: 15px 0;
+}
+
+.level-body{
+    max-height: 0;
+    opacity: 0;
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease-in, opacity 0.4s ease;
+}
+
+.level-header.show + .level-body{
+    max-height: 1000px;
+    opacity: 1;
+}
+
