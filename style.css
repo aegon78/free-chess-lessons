@@ -60,7 +60,33 @@ body{
     position: relative;
 }
 
+.level-header .level-toggle{
+    position: absolute;
+    border: none;
+    background-color: transparent;
+    right: 0;
+    bottom: 12px;
+    cursor: pointer;
+}
 
+.toggle-plus{
+    fill: #86a963;
+}
+.toggle-minus{
+    fill: grey;
+}
+
+.level-toggle .toggle-minus{
+    display: none;
+}
+
+.level-header.show .toggle-plus{
+    display: none;
+}
+
+.level-header.show .toggle-minus{
+    display: block;
+}
 
 .level-body{
     max-height: 0;
