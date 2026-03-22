@@ -1,0 +1,152 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: 'ChessGlyph';
+    src: url('chessglyph-regular.91d65138.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.ficon {
+    font-family: 'ChessGlyph';
+    display: inline-block;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    color: #f00;
+    font-weight: 400; 
+    transform: translateZ(0);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: geometricPrecision;
+
+}
+
+.ficon.level-icon{
+    font-size: 2em;
+    color: #666;
+    padding: 0 5px 0 0;
+    transform: translateY(5px);
+}
+
+body{
+    font-family: 'figtree', sans-serif;
+}
+
+.main-section{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.level{
+    border-bottom: 1px solid #ddd;
+}
+
+.level:last-child{
+    border-bottom: none;
+}
+
+.level-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+    padding: 0 0 15px 0;
+    position: relative;
+    
+    /* background-color: rgb(180, 81, 81); */
+}
+
+.level-header .level-toggle{
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.level-toggle::before{
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 4px;
+    border-radius: 5px;
+    background-color: #86aa4e;
+    top: 50%;
+    right: 5px;
+    transform: translateY(-50%);
+    transition: 0.2s ease;
+}
+
+.level-toggle::after{
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 4px;
+    border-radius: 5px;
+    background-color: #86aa4e;
+    top: 50%;
+    right: 5px;
+    transition: opacity 0.3s ease;
+    transform: translateY(-50%) rotate(90deg);
+    opacity: 1;
+}
+
+.level-header.show .level-toggle::before{
+    transform: translateY(-50%) rotate(-180deg);
+    background-color: #bdbcb7;
+}
+
+.level-header.show .level-toggle::after{
+    transform: translateY(-50%);
+    background-color: transparent;
+    opacity: 0;
+}
+
+/* .toggle-plus{
+    fill: #86a963;
+}
+.toggle-minus{
+    fill: grey;
+}
+
+.level-toggle .toggle-minus{
+    display: none;
+}
+
+.level-header.show .toggle-plus{
+    display: none;
+}
+
+.level-header.show .toggle-minus{
+    display: block;
+}
+ */
+
+.level-body{
+    max-height: 0;
+    opacity: 0;
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease-in, opacity 0.4s ease;
+}
+
+.level-header.show + .level-body{
+    max-height: 1000px;
+    opacity: 1;
+}
+
