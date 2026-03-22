@@ -150,3 +150,40 @@ body{
     opacity: 1;
 }
 
+.level-body .unit svg{
+    height: 100px;
+    width: 100px;
+}
+
+.unit p{
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin-top: 25px;
+
+}
+
+.unit{
+    position: relative;
+    margin: 20px;
+}
+
+.unit::before{
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    width: 105px;
+    height: 105px;
+    border: solid 10px #e8e7e6;
+    background-color: transparent;
+    border-radius: 50%;
+    transform: 0.4s ease;
+}
+
+.unit:hover::before{
+    border-color: #e8840c;
+}
+.unit:hover::before, .unit-text{
+    color: #e8840c;
+}
