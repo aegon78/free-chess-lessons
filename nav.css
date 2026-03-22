@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    border-bottom: 1px solid #f00;
+    height: 60px;    
+}
+
+.nav-toggle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.links-container{
+    max-width: 0;
+    overflow: hidden;
+}
