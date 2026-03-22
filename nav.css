@@ -5,7 +5,8 @@
 }
 
 .navbar{
-    border-bottom: 1px solid #f00;
+    background: linear-gradient(to bottom, #779556, #66814a);
+    border-bottom: 1px solid #666;
     height: 70px;    
 }
 
