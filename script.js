@@ -17,8 +17,20 @@ overlay.addEventListener('click', ()=>{
 const levelHeaders = document.querySelectorAll('.level-header')
 const levelBodies = document.querySelectorAll('.level-body')
 
-levelHeaders.forEach(header =>{
+let collapseStatus = JSON.parse(localStorage.getItem('collapse_status')) || {}
+
+levelHeaders.forEach((header, idx) =>{
+    
+    if(collapseStatus[idx] === true){
+        header.classList.add('show')
+    }
+    
     header.addEventListener('click', ()=>{
-        header.classList.toggle('show')
+        
+        const isCollapsed = header.classList.toggle('show')
+
+        collapseStatus[idx] = isCollapsed
+
+        localStorage.setItem('collapse_status', JSON.stringify(collapseStatus))
     })
 })
