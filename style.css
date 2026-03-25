@@ -2,7 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    --webkit-tap-highlight-color: transparent;
+    -webkit-tap-highlight-color: transparent;
 }
 
 @font-face {
@@ -132,7 +132,7 @@ body{
 
 .level-header.show + .level-body{
     max-height: 1000px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     opacity: 1;
 }
 

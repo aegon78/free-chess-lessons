@@ -5,8 +5,9 @@
     "levelicon": "Ę",
     
     "units": [
-        { "title": "Playing the Game", "icon": "board" },
-        { "title": "How to Move the Pieces", "icon": "handpawn" }
+        { "title": "How to Move the Pieces", "icon": "handpawn" },
+        { "title": "Playing the Game", "icon": "board" }
+
     ]
     },
     {
@@ -26,9 +27,9 @@
     "units": [
         { "title": "Make the Most of Your Pieces", "icon": "mostpieces" },
         { "title": "Understanding Endgames", "icon": "endgames" },
-        { "title": "Winning with Tactics", "icon": "" },
+        { "title": "Winning with Tactics", "icon": "tactics" },
         { "title": "Forcing Moves", "icon": "forcing" },
-        { "title": "Reading the Board", "icon": "" }
+        { "title": "Reading the Board", "icon": "reading" }
     ]
     },
     {
