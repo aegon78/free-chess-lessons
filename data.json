@@ -5,8 +5,8 @@
     "levelicon": "Ę",
     
     "units": [
-        { "title": "How to Move the Pieces", "icon": "/" },
-        { "title": "Playing the Game", "icon": "/" }
+        { "title": "Playing the Game", "icon": "board" },
+        { "title": "How to Move the Pieces", "icon": "handpawn" }
     ]
     },
     {

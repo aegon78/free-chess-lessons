@@ -140,6 +140,13 @@ body{
     width: 80px;
 }
 
+.unit-icon {
+    width: 90px;
+    height: 70px;
+    display: inline-block;
+    border: 1px solid red; /* Temporary: If you see a red box, the file path is the issue */
+}
+
 .unit-title{
     font-size: 0.9rem;
     font-weight: 600;

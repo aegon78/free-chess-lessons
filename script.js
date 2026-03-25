@@ -47,8 +47,11 @@ async function renderUnits(){
             unitContainer = document.createElement('a')
             unitContainer.classList.add('unit')
             unitContainer.innerHTML = `
-                <span class="svg-container">
-                    ${unit.icon}
+                <span class="svg-container">   
+                    
+                    <svg class="unit-icon">
+                        <use href="icons.svg#${unit.icon}"></use>
+                    </svg>
                 </span>
                 <p class="unit-title">${unit.title}</p>
             `
