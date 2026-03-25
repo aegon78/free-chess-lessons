@@ -1,0 +1,61 @@
+{
+"levels": [
+    {
+    "title": "New to Chess",
+    "levelicon": "Ę",
+    
+    "units": [
+        { "title": "How to Move the Pieces", "icon": "/" },
+        { "title": "Playing the Game", "icon": "/" }
+    ]
+    },
+    {
+    "title": "Beginner",
+    "levelicon": "Ç",
+    "units": [
+        { "title": "Opening Principles", "icon": "/" },
+        { "title": "Winning the Game", "icon": "" },
+        { "title": "Capturing Pieces", "icon": "" },
+        { "title": "Finding Checkmate", "icon": "" },
+        { "title": "Intro to Book Openings", "icon": "" }
+    ]
+    },
+    {
+    "title": "Intermediate",
+    "levelicon": "Ľ",
+    "units": [
+        { "title": "Make the Most of Your Pieces", "icon": "" },
+        { "title": "Understanding Endgames", "icon": "" },
+        { "title": "Winning with Tactics", "icon": "" },
+        { "title": "Forcing Moves", "icon": "" },
+        { "title": "Reading the Board", "icon": "" }
+    ]
+    },
+    {
+    "title": "Advanced",
+    "levelicon": "Į",
+    "units": [
+        { "title": "Key Openings", "icon": "" },
+        { "title": "Choosing the Best Move", "icon": "" },
+        { "title": "Activating Your Pieces", "icon": "" },
+        { "title": "Advanced Endgames", "icon": "" },
+        { "title": "Attacking the King", "icon": "" },
+        { "title": "Advanced Tactics", "icon": "" },
+        { "title": "Endgame Patterns", "icon": "" }
+    ]
+    },
+    {
+    "title": "Mastery",
+    "levelicon": "Ā",
+    "units": [
+        { "title": "Openings", "icon": "" },
+        { "title": "Strategy", "icon": "" },
+        { "title": "Tactics", "icon": "" },
+        { "title": "Endgames", "icon": "" },
+        { "title": "Attacking", "icon": "" },
+        { "title": "Master Games", "icon": "" },
+        { "title": "Misc", "icon": "" }
+    ]
+    }
+]
+}
