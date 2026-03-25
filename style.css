@@ -2,6 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    --webkit-tap-highlight-color: transparent;
 }
 
 @font-face {
@@ -131,7 +132,6 @@ body{
 
 .level-header.show + .level-body{
     max-height: 1000px;
-
     opacity: 1;
 }
 
@@ -140,12 +140,11 @@ body{
     width: 80px;
 }
 
-.unit-icon {
+/* .unit-icon {
     width: 90px;
     height: 70px;
     display: inline-block;
-    border: 1px solid red; /* Temporary: If you see a red box, the file path is the issue */
-}
+} */
 
 .unit-title{
     font-size: 0.9rem;
@@ -167,12 +166,12 @@ body{
 .svg-container::before{
     content: '';
     position: absolute;
-    top: 50%;
+    top: 47%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 90px;
     height: 90px;
-    border: solid 10px #e8e7e6;
+    border: solid 12px #e8e7e6;
     background-color: transparent;
     border-radius: 50%;
     transition: 0.3s ease;

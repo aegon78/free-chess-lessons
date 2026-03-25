@@ -13,18 +13,18 @@
     "title": "Beginner",
     "levelicon": "Ç",
     "units": [
-        { "title": "Opening Principles", "icon": "/" },
-        { "title": "Winning the Game", "icon": "" },
-        { "title": "Capturing Pieces", "icon": "" },
-        { "title": "Finding Checkmate", "icon": "" },
-        { "title": "Intro to Book Openings", "icon": "" }
+        { "title": "Opening Principls", "icon": "openingprincipals" },
+        { "title": "Winning the Game", "icon": "trophy" },
+        { "title": "Capturing Pieces", "icon": "capturingpieces" },
+        { "title": "Finding Checkmate", "icon": "checkmate" },
+        { "title": "Intro to Book Openings", "icon": "introtobookop" }
     ]
     },
     {
     "title": "Intermediate",
     "levelicon": "Ľ",
     "units": [
-        { "title": "Make the Most of Your Pieces", "icon": "" },
+        { "title": "Make the Most of Your Pieces", "icon": "mostpieces" },
         { "title": "Understanding Endgames", "icon": "" },
         { "title": "Winning with Tactics", "icon": "" },
         { "title": "Forcing Moves", "icon": "" },
@@ -36,8 +36,8 @@
     "levelicon": "Į",
     "units": [
         { "title": "Key Openings", "icon": "" },
-        { "title": "Choosing the Best Move", "icon": "" },
-        { "title": "Activating Your Pieces", "icon": "" },
+        { "title": "Choosing the Best Move", "icon": "choosing" },
+        { "title": "Activating Your Pieces", "icon": "activatingpieces" },
         { "title": "Advanced Endgames", "icon": "" },
         { "title": "Attacking the King", "icon": "" },
         { "title": "Advanced Tactics", "icon": "" },
