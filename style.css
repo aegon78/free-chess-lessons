@@ -132,6 +132,7 @@ body{
 
 .level-header.show + .level-body{
     max-height: 1000px;
+    margin-bottom: 20px;
     opacity: 1;
 }
 
