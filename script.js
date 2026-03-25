@@ -29,7 +29,7 @@ async function renderUnits(){
         const levelHeaderDiv = document.createElement('div')
         const levelBodyDiv = document.createElement('div')
         
-        levelHeaderDiv.classList.add('level-header', 'show')
+        levelHeaderDiv.classList.add('level-header')
         levelBodyDiv.classList.add('level-body')
 
         levelDiv.append(levelHeaderDiv, levelBodyDiv)
@@ -53,29 +53,28 @@ async function renderUnits(){
                 <p class="unit-title">${unit.title}</p>
             `
             levelBodyDiv.appendChild(unitContainer)
-        })
+        })    
     })
+    const levelHeaders = document.querySelectorAll('.level-header')
+    const levelBodies = document.querySelectorAll('.level-body')
+
+    let collapseStatus = JSON.parse(localStorage.getItem('collapse_status')) || {}
+
+    levelHeaders.forEach((header, idx) =>{
+        //this line checks when the user first enter the page
+        
+        if(collapseStatus[idx] === true){
+            header.classList.add('show')
+        }
+        
+        header.addEventListener('click', ()=>{
+            
+            const isCollapsed = header.classList.toggle('show')
+
+            collapseStatus[idx] = isCollapsed
+
+            localStorage.setItem('collapse_status', JSON.stringify(collapseStatus))
+        })
+})
 }
 renderUnits()
-
-const levelHeaders = document.querySelectorAll('.level-header')
-const levelBodies = document.querySelectorAll('.level-body')
-
-let collapseStatus = JSON.parse(localStorage.getItem('collapse_status')) || {}
-
-levelHeaders.forEach((header, idx) =>{
-    //this line checks when the user first enter the page
-    
-    if(collapseStatus[idx] === true){
-        header.classList.add('show')
-    }
-    
-    header.addEventListener('click', ()=>{
-        
-        const isCollapsed = header.classList.toggle('show')
-
-        collapseStatus[idx] = isCollapsed
-
-        localStorage.setItem('collapse_status', JSON.stringify(collapseStatus))
-    })
-})
