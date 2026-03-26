@@ -44,7 +44,7 @@ async function renderUnits(){
         levelHeaderDiv.append(titleContainerH2, levelToggle)
     
         level.units.forEach(unit =>{
-            unitContainer = document.createElement('a')
+            const unitContainer = document.createElement('a')
             unitContainer.classList.add('unit')
             unitContainer.innerHTML = `
                 <span class="svg-container">   

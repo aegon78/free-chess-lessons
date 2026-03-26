@@ -45,8 +45,10 @@ body{
 }
 
 .level{
+    /* max-width: 500px;
+    margin: 0 auto 0 auto; */
+
     border-bottom: 1px solid #ddd;
-    /* max-width: 400px; */
 }
 
 .level:last-child{
@@ -183,4 +185,10 @@ body{
 }
 .unit:hover .unit-title{
     color: #e8840c;
+}
+
+footer{
+    background-color: rgb(49, 46, 43);
+    min-height: 200px;
+    width: 100%;
 }
