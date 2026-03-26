@@ -64,9 +64,7 @@ async function renderUnits(){
     let collapseStatus = JSON.parse(localStorage.getItem('collapse_status')) || {}
 
     levelHeaders.forEach((header, idx) =>{
-        //this line checks when the user first enter the page
-        
-        if(collapseStatus[idx] === true){
+        if(collapseStatus[idx] !== false){//this line checks when the user first enter the page
             header.classList.add('show')
         }
         
