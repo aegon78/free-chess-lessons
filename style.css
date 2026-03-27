@@ -3,7 +3,6 @@
     padding: 0;
     margin: 0;
     -webkit-tap-highlight-color: transparent;
-    /* outline: 1px solid #f00 */
 }
 
 body{
@@ -40,14 +39,14 @@ body{
 }
 
 .title-main{
-    color: #2e2c29;
+    color: #2a2a2a;
     text-align: center;
     font-size: 2.3rem;
-    margin: 50px 0 50px;
+    padding: 50px 0 50px;
 }
 
 .title-main-highlight{
-    color: #0073b1;
+    color: #f7931a;
 }
 
 .levels{
@@ -59,9 +58,7 @@ body{
 }
 
 .main-section{
-    /* display: flex;
-    text-align: center;
-    justify-content: center; */
+    margin-top: 70px;
 }
 
 .level{

@@ -11,6 +11,16 @@
     display: flex; 
     align-items: center;
     justify-content: space-between;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    /* right: 0; */
+    z-index: 9;
+    transition: 0.3s ease-in-out;
+}
+
+.navbar.hide{
+    transform: translateY(-100%);
 }
 
 .nav-toggle{

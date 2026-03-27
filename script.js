@@ -1,6 +1,20 @@
+const navbar = document.querySelector('.navbar')
 const navToggle = document.querySelectorAll('.nav-toggle')
 const sidebar = document.querySelector('.links-container')
 const overlay = document.querySelector('.overlay')
+
+let lastScrollY = window.scrollY
+
+window.addEventListener('scroll', ()=>{
+    
+    if(lastScrollY < window.scrollY){
+        navbar.classList.add('hide')
+    }else if(lastScrollY > window.scrollY){
+        navbar.classList.remove('hide')
+    }
+
+    lastScrollY = window.scrollY
+})
 
 navToggle.forEach(nt =>{
     nt.addEventListener('click', ()=>{
