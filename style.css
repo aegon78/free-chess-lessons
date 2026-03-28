@@ -16,13 +16,19 @@ body{
     font-style: normal;
 }
 
+/* temoporary */
+.main-section{
+    margin-top: 70px;
+}
+/* ignore above */
+
+/* 
 .ficon {
     font-family: 'ChessGlyph';
     display: inline-block;
     font-variant: normal;
     text-transform: none;
     line-height: 1;
-    /* color: #f00; */
     font-weight: 400; 
     transform: translateZ(0);
     -webkit-font-smoothing: antialiased;
@@ -46,7 +52,7 @@ body{
 }
 
 .title-main-highlight{
-    color: #f7931a;
+    color: #86aa4e;
 }
 
 .levels{
@@ -54,7 +60,6 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    /* min-width: 100vw; */
 }
 
 .main-section{
@@ -163,12 +168,6 @@ body{
     text-align: center;
 }
 
-/* .unit-icon {
-    width: 90px;
-    height: 70px;
-    display: inline-block;
-} */
-
 .unit{
     cursor: pointer;
     width: 160px;
@@ -216,4 +215,70 @@ footer{
     background-color: rgb(49, 46, 43);
     min-height: 200px;
     width: 100%;
+    margin-top: 70px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Ignore / Donate Page Styles / Ignore */
+
+.donate-page-title{
+    font-size: 2.5rem;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.donate-page-text{
+    text-align: center;
+}
+
+.donation-card{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.qr-code{
+    background: url(btc-qr-code.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 150px;
+    margin: 35px 0;
+}
+
+.address-container{
+    border: 1px solid #ccc;
+    display: flex;
+}
+
+.btc-address{
+    color: #555;
+    border-right: 1px solid #ccc;
+    padding: 15px 15px 11px 15px ;
+}
+
+.copy-address{
+    padding: 15px 15px 11px 15px ;
+}
+.copy-address svg{
+    /* fill: #ccc; */
 }

@@ -92,7 +92,12 @@
     padding: 15px;
     text-decoration: none;
     color: #000;
-    
+    transition: 0.3s ease;
+}
+
+.links-container a:hover{
+    color: #f7931a;
+        
 }
 
 .links-container a:first-of-type{
