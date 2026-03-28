@@ -93,3 +93,15 @@
 // })
 // }
 // renderUnits()
+
+
+const btcAddress = document.querySelector('.btc-address').innerText
+const copyBtn = document.querySelector('.svgs-container')
+
+copyBtn.addEventListener('click', ()=>{
+    navigator.clipboard.writeText(btcAddress)
+    
+    copyBtn.classList.add('copied')
+
+    setTimeout(()=> copyBtn.classList.remove('copied'), 3000);
+})
