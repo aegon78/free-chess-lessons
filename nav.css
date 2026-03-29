@@ -45,6 +45,7 @@
     border-radius: 3px;
     color: #fff;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .donate:hover{
