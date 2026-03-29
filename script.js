@@ -93,12 +93,27 @@ async function renderUnits(){
 }
 
 function renderPage(){
-    const bodyEl = document.querySelector('body')
+    const mainSection = document.querySelector('.main-section')
     const params = new URLSearchParams(window.location.search)
     const page = params.get('p') || 'home'
 
     if(page === 'donate'){
-        bodyEl.innerHTML = "test!"
+        mainSection.innerHTML = `
+            <h2 class="donate-page-title">Donate</h2>
+            <p class="donate-page-text">[Website] is a free website that I develop in my free time. If you enjoy it, consider showing your support:</p>
+            <div class="donation-card">
+                <img class="btc-logo" src="btc-logo.png" alt="">
+                <div class="qr-code"></div>
+                <div class="address-container">
+                    <div class="btc-address">1Aegon1fAqPEKKoYW7mQCZEvyuKGpgBZqD</div>
+                    <div class="svgs-container">
+                        <svg class="copy-svg" width="20px" height="20px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#aaa" stroke-width="1"><rect x="2" y="2" width="14" height="14"/><polygon points="22 22 8 22 8 16 16 16 16 8 22 8 22 22"/></svg>
+                        <svg class="copy-done" width="20px" height="20px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#28a745"><polygon points="8.6,20 0.8,12.2 2.2,10.8 8.6,17.3 21.8,4 23.2,5.4"/></svg>
+                    </div>
+                </div>
+            </div>
+
+        `
     }else if(page === 'home'){
         renderUnits()
     } 
