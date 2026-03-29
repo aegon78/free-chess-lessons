@@ -26,21 +26,6 @@ overlay.addEventListener('click', ()=>{
     sidebar.classList.remove('active')
 })
 
-function renderPage(){
-    const bodyEl = document.querySelector('body')
-    const params = new URLSearchParams(window.location.search)
-    const page = params.get('p') || 'home'
-
-    if(page === 'donate'){
-        bodyEl.innerHTML = "test!"
-    }else{
-        renderUnits()
-    }
-    
-}
-
-renderPage()
-
 async function renderUnits(){
     const response = await fetch('./data.json')
     const data = await response.json()
@@ -106,4 +91,17 @@ async function renderUnits(){
         })
 })
 }
-renderUnits()
+
+function renderPage(){
+    const bodyEl = document.querySelector('body')
+    const params = new URLSearchParams(window.location.search)
+    const page = params.get('p') || 'home'
+
+    if(page === 'donate'){
+        bodyEl.innerHTML = "test!"
+    }else if(page === 'home'){
+        renderUnits()
+    } 
+}
+
+renderPage()
