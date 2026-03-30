@@ -58,12 +58,13 @@ async function renderUnits(){
     
         level.units.forEach(unit =>{
             const unitContainer = document.createElement('a')
+            // unitContainer.setAttribute('href', '')
             unitContainer.classList.add('unit')
             unitContainer.innerHTML = `
                 <span class="svg-container">   
                     
                     <svg class="unit-icon">
-                        <use href="icons.svg#${unit.icon}"></use>
+                        <use href="assets/icons.svg#${unit.icon}"></use>
                     </svg>
                 </span>
                 <p class="unit-title">${unit.title}</p>
@@ -102,10 +103,10 @@ function renderPage(){
             <h2 class="donate-page-title">Donate</h2>
             <p class="donate-page-text">[Website] is a free website that I develop in my free time. If you enjoy it, consider showing your support:</p>
             <div class="donation-card">
-                <img class="btc-logo" src="btc-logo.png" alt="">
+                <img class="btc-logo" src="assets/btc-logo.png" alt="">
                 <div class="qr-code"></div>
                 <div class="address-container">
-                    <div class="btc-address">1Aegon1fAqPEKKoYW7mQCZEvyuKGpgBZqD</div>
+                    <div class="btc-address">1Aegon1af84be1T82ZDZ33cYjwSsBC821i</div>
                     <div class="svgs-container">
                         <svg class="copy-svg" width="20px" height="20px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#aaa" stroke-width="1"><rect x="2" y="2" width="14" height="14"/><polygon points="22 22 8 22 8 16 16 16 16 8 22 8 22 22"/></svg>
                         <svg class="copy-done" width="20px" height="20px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#28a745"><polygon points="8.6,20 0.8,12.2 2.2,10.8 8.6,17.3 21.8,4 23.2,5.4"/></svg>
@@ -120,3 +121,15 @@ function renderPage(){
 }
 
 renderPage()
+
+
+const btcAddress = document.querySelector('.btc-address').innerText
+const copyBtn = document.querySelector('.svgs-container')
+
+copyBtn.addEventListener('click', ()=>{
+    navigator.clipboard.writeText(btcAddress)
+    
+    copyBtn.classList.add('copied')
+
+    setTimeout(()=> copyBtn.classList.remove('copied'), 3000);
+})

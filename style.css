@@ -11,7 +11,7 @@ body{
 
 @font-face {
     font-family: 'ChessGlyph';
-    src: url('chessglyph-regular.91d65138.woff2') format('woff2');
+    src: url('assets/font.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -211,12 +211,20 @@ body{
     color: #e8840c;
 }
 
+
 footer{
     background-color: rgb(49, 46, 43);
     min-height: 200px;
     width: 100%;
     margin-top: 70px;
 }
+
+
+
+
+
+
+
 
 
 
@@ -243,7 +251,7 @@ footer{
 }
 
 .qr-code{
-    background: url(btc-qr-code.png);
+    background: url(assets/btc-qr-code.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
