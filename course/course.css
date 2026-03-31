@@ -16,7 +16,7 @@ body{
 
 @font-face {
     font-family: 'ChessGlyph';
-    src: url('font.woff2') format('woff2');
+    src: url('../assets/font.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
