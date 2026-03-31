@@ -58,7 +58,7 @@ async function renderUnits(){
     
         level.units.forEach((unit) =>{
             const unitContainer = document.createElement('a')
-            unitContainer.setAttribute('href', `course/course.html?u=${unit.title.toLowerCase().replace(/\s+/g, '-')}`)
+            unitContainer.setAttribute('href', `course.html?u=${unit.title.toLowerCase().replace(/\s+/g, '-')}`)
             unitContainer.classList.add('unit')
             unitContainer.innerHTML = `
                 <span class="svg-container">   
