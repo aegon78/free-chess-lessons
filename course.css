@@ -46,7 +46,7 @@ body{
 }
 
 .level-name{
-    font-size: 1.7em;
+    font-size: 1.7rem;
     margin-bottom: 30px;
 }
 .level-icon{
@@ -67,6 +67,7 @@ body{
 }
 
 .unit-title{
+    font-size: 1.6rem;
     margin-top: 15px;
 }
 

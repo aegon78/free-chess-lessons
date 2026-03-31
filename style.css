@@ -175,6 +175,8 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    text-decoration: none;
+    color: #000;
 }
 
 .unit-title{
