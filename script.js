@@ -56,9 +56,9 @@ async function renderUnits(){
         levelToggle.classList.add('level-toggle')
         levelHeaderDiv.append(titleContainerH2, levelToggle)
     
-        level.units.forEach(unit =>{
+        level.units.forEach((unit) =>{
             const unitContainer = document.createElement('a')
-            // unitContainer.setAttribute('href', '')
+            unitContainer.setAttribute('href', `course.html?u=${unit.title.toLowerCase().replace(/\s+/g, '-')}`)
             unitContainer.classList.add('unit')
             unitContainer.innerHTML = `
                 <span class="svg-container">   
@@ -72,8 +72,9 @@ async function renderUnits(){
             levelBodyDiv.appendChild(unitContainer)
         })    
     })
+
     const levelHeaders = document.querySelectorAll('.level-header')
-    const levelBodies = document.querySelectorAll('.level-body')
+    // const levelBodies = document.querySelectorAll('.level-body')
 
     let collapseStatus = JSON.parse(localStorage.getItem('collapse_status')) || {}
 

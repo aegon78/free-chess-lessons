@@ -1,0 +1,150 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    -webkit-tap-highlight-color: transparent;
+}
+
+body{
+    font-family: 'figtree', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+@font-face {
+    font-family: 'ChessGlyph';
+    src: url('font.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.ficon {
+    font-family: 'ChessGlyph';
+    display: inline-block;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    font-weight: 400; 
+    transform: translateZ(0);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: geometricPrecision;
+
+}
+
+.unit-icon-container{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 14px solid #e8e7e6;
+    border-radius: 50%;
+}
+
+.level-name{
+    font-size: 1.7em;
+    margin-bottom: 30px;
+}
+.level-icon{
+    color: #777574;
+    font-size: 3.1rem;
+    margin-right: 5px;
+    transform: translateY(4px);
+}
+
+.unit-card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 96%;
+    border: 1px solid #888;
+    padding: 10px;
+}
+
+.unit-title{
+    margin-top: 15px;
+}
+
+
+
+.lessons-container{
+    width: 96%;
+}
+
+.lesson-card{
+    border: 1px solid #888;
+    padding: 10px;
+}
+
+.lesson-title{
+    color: #005e94;
+    margin: 10px 0;
+
+}
+
+.lesson-description{
+    color: #4b4847;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+
+}
+
+.lesson-thumbnail{
+    background: url(dynboard.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.play-icon{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.8rem;
+    width: 50px;
+    height: 50px;
+    color: #fff;
+    background-color: #f7931a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.lesson-tag{
+
+}
+
+.unit-info-card{
+    color: #777574;
+    border: 1px solid #888;
+    padding: 10px;
+    width: 96%;
+}
+
+.info-card-title{
+    font-size: 1.1rem;
+    font-weight: 600;
+
+}
+
+.info-tag-icon{
+    font-size: 1.3rem;
+    /* transform: translateY(3px); */
+}
+
+.info-tag{
+    margin: 5px;
+}
