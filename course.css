@@ -14,12 +14,12 @@ body{
     gap: 10px;
 }
 
-@font-face {
+/* @font-face {
     font-family: 'ChessGlyph';
     src: url('font.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
-}
+} */
 
 .ficon {
     font-family: 'ChessGlyph';
@@ -43,6 +43,11 @@ body{
     justify-content: center;
     border: 14px solid #e8e7e6;
     border-radius: 50%;
+}
+
+.theSVG{
+    width: 100px;
+    height: 100px;
 }
 
 .level-name{
@@ -98,7 +103,7 @@ body{
 }
 
 .lesson-thumbnail{
-    background: url(dynboard.webp);
+    /* background: url(dynboard.webp); */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
