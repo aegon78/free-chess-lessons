@@ -5,22 +5,19 @@
 }
 
 .navbar{
-    background: linear-gradient(to bottom, #779556, #66814a);
-    border-bottom: 1px solid #666;
+    /* background: linear-gradient(to bottom, #779556, #66814a); */
+    background-color: #86aa4e;
+    /* border-bottom: 1px solid #666; */
     height: 70px;
     display: flex; 
     align-items: center;
     justify-content: space-between;
-    position: fixed;
+    /* position: fixed; */
     width: 100%;
     top: 0;
     /* right: 0; */
-    z-index: 9;
-    transition: 0.3s ease-in-out;
-}
-
-.navbar.hide{
-    transform: translateY(-100%);
+    /* z-index: 9;
+    transition: 0.3s ease-in-out; */
 }
 
 .nav-toggle{
@@ -37,11 +34,11 @@
 .donate{
     padding: 10px;
     margin-right: 15px;
-    background-color: #f7931a;
+    background-color: #e6912c;
     font-weight: 600;
     font-size: 0.9rem;
     border: none;
-    border-bottom: 1px solid rgb(173, 109, 33);
+    border-bottom: 1px solid #ad6d21;
     border-radius: 3px;
     color: #fff;
     cursor: pointer;
