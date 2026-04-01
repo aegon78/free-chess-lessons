@@ -80,12 +80,19 @@ function renderUnit(level, unit){
     infoCardTitle.innerText = unit.title
     unitInfoCard.append(infoCardTitle)
     
+    // const unitDuration = unit.less
+    
+    unitDuration = unit.lessons.reduce((total, lesson)=>{
+        return total + lesson.duration
+    }, 0)
+
     const tagData = [
         { icon: `${level.levelicon}`, value: level.title, className: 'level-info-value' },
         { icon: 'ἔ', value: `${unit.lessons.length} Lessons`, className: 'lessons-info-value' },
-        { icon: 'J', value: `${unit.duration} Minutes`, className: 'duration-info-value' },
+        { icon: 'J', value: `${unitDuration} Minutes`, className: 'duration-info-value' },
         { icon: 'a', value: `Released ${unit.releaseDate}`, className: 'release-info-value' }
     ];
+
     tagData.forEach(tag =>{
         const infoTag = document.createElement('div')
         infoTag.classList.add('info-tag')
