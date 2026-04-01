@@ -68,4 +68,32 @@ function renderUnit(level, unit){
         lessonCard.append(lessonDetailsContainer)
         lessonsContainer.append(lessonCard)
     })
+
+    //creating tags (based on a mini database array) and appending them.
+        
+    const unitInfoCard = document.createElement('div')
+    unitInfoCard.classList.add('unit-info-card')
+    bodyEl.append(unitInfoCard)
+
+    const infoCardTitle = document.createElement('div')
+    infoCardTitle.classList.add('info-card-title')
+    infoCardTitle.innerText = unit.title
+    unitInfoCard.append(infoCardTitle)
+    
+    const tagData = [
+        { icon: `${level.levelicon}`, value: level.title, className: 'level-info-value' },
+        { icon: 'ἔ', value: `${unit.lessons.length} Lessons`, className: 'lessons-info-value' },
+        { icon: 'J', value: `${unit.duration} Minutes`, className: 'duration-info-value' },
+        { icon: 'a', value: `Released ${unit.releaseDate}`, className: 'release-info-value' }
+    ];
+    tagData.forEach(tag =>{
+        const infoTag = document.createElement('div')
+        infoTag.classList.add('info-tag')
+        infoTag.innerHTML = `
+            <span class="info-tag-icon ficon">${tag.icon}</span>
+            <span class="${tag.className}">${tag.value}</span>
+        `
+        unitInfoCard.append(infoTag)
+    })
+
 }
