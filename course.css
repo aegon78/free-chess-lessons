@@ -14,13 +14,6 @@ body{
     gap: 10px;
 }
 
-/* @font-face {
-    font-family: 'ChessGlyph';
-    src: url('font.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-} */
-
 .ficon {
     font-family: 'ChessGlyph';
     display: inline-block;
@@ -151,8 +144,15 @@ body{
     border-radius: 50%;
 }
 
-.lesson-tag{
+.lessonTagsContainer{
+    color: #777574;
+    margin: 10px 5px 0 10px;
+    font-weight: 550;
+}  
 
+.duration-icon{
+    font-size: 1.2rem;
+    margin-right: 5px;;
 }
 
 .unit-info-card{

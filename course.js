@@ -35,7 +35,7 @@ function renderUnit(level, unit){
     const unitIconContainer = document.createElement('div')
     unitIconContainer.classList.add('unit-icon-container')
     unitIconContainer.innerHTML = `
-        <span>   
+        <span>
             <svg class="theSVG">
                 <use href="assets/icons.svg#${unit.icon}"></use>
             </svg>
@@ -90,7 +90,10 @@ function renderUnit(level, unit){
         lessonDetailsContainer.innerHTML = `
                 <h3 class="lesson-title">${lesson.title}</h3>
                 <p class="lesson-description">${lesson.description}</p>
-
+                <div class="lessonTagsContainer">
+                    <span class="duration-icon ficon">J</span>
+                    <span class="video-duration-value">${lesson.duration} min</span>
+                </div>
         `
         lessonCard.append(lessonDetailsContainer)
         lessonsContainer.append(lessonCard)
