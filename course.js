@@ -84,7 +84,11 @@ function renderUnit(level, unit){
         const lessonCard = document.createElement('div')
         lessonCard.classList.add('lesson-card')
         lessonCard.innerHTML = `
-            <div class="lesson-thumbnail"><span class="play-icon ficon">J</span></div>
+            <div class="lesson-thumbnail">
+                <div class="play-icon-background">
+                    <span class="ficon play-icon">J<span>
+                </div>
+            </div>
         `
         const lessonDetailsContainer = document.createElement('div')
         lessonDetailsContainer.innerHTML = `

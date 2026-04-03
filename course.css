@@ -12,6 +12,7 @@ body{
     align-items: center;
     justify-content: center;
     gap: 10px;
+    background-color: #fff;
 }
 
 .ficon {
@@ -60,8 +61,8 @@ body{
     justify-content: center;
     flex-direction: column;
     width: 96%;
-    border: 1px solid #888;
     padding: 10px;
+    background-color: #fff;
 }
 
 .unit-title{
@@ -90,16 +91,16 @@ body{
 
 .lessons-container{
     width: 96%;
-    /* display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column; */
 }
 
 .lesson-card{
-    border: 1px solid #888;
+    background-color: #fff;
     padding: 10px;
-    margin: 10px 0;
+    border-top: 1px solid #d0d0d0;
+    border-radius: 5px;
+}
+.lesson-card:hover{
+    background-color: #f0f0f0;
 }
 
 .lesson-title{
@@ -124,55 +125,64 @@ body{
     background-size: cover;
     width: 130px;
     height: 130px;
-    position: relative;
+    /* position: relative; */
     margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.play-icon-background{
+    position: relative;
+    width: 55px;
+    height: 55px;
+    color: #fff;
+    background-color: #f7931a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 9999px;
 }
 
 .play-icon{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 1.8rem;
-    width: 50px;
-    height: 50px;
-    color: #fff;
-    background-color: #f7931a;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 50%;
+    transform: translate(-45%, -56%);
+    font-size: 2.4rem;
 }
 
 .lessonTagsContainer{
     color: #777574;
     margin: 10px 5px 0 10px;
-    font-weight: 550;
 }  
 
 .duration-icon{
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     margin-right: 5px;;
 }
 
 .unit-info-card{
+    /* background-color: #f1f1f1; */
     color: #777574;
-    border: 1px solid #888;
+    border-radius: 5px;
     padding: 10px;
     width: 96%;
 }
 
 .info-card-title{
-    font-size: 1.1rem;
+    background-color: #f1f1f1;
+    font-size: 1.2rem;
     font-weight: 600;
-
+    padding: 7px;
 }
 
 .info-tag-icon{
-    font-size: 1.3rem;
+    font-size: 1.5rem;
+    margin-right: 5px;
     /* transform: translateY(3px); */
 }
 
 .info-tag{
-    margin: 5px;
+    margin-left: 5px;
 }
