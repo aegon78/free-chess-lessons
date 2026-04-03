@@ -5,24 +5,6 @@
     "description": "",
     "levelicon": "Ę",
     "units": [
-        {
-        "title": "Playing the Game",
-        "icon": "board",
-        "description": [
-            {"headline": "Learn the rules of the game and start playing today!\n\n"},
-            {"body": "If you know how the pieces move and can set up a board, what is the next step? Learning the rules of the game! This course is specifically designed for those looking to play a full game of chess from start to finish. By learning these rules you will be ready to play a game with anyone!\n\nHere is what you will learn:\n\n"},
-            {"objectives": ["The difference between check and checkmate","Stalemates and draws", "How to read and write moves using chess notation", "Basic strategy like moving and capturing pieces"]}
-        ],
-        "releaseDate": "December 21, 2018",
-        "lessons": [
-            { "title": "The Value of the Pieces", "duration": 3, "description": "Each chess piece has a value to help decide which captures are best. A pawn is worth 1 point. A knight is worth 3. A bishop is also worth 3. A rook is worth 5. The queen is worth 9. And the king is worth the whole game!" },
-            { "title": "Finding the Right Move", "duration": 4, "description": "Each turn you will want to consider your option and your opponent's options. You'll want to pay particular attention to checks, captures and threats." },
-            { "title": "The Language of Chess", "duration": 3, "description": "Every square in chess has a name, with vertical files from a-h and horizontal ranks from 1-8. Each move is written with a letter for the piece and the square it moves to. Watch the video for more." },
-            { "title": "Playing a Game", "duration": 3, "description": "Watch the video for a complete game of chess played with all moves explained." },
-            { "title": "Stalemate", "duration": 3, "description": "Stalemate occurs when there are no possible moves, but neither king is in check. Stalemate is a draw, even if one of the players has many more pieces on the board." },
-            { "title": "Other Draws", "duration": 27, "description": "Chess games can end in draws because of stalemate, an agreement between the players, three repetitions of the same position, or 50 moves without a pawn move or a capture." }
-        ]
-        },
         { 
         "title": "Learn to Play Chess",
         "icon": "handpawn",
@@ -47,6 +29,24 @@
             { "title": "Checkmate", "duration": 1, "description": "You win when your opponent is in check and cannot escape. That is called checkmate!" },
             { "title": "Castling", "duration": 3, "description": "The king may move two squares to either side, with the rook moving to the other side of the king. Not legal if either piece has moved or if the king would move into, out of, or through check." }
         ]
+        },
+        {
+        "title": "Playing the Game",
+        "icon": "board",
+        "description": [
+            {"headline": "Learn the rules of the game and start playing today!\n\n"},
+            {"body": "If you know how the pieces move and can set up a board, what is the next step? Learning the rules of the game! This course is specifically designed for those looking to play a full game of chess from start to finish. By learning these rules you will be ready to play a game with anyone!\n\nHere is what you will learn:\n\n"},
+            {"objectives": ["The difference between check and checkmate","Stalemates and draws", "How to read and write moves using chess notation", "Basic strategy like moving and capturing pieces"]}
+        ],
+        "releaseDate": "December 21, 2018",
+        "lessons": [
+            { "title": "The Value of the Pieces", "duration": 3, "description": "Each chess piece has a value to help decide which captures are best. A pawn is worth 1 point. A knight is worth 3. A bishop is also worth 3. A rook is worth 5. The queen is worth 9. And the king is worth the whole game!" },
+            { "title": "Finding the Right Move", "duration": 4, "description": "Each turn you will want to consider your option and your opponent's options. You'll want to pay particular attention to checks, captures and threats." },
+            { "title": "The Language of Chess", "duration": 3, "description": "Every square in chess has a name, with vertical files from a-h and horizontal ranks from 1-8. Each move is written with a letter for the piece and the square it moves to. Watch the video for more." },
+            { "title": "Playing a Game", "duration": 3, "description": "Watch the video for a complete game of chess played with all moves explained." },
+            { "title": "Stalemate", "duration": 3, "description": "Stalemate occurs when there are no possible moves, but neither king is in check. Stalemate is a draw, even if one of the players has many more pieces on the board." },
+            { "title": "Other Draws", "duration": 27, "description": "Chess games can end in draws because of stalemate, an agreement between the players, three repetitions of the same position, or 50 moves without a pawn move or a capture." }
+        ]
         }
     ]
     },
@@ -58,8 +58,8 @@
         "title": "Opening Principles",
         "icon": "openingprincipales",
         "description": [
-            {"headline": "Learn the correct way to play the first moves of the game!"},
-            {"body": "Are you tired of not knowing what to do in the opening? Have you ever felt like you were behind from the very first move? Then this course is for you! By learning these important opening principles you will start playing the first moves of the game confidently! Here is what you will learn:"},
+            {"headline": "Learn the correct way to play the first moves of the game!\n\n"},
+            {"body": "Are you tired of not knowing what to do in the opening? Have you ever felt like you were behind from the very first move? Then this course is for you! By learning these important opening principles you will start playing the first moves of the game confidently!\n\nHere is what you will learn:\n\n"},
             {"objectives": ["The different phases of the game and how they are connected", "How to protect your king", "The importance of controlling the center", "How to develop your pieces!"]}
         ],
         "releaseDate": "December 27, 2018",

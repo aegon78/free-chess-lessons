@@ -71,7 +71,8 @@ body{
 }
 
 .description-container{
-    margin: 20px;
+    /* margin: 20px; better for phone */
+    margin: 20px 0;
     white-space: pre-wrap;
     font-size: 0.97rem;
     line-height: 1.2;
@@ -125,11 +126,11 @@ body{
     background-size: cover;
     width: 130px;
     height: 130px;
-    /* position: relative; */
     margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: center;
+    position: relative;
 }
 
 .play-icon-background{
@@ -142,6 +143,7 @@ body{
     align-items: center;
     justify-content: center;
     border-radius: 9999px;
+    z-index: 3;
 }
 
 .play-icon{
@@ -150,6 +152,14 @@ body{
     left: 50%;
     transform: translate(-45%, -56%);
     font-size: 2.4rem;
+}
+
+.thumbnail-img{
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+
 }
 
 .lessonTagsContainer{

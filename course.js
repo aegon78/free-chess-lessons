@@ -80,11 +80,12 @@ function renderUnit(level, unit){
     const lessonsContainer = document.createElement('div')
     lessonsContainer.classList.add('lessons-container')
     bodyEl.append(lessonsContainer)
-    unit.lessons.forEach(lesson =>{
+    unit.lessons.forEach((lesson, idx) =>{
         const lessonCard = document.createElement('div')
         lessonCard.classList.add('lesson-card')
         lessonCard.innerHTML = `
             <div class="lesson-thumbnail">
+                <img class="thumbnail-img" src="assets/thumbnails/${level.title}/${unit.title}/${idx + 1}.png">
                 <div class="play-icon-background">
                     <span class="ficon play-icon">J<span>
                 </div>
