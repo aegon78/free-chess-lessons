@@ -59,6 +59,7 @@ function renderUnit(level, unit){
 
         if(item.headline){
             el = document.createElement('p')
+            el.classList.add('description-headline')
             el.textContent = item.headline
         }else if(item.body){
             el = document.createElement('p')

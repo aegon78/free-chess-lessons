@@ -77,10 +77,23 @@ body{
 }
 
 .description-container{
-    padding: 30px;
+    margin: 20px;
     white-space: pre-wrap;
+    font-size: 0.97rem;
+    line-height: 1.2;
 }
 
+.description-headline{
+    font-weight: 550;
+}
+
+.description-container ul{
+    margin-left: 20px;
+}
+
+.description-container ul li:last-of-type{
+    font-weight: 550;
+}
 
 .lessons-container{
     width: 96%;
