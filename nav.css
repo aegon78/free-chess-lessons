@@ -5,8 +5,7 @@
 }
 
 .navbar{
-    /* background: linear-gradient(to bottom, #779556, #66814a); */
-    background-color: #86aa4e;
+    background-color: #312e2b;
     /* border-bottom: 1px solid #666; */
     height: 70px;
     display: flex; 

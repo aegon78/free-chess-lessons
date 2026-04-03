@@ -76,6 +76,10 @@ body{
     margin-top: 15px;
 }
 
+.description-container{
+    padding: 30px;
+    white-space: pre-wrap;
+}
 
 
 .lessons-container{

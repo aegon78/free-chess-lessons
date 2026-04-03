@@ -49,6 +49,32 @@ function renderUnit(level, unit){
     unitTitle.innerText = unit.title
     unitCard.append(unitTitle)
 
+    //creating description/description items & appending them.
+
+    const descriptionContainer = document.createElement('div')
+    descriptionContainer.classList.add('description-container')
+    unitCard.appendChild(descriptionContainer)
+    unit.description.forEach(item =>{
+        let el;
+
+        if(item.headline){
+            el = document.createElement('p')
+            el.textContent = item.headline
+        }else if(item.body){
+            el = document.createElement('p')
+            el.textContent = item.body
+        }else if(item.objectives){
+            el = document.createElement('ul')
+            item.objectives.forEach(objective => {
+                const li = document.createElement('li')
+                li.textContent = objective
+                el.appendChild(li)
+            })
+        }
+
+        if(el) descriptionContainer.append(el)
+
+    })
     //creating lessons container and the lessons inside and appending them.
     const lessonsContainer = document.createElement('div')
     lessonsContainer.classList.add('lessons-container')

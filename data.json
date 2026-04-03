@@ -8,6 +8,11 @@
         {
         "title": "Playing the Game",
         "icon": "board",
+        "description": [
+            {"headline": "Learn the correct way to play the first moves of the game!"},
+            {"body": "Are you tired of not knowing what to do in the opening? Have you ever felt like you were behind from the very first move? Then this course is for you! By learning these important opening principles you will start playing the first moves of the game confidently! Here is what you will learn:"},
+            {"objectives": ["The different phases of the game and how they are connected", "How to protect your king", "The importance of controlling the center", "How to develop your pieces!"]}
+        ],
         "releaseDate": "December 21, 2018",
         "lessons": [
             { "title": "The Value of the Pieces", "duration": 3, "description": "Each chess piece has a value to help decide which captures are best. A pawn is worth 1 point. A knight is worth 3. A bishop is also worth 3. A rook is worth 5. The queen is worth 9. And the king is worth the whole game!" },
@@ -21,6 +26,11 @@
         { 
         "title": "Learn to Play Chess",
         "icon": "handpawn",
+        "description": [
+            {"headline": "Learn how all of the pieces move and how to set up a chessboard!\n\n"},
+            {"body": "Are you learning the royal game? Do you want to play chess with a friend or family member? Then this course is for you! By learning the material in this course you will be ready to set up a board and play a game of chess!\n\nHere is what you will learn:\n\n"},
+            {"objectives": ["How to set up a chessboard", "How to protect your king", "The importance of controlling the center", "How to develop your pieces!"]}
+        ],
         "releaseDate": "October 18, 2018",
         "lessons": [
             { "title": "The King and the Goal", "duration": 1, "description": "The goal in chess is to checkmate your opponent's king, leaving it trapped with no safe moves. The king can only move one square at a time in any direction—forward, backward, sideways, or diagonally." },
@@ -45,8 +55,13 @@
     "levelicon": "Ç",
     "units": [
         { 
-        "title": "Opening Principls",
-        "icon": "openingprincipals",
+        "title": "Opening Principles",
+        "icon": "openingprincipales",
+        "description": [
+            {"headline": "Learn the correct way to play the first moves of the game!"},
+            {"body": "Are you tired of not knowing what to do in the opening? Have you ever felt like you were behind from the very first move? Then this course is for you! By learning these important opening principles you will start playing the first moves of the game confidently! Here is what you will learn:"},
+            {"objectives": ["The different phases of the game and how they are connected", "How to protect your king", "The importance of controlling the center", "How to develop your pieces!"]}
+        ],
         "releaseDate": "December 27, 2018",
         "lessons": [
             { "title": "Control the Center", "duration": 5, "description": "Put your pieces in the ideal position to control the most important part of the board - the center." },
@@ -59,6 +74,11 @@
         {
         "title": "Winning the Game",
         "icon": "trophy",
+        "description": [
+            {"headline": "Learn the correct way to play the first moves of the game!"},
+            {"body": "Are you tired of not knowing what to do in the opening? Have you ever felt like you were behind from the very first move? Then this course is for you! By learning these important opening principles you will start playing the first moves of the game confidently! Here is what you will learn:"},
+            {"objectives": ["The different phases of the game and how they are connected", "How to protect your king", "The importance of controlling the center", "How to develop your pieces!"]}
+        ],
         "releaseDate": "December 21, 2018",
         "lessons": [
             { "title": "The 4-Move Checkmate", "duration": 4, "description": "The four-move checkmate is a common way to win at the beginner level. 1. e4 e5 2. Qh5 Nc6 3.Bc4 with Qxf7# Black can stop it by blocking the white queen from reaching f7." },
@@ -70,6 +90,11 @@
         },
         {
         "title": "Capturing Pieces", "icon": "capturingpieces",
+        "description": [
+            {"headline": "Learn the correct way to play the first moves of the game!"},
+            {"body": "Are you tired of not knowing what to do in the opening? Have you ever felt like you were behind from the very first move? Then this course is for you! By learning these important opening principles you will start playing the first moves of the game confidently! Here is what you will learn:"},
+            {"objectives": ["The different phases of the game and how they are connected", "How to protect your king", "The importance of controlling the center", "How to develop your pieces!"]}
+        ],
         "releaseDate": "12/21/2018",
         "lessons": [
             { "title": "Evaluating Captures", "duration": 3, "description": "Each piece has a numerical value that can help you evaluate whether exchanging it makes sense. Pawns are 1 point, knights are 3 points, bishops are 3 points, rooks are 5 points, queens are 9 points, kings are the whole game!" },
@@ -85,6 +110,11 @@
         },
         {
         "title": "Finding Checkmate", "icon": "checkmate",
+        "description": [
+            {"headline": "Learn the correct way to play the first moves of the game!"},
+            {"body": "Are you tired of not knowing what to do in the opening? Have you ever felt like you were behind from the very first move? Then this course is for you! By learning these important opening principles you will start playing the first moves of the game confidently! Here is what you will learn:"},
+            {"objectives": ["The different phases of the game and how they are connected", "How to protect your king", "The importance of controlling the center", "How to develop your pieces!"]}
+        ],
         "releaseDate": "12/26/2018",
         "lessons": [
             { "title": "Pawn Race", "duration": 4, "description": "When both sides only have kings and pawns it's essential to count how many moves each side will take to promote. Usually whoever gets there first will win the game!" },
@@ -97,6 +127,11 @@
         },
         {
         "title": "Intro to Book Openings", "icon": "openings",
+        "description": [
+            {"headline": "Learn the correct way to play the first moves of the game!"},
+            {"body": "Are you tired of not knowing what to do in the opening? Have you ever felt like you were behind from the very first move? Then this course is for you! By learning these important opening principles you will start playing the first moves of the game confidently! Here is what you will learn:"},
+            {"objectives": ["The different phases of the game and how they are connected", "How to protect your king", "The importance of controlling the center", "How to develop your pieces!"]}
+        ],
         "releaseDate": "12/27/2018",
         "lessons": [
             { "title": "e4 Openings for Beginners", "duration": 6, "description": "One of the most common opening moves is 1.e4. Black's most solid response is 1...e5. The game frequently continues with 2.Nf3 Nc6 and then one of three main moves, Bc4, Bb5 or d4." },
@@ -114,6 +149,11 @@
     "units": [
         {
         "title": "Make the Most of Your Pieces", "icon": "mostpieces",
+        "description": [
+            {"headline": "Learn the correct way to play the first moves of the game!"},
+            {"body": "Are you tired of not knowing what to do in the opening? Have you ever felt like you were behind from the very first move? Then this course is for you! By learning these important opening principles you will start playing the first moves of the game confidently! Here is what you will learn:"},
+            {"objectives": ["The different phases of the game and how they are connected", "How to protect your king", "The importance of controlling the center", "How to develop your pieces!"]}
+        ],
         "releaseDate": "12/29/2018",
         "lessons": [
             { "title": "Using Your Knights", "duration": 3, "description": "Knights are best in the center, where they can control up to eight squares.  Knights work well with queens and also do a good job blocking pawns." },
