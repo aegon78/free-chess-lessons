@@ -99,6 +99,7 @@ body{
     padding: 10px;
     border-top: 1px solid #d0d0d0;
     border-radius: 5px;
+    cursor: pointer;
 }
 .lesson-card:hover{
     background-color: #f0f0f0;

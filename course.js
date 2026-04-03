@@ -85,7 +85,7 @@ function renderUnit(level, unit){
         lessonCard.classList.add('lesson-card')
         lessonCard.innerHTML = `
             <div class="lesson-thumbnail">
-                <img class="thumbnail-img" src="assets/thumbnails/${level.title}/${unit.title}/${idx + 1}.png">
+                <img class="thumbnail-img" src="assets/thumbnails/${level.title}/${unit.title}/${idx + 1}.webp">
                 <div class="play-icon-background">
                     <span class="ficon play-icon">J<span>
                 </div>
