@@ -1,4 +1,5 @@
 body{
+    background-color: #312e2b;
     display: flex;
     flex-direction: column;
     /* align-items: center; */
@@ -23,6 +24,26 @@ iframe{
     display: block;
 }
 
+.video-info-panel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    color: hsla(0, 0%, 100%, 0.65);
+}
+
+.video-info-panel span{
+    /* margin: 0 auto; */
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+
+.video-info-panel .lesson-icon{
+    font-size: 1.4rem;
+    transform: translateY(-3px);
+    margin-right: 7px;
+}   
 
 
 
