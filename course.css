@@ -94,6 +94,11 @@ body{
     width: 96%;
 }
 
+.lessons-container a{
+    display: block;
+    text-decoration: none;
+}
+
 .lesson-card{
     background-color: #fff;
     padding: 10px;
