@@ -83,7 +83,7 @@ function renderUnit(level, unit){
     
     unit.lessons.forEach((lesson, idx) =>{
         const lessonCard = document.createElement('a')
-        lessonCard.setAttribute('href', `watch.html?${lesson.title.toLowerCase().replace(/\s+/g, '-')}`)
+        lessonCard.setAttribute('href', `watch.html?l=${lesson.title.toLowerCase().replace(/\s+/g, '-')}`)
         lessonCard.classList.add('lesson-card')
         lessonCard.innerHTML = `
             <div class="lesson-thumbnail">
