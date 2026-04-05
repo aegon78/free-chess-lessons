@@ -68,7 +68,7 @@ iframe{
     width: 50px;
     height: 50px;
     border-radius: 7px;
-
+    flex-shrink: 0;
 }
 
 .coach img{
@@ -85,6 +85,7 @@ iframe{
     flex-grow: 1;
     position: relative;
     margin-left: 15px;
+    z-index: 2;
 }
 
 .lesson-description-wrapper::before{
@@ -94,6 +95,7 @@ iframe{
     height: 15px;
     left: -7px;
     top: 15px;
+    z-index: -1;
     background-color: #4b4847;
     /* background-color: #f00; */
     transform: rotate(45deg);
