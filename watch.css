@@ -30,9 +30,12 @@ iframe{
 }
 
 .video-info-container{
-    background: #312e2b;
+    background-color: #312e2b;
+    /* background-color: #f00; */
     padding: 20px;
     max-width: 100%;
+    min-height: 300px;
+    /* display: flex; */
 }
 
 .video-info-panel{
@@ -41,6 +44,7 @@ iframe{
     justify-content: center;
     padding-bottom: 20px;
     color: hsla(0, 0%, 100%, 0.65);
+    /* background-color: #ff0; */
 }
 
 .video-info-panel span{
@@ -55,13 +59,16 @@ iframe{
     margin-right: 7px;
 }   
 
+.coach-section{
+    display: flex;
+}
+
 .coach{
     background-color: #4b4847;
     width: 50px;
     height: 50px;
     border-radius: 7px;
-    /* overflow: hidden; */
-    position: relative;
+
 }
 
 .coach img{
@@ -71,12 +78,24 @@ iframe{
 }
 
 .lesson-description-wrapper{
-    position: absolute;
-    left: 67px;
-    min-width: 500%;
-    top: 0;
     background-color: #4b4847;
     border-radius: 10px;
     color: #fff;
     padding: 10px;
+    flex-grow: 1;
+    position: relative;
+    margin-left: 15px;
 }
+
+.lesson-description-wrapper::before{
+    content: '';
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: -7px;
+    top: 15px;
+    background-color: #4b4847;
+    /* background-color: #f00; */
+    transform: rotate(45deg);
+}
+
