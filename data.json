@@ -15,19 +15,19 @@
         ],
         "releaseDate": "October 18, 2018",
         "lessons": [
-            { "title": "The King and the Goal", "duration": 1, "description": "The goal in chess is to checkmate your opponent's king, leaving it trapped with no safe moves. The king can only move one square at a time in any direction—forward, backward, sideways, or diagonally." },
-            { "title": "The Queen", "duration": 1, "description": "The queen can move forwards, backward, sideways, and diagonally like a king. However, unlike the king, the queen can move as far as it wants to in each of these directions." },
-            { "title": "The Rook", "duration": 1, "description": "The rook can move forwards, backward, and sideways." },
-            { "title": "The Bishop", "duration": 1, "description": "The bishop can move diagonally like a queen, but not forward, backward, or sideways. Each side starts with two bishops, one on a light square and one on a dark square." },
-            { "title": "The Knight", "duration": 1, "description": "The knight is the only chess piece that doesn't go in a straight line. The knight moves two squares in one direction and then turns and goes one square to the side." },
-            { "title": "The Pawn", "duration": 2, "description": "Pawns move one square forward and cannot move back. A pawn may advance two squares on its first move. Pawns can only capture one square diagonally ahead." },
-            { "title": "Pawn Promotion", "duration": 1, "description": "When a pawn reaches the end of the board it “promotes”, it turns into another piece. Most of the time players promote to a queen, but a rook, knight, or bishop is also possible." },
-            { "title": "En Passant", "duration": 1, "description": "There is one weird pawn move where a pawn makes its first move up two squares and can be captured! Watch the video to learn more." },
-            { "title": "Moving and Capturing", "duration": 3, "description": "A great strategy to help win chess games is to capture opposing pieces. Most captures are made the same way that pieces normally move, but pawns capture diagonally." },
-            { "title": "Check", "duration": 1, "description": "Check means that a king is being threatened. A king can never actually be captured, so the other side must get out of check by moving, blocking, or capturing the checking piece." },
-            { "title": "Getting Out of Check", "duration": 1, "description": "When you are in check you must escape. The ways to get out of check are to move the king, block the check with another piece, or capture the checking piece." },
-            { "title": "Checkmate", "duration": 1, "description": "You win when your opponent is in check and cannot escape. That is called checkmate!" },
-            { "title": "Castling", "duration": 3, "description": "The king may move two squares to either side, with the rook moving to the other side of the king. Not legal if either piece has moved or if the king would move into, out of, or through check." }
+            { "title": "The King and the Goal", "urlid": "8PaXgpJy6dtjDp", "duration": 1, "description": "The goal in chess is to checkmate your opponent's king, leaving it trapped with no safe moves. The king can only move one square at a time in any direction—forward, backward, sideways, or diagonally." },
+            { "title": "The Queen", "urlid": "ydzaXWqD09T1RQP", "duration": 1, "description": "The queen can move forwards, backward, sideways, and diagonally like a king. However, unlike the king, the queen can move as far as it wants to in each of these directions." },
+            { "title": "The Rook", "urlid": "6BgQD3xq3kFxob", "duration": 1, "description": "The rook can move forwards, backward, and sideways." },
+            { "title": "The Bishop", "urlid": "2B3ApD34OxFzXZ", "duration": 1, "description": "The bishop can move diagonally like a queen, but not forward, backward, or sideways. Each side starts with two bishops, one on a light square and one on a dark square." },
+            { "title": "The Knight", "urlid": "LdJQ3xZgkrFRXM6", "duration": 1, "description": "The knight is the only chess piece that doesn't go in a straight line. The knight moves two squares in one direction and then turns and goes one square to the side." },
+            { "title": "The Pawn", "urlid": "qKVxY0d8KzIz0K6", "duration": 2, "description": "Pawns move one square forward and cannot move back. A pawn may advance two squares on its first move. Pawns can only capture one square diagonally ahead." },
+            { "title": "Pawn Promotion", "urlid": "P9GGYY6k07U03B7", "duration": 1, "description": "When a pawn reaches the end of the board it “promotes”, it turns into another piece. Most of the time players promote to a queen, but a rook, knight, or bishop is also possible." },
+            { "title": "En Passant", "urlid": "zrJPz2od9RTYR4J", "duration": 1, "description": "There is one weird pawn move where a pawn makes its first move up two squares and can be captured! Watch the video to learn more." },
+            { "title": "Moving and Capturing", "urlid": "61M22MYqpOT9rKe", "duration": 3, "description": "A great strategy to help win chess games is to capture opposing pieces. Most captures are made the same way that pieces normally move, but pawns capture diagonally." },
+            { "title": "Check", "urlid": "jj7bjOlvD2tJ8j", "duration": 1, "description": "Check means that a king is being threatened. A king can never actually be captured, so the other side must get out of check by moving, blocking, or capturing the checking piece." },
+            { "title": "Getting Out of Check", "urlid": "P68WbQdmjqU02jx", "duration": 1, "description": "When you are in check you must escape. The ways to get out of check are to move the king, block the check with another piece, or capture the checking piece." },
+            { "title": "Checkmate", "urlid": "7jqgGrX72jt4QA", "duration": 1, "description": "You win when your opponent is in check and cannot escape. That is called checkmate!" },
+            { "title": "Castling", "urlid": "eYjWrRDzJbsj2R", "duration": 3, "description": "The king may move two squares to either side, with the rook moving to the other side of the king. Not legal if either piece has moved or if the king would move into, out of, or through check." }
         ]
         },
         {
@@ -40,12 +40,12 @@
         ],
         "releaseDate": "December 21, 2018",
         "lessons": [
-            { "title": "The Value of the Pieces", "duration": 3, "description": "Each chess piece has a value to help decide which captures are best. A pawn is worth 1 point. A knight is worth 3. A bishop is also worth 3. A rook is worth 5. The queen is worth 9. And the king is worth the whole game!" },
-            { "title": "Finding the Right Move", "duration": 4, "description": "Each turn you will want to consider your option and your opponent's options. You'll want to pay particular attention to checks, captures and threats." },
-            { "title": "The Language of Chess", "duration": 3, "description": "Every square in chess has a name, with vertical files from a-h and horizontal ranks from 1-8. Each move is written with a letter for the piece and the square it moves to. Watch the video for more." },
-            { "title": "Playing a Game", "duration": 3, "description": "Watch the video for a complete game of chess played with all moves explained." },
-            { "title": "Stalemate", "duration": 3, "description": "Stalemate occurs when there are no possible moves, but neither king is in check. Stalemate is a draw, even if one of the players has many more pieces on the board." },
-            { "title": "Other Draws", "duration": 27, "description": "Chess games can end in draws because of stalemate, an agreement between the players, three repetitions of the same position, or 50 moves without a pawn move or a capture." }
+            { "title": "The Value of the Pieces", "urlid": "3AywBqkM0aHd138", "duration": 3, "description": "Each chess piece has a value to help decide which captures are best. A pawn is worth 1 point. A knight is worth 3. A bishop is also worth 3. A rook is worth 5. The queen is worth 9. And the king is worth the whole game!" },
+            { "title": "Finding the Right Move", "urlid": "M92VwYqkMRSDgx", "duration": 4, "description": "Each turn you will want to consider your option and your opponent's options. You'll want to pay particular attention to checks, captures and threats." },
+            { "title": "The Language of Chess", "urlid": "XqeXy2M6DXuDDoY", "duration": 3, "description": "Every square in chess has a name, with vertical files from a-h and horizontal ranks from 1-8. Each move is written with a letter for the piece and the square it moves to. Watch the video for more." },
+            { "title": "Playing a Game", "urlid": "DZKO736GmkFdpA", "duration": 3, "description": "Watch the video for a complete game of chess played with all moves explained." },
+            { "title": "Stalemate", "urlid": "xm4p1LK0pQikbP7", "duration": 3, "description": "Stalemate occurs when there are no possible moves, but neither king is in check. Stalemate is a draw, even if one of the players has many more pieces on the board." },
+            { "title": "Other Draws", "urlid": "Wo4OVvD304UbjYB", "duration": 27, "description": "Chess games can end in draws because of stalemate, an agreement between the players, three repetitions of the same position, or 50 moves without a pawn move or a capture." }
         ]
         }
     ]
@@ -64,11 +64,11 @@
         ],
         "releaseDate": "December 27, 2018",
         "lessons": [
-            { "title": "Control the Center", "duration": 5, "description": "Put your pieces in the ideal position to control the most important part of the board - the center." },
-            { "title": "Develop Your Pieces", "duration": 7, "description": "Take control of the game by developing your pieces rapidly to squares where they control the center." },
-            { "title": "Protect Your King", "duration": 5, "description": "Usually the best way to secure your king is to castle." },
-            { "title": "Active Pieces", "duration": 7, "description": "An active piece has the potential to make many moves. The best way to get pieces active is to move them towards the center of the board." },
-            { "title": "Phases of the Game", "duration": 2, "description": "Chess games typically feature three phases, the opening, the middlegame and the endgame. Watch the video to learn what to focus on during each phase." }
+            { "title": "Control the Center", "urlid": "yxAoyk9A8WSkO9", "duration": 5, "description": "Put your pieces in the ideal position to control the most important part of the board - the center." },
+            { "title": "Develop Your Pieces", "urlid": "0eozpRMK31fbdr8", "duration": 7, "description": "Take control of the game by developing your pieces rapidly to squares where they control the center." },
+            { "title": "Protect Your King", "urlid": "GjJ4x3a8zJh1kRZ", "duration": 5, "description": "Usually the best way to secure your king is to castle." },
+            { "title": "Active Pieces", "urlid": "mgb6dqAJ2rfbYWy", "duration": 7, "description": "An active piece has the potential to make many moves. The best way to get pieces active is to move them towards the center of the board." },
+            { "title": "Phases of the Game", "urlid": "8ZO3OQrwO7UodWl", "duration": 2, "description": "Chess games typically feature three phases, the opening, the middlegame and the endgame. Watch the video to learn what to focus on during each phase." }
         ]
         },
         {
@@ -81,11 +81,11 @@
         ],
         "releaseDate": "December 21, 2018",
         "lessons": [
-            { "title": "The 4-Move Checkmate", "duration": 4, "description": "The four-move checkmate is a common way to win at the beginner level. 1. e4 e5 2. Qh5 Nc6 3.Bc4 with Qxf7# Black can stop it by blocking the white queen from reaching f7." },
-            { "title": "Assisted Checkmates", "duration": 1, "description": "Because the king can't move into check it is often possible to checkmate by placing a queen next to the opponent's king and having the queen defended by another one of your pieces." },
-            { "title": "Checkmate with Two Rooks", "duration": 2, "description": "When you have two rooks or a rook and queen, the pieces can take turns controlling rows on the board until the opposing king runs out of squares. Watch the video for more details." },
-            { "title": "Checkmate with the Queen", "duration": 3, "description": "You can force checkmate with a king and queen against a king. Your queen can force the king to the edge and then your king can help for an assisted checkmate. Watch the video for details." },
-            { "title": "Checkmate with the Rook", "duration": 6, "description": "A king and rook can checkmate a lone king. The simplest mating strategy is known as the box method. Watch the video for details." }
+            { "title": "The 4-Move Checkmate", "urlid": "oZp4XYqAj0SJkPJ", "duration": 4, "description": "The four-move checkmate is a common way to win at the beginner level. 1. e4 e5 2. Qh5 Nc6 3.Bc4 with Qxf7# Black can stop it by blocking the white queen from reaching f7." },
+            { "title": "Assisted Checkmates", "urlid": "lxm4lgP1zKi7p01", "duration": 1, "description": "Because the king can't move into check it is often possible to checkmate by placing a queen next to the opponent's king and having the queen defended by another one of your pieces." },
+            { "title": "Checkmate with Two Rooks", "urlid": "jjA1mwYbeQfmG2", "duration": 2, "description": "When you have two rooks or a rook and queen, the pieces can take turns controlling rows on the board until the opposing king runs out of squares. Watch the video for more details." },
+            { "title": "Checkmate with the Queen", "urlid": "28ldPZdvkkTZMq4", "duration": 3, "description": "You can force checkmate with a king and queen against a king. Your queen can force the king to the edge and then your king can help for an assisted checkmate. Watch the video for details." },
+            { "title": "Checkmate with the Rook", "urlid": "mYY2Dg7GY4Hb9ly", "duration": 6, "description": "A king and rook can checkmate a lone king. The simplest mating strategy is known as the box method. Watch the video for details." }
         ]
         },
         {
@@ -97,15 +97,15 @@
         ],
         "releaseDate": "12/21/2018",
         "lessons": [
-            { "title": "Evaluating Captures", "duration": 3, "description": "Each piece has a numerical value that can help you evaluate whether exchanging it makes sense. Pawns are 1 point, knights are 3 points, bishops are 3 points, rooks are 5 points, queens are 9 points, kings are the whole game!" },
-            { "title": "Tactics and Hanging Pieces", "duration": 3, "description": "Tactics are the types of moves you can use to gain an immediate advantage. Watch out for which pieces are unprotected each turn. If you can capture one, it's usually a good idea!" },
-            { "title": "Counting Captures", "duration": 7, "description": "It's usually a good idea to capture something if you have more attacking pieces than the opponent has defending pieces. That way you will get to make the first and last capture." },
-            { "title": "Forks", "duration": 3, "description": "One way to win material is to attack more than one piece at a time with one of your own. This technique is known as a fork." },
-            { "title": "Pins", "duration": 2, "description": "A pin occurs when a piece is under attack and cannot move without exposing a more valuable piece to capture. An absolute pin occurs when a piece is pinned against a king." },
-            { "title": "Piling Up", "duration": 1, "description": "Once you have pinned a piece, it can't or shouldn't move. Often the best way to take advantage is to add more attacking pieces until the pinned piece can be captured in the best way." },
-            { "title": "Skewers", "duration": 2, "description": "A skewer occurs when one piece attacks an opposing piece, that has a less valuable piece behind it, that can be captured once it moves." },
-            { "title": "Avoiding Bad Trades", "duration": 5, "description": "Don't make the mistake of giving up your good pieces for less valuable ones. It's important that you evaluate all possible captures each turn." },
-            { "title": "Your Opponent's Move", "duration": 8, "description": "It’s important to pay attention to what your opponent is trying to do each turn. Watch the video to learn more about what to watch for." }
+            { "title": "Evaluating Captures", "urlid": "mv39z2apj0h6AD", "duration": 3, "description": "Each piece has a numerical value that can help you evaluate whether exchanging it makes sense. Pawns are 1 point, knights are 3 points, bishops are 3 points, rooks are 5 points, queens are 9 points, kings are the whole game!" },
+            { "title": "Tactics and Hanging Pieces", "urlid": "x1qJbvqpedIk4Yd", "duration": 3, "description": "Tactics are the types of moves you can use to gain an immediate advantage. Watch out for which pieces are unprotected each turn. If you can capture one, it's usually a good idea!" },
+            { "title": "Counting Captures", "urlid": "abwy22dRG1uzx4", "duration": 7, "description": "It's usually a good idea to capture something if you have more attacking pieces than the opponent has defending pieces. That way you will get to make the first and last capture." },
+            { "title": "Forks", "urlid": "9lg1RKwJQvH1kg", "duration": 3, "description": "One way to win material is to attack more than one piece at a time with one of your own. This technique is known as a fork." },
+            { "title": "Pins", "urlid": "k9qlGKBJZWiOVQY", "duration": 2, "description": "A pin occurs when a piece is under attack and cannot move without exposing a more valuable piece to capture. An absolute pin occurs when a piece is pinned against a king." },
+            { "title": "Piling Up", "urlid": "b1MapAro7OFPygj", "duration": 1, "description": "Once you have pinned a piece, it can't or shouldn't move. Often the best way to take advantage is to add more attacking pieces until the pinned piece can be captured in the best way." },
+            { "title": "Skewers", "urlid": "kooqz7qmgxTOqLD", "duration": 2, "description": "A skewer occurs when one piece attacks an opposing piece, that has a less valuable piece behind it, that can be captured once it moves." },
+            { "title": "Avoiding Bad Trades", "urlid": "AJKOd9dA1qC4De", "duration": 5, "description": "Don't make the mistake of giving up your good pieces for less valuable ones. It's important that you evaluate all possible captures each turn." },
+            { "title": "Your Opponent's Move", "urlid": "2bv0mRD362Ijjw", "duration": 8, "description": "It’s important to pay attention to what your opponent is trying to do each turn. Watch the video to learn more about what to watch for." }
         ]
         },
         {
@@ -117,12 +117,12 @@
         ],
         "releaseDate": "12/26/2018",
         "lessons": [
-            { "title": "Pawn Race", "duration": 4, "description": "When both sides only have kings and pawns it's essential to count how many moves each side will take to promote. Usually whoever gets there first will win the game!" },
-            { "title": "Back Rank Checkmates", "duration": 3, "description": "Castling is a good idea, but if the king is on the back rank without other pieces to defend it, it may be vulnerable to a back rank checkmate from a rook or queen." },
-            { "title": "Weak Targets: f2 and f7", "duration": 3, "description": "The f2- and f7- pawns are only defended by the king in the starting position, so they can be subject to attack. A good defensive idea is to castle so that your rook defends the f-pawn." },
-            { "title": "King Safety", "duration": 3, "description": "Never forget to protect your most important piece, the king. A material advantage doesn't matter if there's a checkmate. Be careful to defend potential checkmating squares near your king." },
-            { "title": "Don't Just Check", "duration": 4, "description": "Make sure that a check accomplishes a goal, like helping to mate or preventing your opponent from castling." },
-            { "title": "Checkmate in 2 Moves", "duration": 3, "description": "It's helpful to look at all of the checks for each side and see if there are checkmates or other tactics available on the next move." }
+            { "title": "Pawn Race", "urlid": "Q2wbVmXKgGi0xvb", "duration": 4, "description": "When both sides only have kings and pawns it's essential to count how many moves each side will take to promote. Usually whoever gets there first will win the game!" },
+            { "title": "Back Rank Checkmates", "urlid": "A413z4b8QqUXq1z", "duration": 3, "description": "Castling is a good idea, but if the king is on the back rank without other pieces to defend it, it may be vulnerable to a back rank checkmate from a rook or queen." },
+            { "title": "Weak Targets: f2 and f7", "urlid": "MeK0JvYxYlCm26o", "duration": 3, "description": "The f2- and f7- pawns are only defended by the king in the starting position, so they can be subject to attack. A good defensive idea is to castle so that your rook defends the f-pawn." },
+            { "title": "King Safety", "urlid": "AKmamP8bmzfX89o" ,"duration": 3, "description": "Never forget to protect your most important piece, the king. A material advantage doesn't matter if there's a checkmate. Be careful to defend potential checkmating squares near your king." },
+            { "title": "Don't Just Check", "urlid": "qWPkda7XY9tzBel", "duration": 4, "description": "Make sure that a check accomplishes a goal, like helping to mate or preventing your opponent from castling." },
+            { "title": "Checkmate in 2 Moves", "urlid": "1zR32qAK7Jtejjx", "duration": 3, "description": "It's helpful to look at all of the checks for each side and see if there are checkmates or other tactics available on the next move." }
         ]
         },
         {
@@ -134,11 +134,11 @@
         ],
         "releaseDate": "12/27/2018",
         "lessons": [
-            { "title": "e4 Openings for Beginners", "duration": 6, "description": "One of the most common opening moves is 1.e4. Black's most solid response is 1...e5. The game frequently continues with 2.Nf3 Nc6 and then one of three main moves, Bc4, Bb5 or d4." },
-            { "title": "d4 Openings for Beginners", "duration": 3, "description": "1.d4 is the second most popular way to start the game. One of the main openings after d4 is the Queen's Gambit, which goes 1.d4 d5 2.c4 e6 (or c6)." },
-            { "title": "Defending Against e4: e5 and the Sicilian", "duration": 6, "description": "The most common responses to 1.e4 are those that guard the d4 square. Black usually plays 1...e5 or 1...c5 to prevent White from reaching a solid two-pawn center." },
-            { "title": "Defending Against e4: French, Caro-Kann, Scandinavian", "duration": 3, "description": "If Black meets 1.e4 with a move other than e5 or c5, the main idea will be to place a pawn on d5. The most common plan is 1...e6 or 1..c6 to prepare d5 on the next move." },
-            { "title": "Defending Against d4: d5 and Nf6", "duration": 3, "description": "When playing against 1.d4 most players prevent White from playing e4 with 1...Nf6 or 1...d5." }
+            { "title": "e4 Openings for Beginners", "urlid": "ZJM8QoA0YmUqqvx", "duration": 6, "description": "One of the most common opening moves is 1.e4. Black's most solid response is 1...e5. The game frequently continues with 2.Nf3 Nc6 and then one of three main moves, Bc4, Bb5 or d4." },
+            { "title": "d4 Openings for Beginners", "urlid": "Y6bxDMzm6yTv8Gx", "duration": 3, "description": "1.d4 is the second most popular way to start the game. One of the main openings after d4 is the Queen's Gambit, which goes 1.d4 d5 2.c4 e6 (or c6)." },
+            { "title": "Defending Against e4: e5 and the Sicilian", "urlid": "kPPMyB17O1SOL4b", "duration": 6, "description": "The most common responses to 1.e4 are those that guard the d4 square. Black usually plays 1...e5 or 1...c5 to prevent White from reaching a solid two-pawn center." },
+            { "title": "Defending Against e4: French, Caro-Kann, Scandinavian", "urlid": "eKpJoYjrWYSJBj", "duration": 3, "description": "If Black meets 1.e4 with a move other than e5 or c5, the main idea will be to place a pawn on d5. The most common plan is 1...e6 or 1..c6 to prepare d5 on the next move." },
+            { "title": "Defending Against d4: d5 and Nf6", "urlid": "lPw7ZK1OwYhbG9", "duration": 3, "description": "When playing against 1.d4 most players prevent White from playing e4 with 1...Nf6 or 1...d5." }
         ]
         }
     ]

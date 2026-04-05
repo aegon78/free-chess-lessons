@@ -10,7 +10,7 @@ async function initWatchPage(){
             unit.lessons.forEach(lesson =>{
                 const currentLesson = lesson.title.toLowerCase().replace(/\s+/g, '-')
                 if(currentLesson === lessonSlug){
-                    renderWatch(level, unit, lesson)
+                    renderWatch(lesson)
                 }
             })
         })
@@ -19,13 +19,13 @@ async function initWatchPage(){
 
 initWatchPage()
 
-function renderWatch(level, unit, lesson){
+function renderWatch(lesson){
     const mainContainer = document.querySelector('.main-container')
     
     const videoContainer = document.createElement('div')
     videoContainer.classList.add('video-container')
     videoContainer.innerHTML = `
-        <iframe src="https://streamtape.com/e/${lesson.url}/" allowfullscreen allow="autoplay" scrolling="no"></iframe>
+        <iframe src="https://streamtape.com/e/${lesson.urlid}/" allowfullscreen allow="autoplay" scrolling="no"></iframe>
     `
     //info section (title, coach section...)
     const videoInfoContainer = document.createElement('div')
