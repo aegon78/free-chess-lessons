@@ -45,7 +45,7 @@
             { "title": "The Language of Chess", "urlid": "XqeXy2M6DXuDDoY", "duration": 3, "description": "Every square in chess has a name, with vertical files from a-h and horizontal ranks from 1-8. Each move is written with a letter for the piece and the square it moves to. Watch the video for more." },
             { "title": "Playing a Game", "urlid": "DZKO736GmkFdpA", "duration": 3, "description": "Watch the video for a complete game of chess played with all moves explained." },
             { "title": "Stalemate", "urlid": "xm4p1LK0pQikbP7", "duration": 3, "description": "Stalemate occurs when there are no possible moves, but neither king is in check. Stalemate is a draw, even if one of the players has many more pieces on the board." },
-            { "title": "Other Draws", "urlid": "Wo4OVvD304UbjYB", "duration": 27, "description": "Chess games can end in draws because of stalemate, an agreement between the players, three repetitions of the same position, or 50 moves without a pawn move or a capture." }
+            { "title": "Other Draws", "urlid": "Wo4OVvD304UbjYB", "duration": 1, "description": "Chess games can end in draws because of stalemate, an agreement between the players, three repetitions of the same position, or 50 moves without a pawn move or a capture." }
         ]
         }
     ]
@@ -156,13 +156,13 @@
         ],
         "releaseDate": "12/29/2018",
         "lessons": [
-            { "title": "Using Your Knights", "duration": 3, "description": "Knights are best in the center, where they can control up to eight squares.  Knights work well with queens and also do a good job blocking pawns." },
-            { "title": "Using Your Bishops", "duration": 2, "description": "Bishops are most useful when controlling long, unblocked diagonals. Bishops are particularly useful when you have both of them, so they can control both light and dark squares." },
-            { "title": "Using Your Rooks", "duration": 1, "description": "Place rooks on semi-open files, attacking opposing pawns, or defending your pawns. Rooks are effective in batteries, working together on an open rank or file, especially the 7th rank." },
-            { "title": "Using Your Queen", "duration": 2, "description": "Queens are very powerful, but you must be careful not to lose her for less valuable pieces. For that reason, queens often develop a little later than other pieces." },
-            { "title": "Using Your King", "duration": 4, "description": "Early in the game you will want to castle the king to safety. In the endgame, you want to use the king to help escort pawns up the board. When it’s safe, the king can be a strong piece!" },
-            { "title": "Using Your Pawns", "duration": 2, "description": "Pawns can control key squares, protect pieces, attack the opposing king, and can promote in the endgame." },
-            { "title": "Pieces Working Together", "duration": 4, "description": "Like in team sports, all of your pieces should work together for success in chess! One powerful piece will not be able to compete with many pieces working together." }
+            { "title": "Using Your Knights", "urlid": "Jv8GVDBGBLTjqg4", "duration": 3, "description": "Knights are best in the center, where they can control up to eight squares.  Knights work well with queens and also do a good job blocking pawns." },
+            { "title": "Using Your Bishops", "urlid": "vljP0q27OeH4p9p", "duration": 2, "description": "Bishops are most useful when controlling long, unblocked diagonals. Bishops are particularly useful when you have both of them, so they can control both light and dark squares." },
+            { "title": "Using Your Rooks", "urlid": "AJbjp1leDDIXKy0", "duration": 1, "description": "Place rooks on semi-open files, attacking opposing pawns, or defending your pawns. Rooks are effective in batteries, working together on an open rank or file, especially the 7th rank." },
+            { "title": "Using Your Queen", "urlid": "8qxGyezOZvTodwQ", "duration": 2, "description": "Queens are very powerful, but you must be careful not to lose her for less valuable pieces. For that reason, queens often develop a little later than other pieces." },
+            { "title": "Using Your King", "urlid": "MqdYAj0PemU0K3", "duration": 4, "description": "Early in the game you will want to castle the king to safety. In the endgame, you want to use the king to help escort pawns up the board. When it’s safe, the king can be a strong piece!" },
+            { "title": "Using Your Pawns", "urlid": "Kk3dBkjpM1Iz12", "duration": 2, "description": "Pawns can control key squares, protect pieces, attack the opposing king, and can promote in the endgame." },
+            { "title": "Pieces Working Together", "urlid": "rAz4BXvKxPubBOp", "duration": 4, "description": "Like in team sports, all of your pieces should work together for success in chess! One powerful piece will not be able to compete with many pieces working together." }
         ]
         },
         {
@@ -174,13 +174,13 @@
         ],
         "releaseDate": "12/21/2018",
         "lessons": [
-            { "title": "Passed Pawns", "duration": 2, "description": "A pawn with no opposing pawns that could ever block or capture it is useful because it is likely to promote in an endgame." },
-            { "title": "Escort the Pawn", "duration": 4, "description": "Your pawns can't always make it on their own, so use your king to help. A kings can effectively prevent the opposing king from blocking or capturing your passed pawn." },
-            { "title": "Sacrificing to Promote", "duration": 3, "description": "Is there a pawn blocking your path to promotion? Sacrifice material to break through. In the endgame, promoting is the most important goal, and sacrifices to accomplish it are worthwhile." },
-            { "title": "3 vs 3 Pawn Breakthrough", "duration": 3, "description": "Watch out for pawn moves, even sacrifices that can help you create a passed pawn. Often sacrifices can help you promote. A new queen is worth much more than one or two pawns." },
-            { "title": "Exchanging Down to a Win", "duration": 3, "description": "A great reason to exchange pieces is when you are ahead in material. In that case, trades will simplify the game and make it easier for you to convert your advantage into a win." },
-            { "title": "Rule of the Square", "duration": 3, "description": "Save yourself a lot of worry and calculation by learning one simple endgame trick. Watch the video to learn how to tell if a pawn can promote in the endgame." },
-            { "title": "Creating a Passed Pawn", "duration": 3, "description": "Gain the winning advantage by creating a passed pawn. Often you can make trades or sacrifices to create the passed pawn. Always keep an eye out for these opportunities." }
+            { "title": "Passed Pawns", "urlid": "bRbpMZwJ6dtPV4A", "duration": 2, "description": "A pawn with no opposing pawns that could ever block or capture it is useful because it is likely to promote in an endgame." },
+            { "title": "Escort the Pawn", "urlid": "B48Q9AJz3vTyoy8", "duration": 4, "description": "Your pawns can't always make it on their own, so use your king to help. A kings can effectively prevent the opposing king from blocking or capturing your passed pawn." },
+            { "title": "Sacrificing to Promote", "urlid": "kPwXRQZjobTOl73", "duration": 3, "description": "Is there a pawn blocking your path to promotion? Sacrifice material to break through. In the endgame, promoting is the most important goal, and sacrifices to accomplish it are worthwhile." },
+            { "title": "3 vs 3 Pawn Breakthrough", "urlid": "dRwQepW0rkHky8M", "duration": 3, "description": "Watch out for pawn moves, even sacrifices that can help you create a passed pawn. Often sacrifices can help you promote. A new queen is worth much more than one or two pawns." },
+            { "title": "Exchanging Down to a Win", "urlid": "ApMzKm6jxyuXLva", "duration": 3, "description": "A great reason to exchange pieces is when you are ahead in material. In that case, trades will simplify the game and make it easier for you to convert your advantage into a win." },
+            { "title": "Rule of the Square", "urlid": "dZ3VwoxljBCg4O", "duration": 3, "description": "Save yourself a lot of worry and calculation by learning one simple endgame trick. Watch the video to learn how to tell if a pawn can promote in the endgame." },
+            { "title": "Creating a Passed Pawn", "urlid": "BXXg23o8qehy4VL", "duration": 3, "description": "Gain the winning advantage by creating a passed pawn. Often you can make trades or sacrifices to create the passed pawn. Always keep an eye out for these opportunities." }
         ]
         },
         {
@@ -192,16 +192,16 @@
         ],
         "releaseDate": "12/21/2018",
         "lessons": [
-            { "title": "Sacrificing to Win", "duration": 4, "description": "Don't be afraid to give up your pieces if it ultimately leads to winning the game. Pay particular attention to checks, captures, and threats." },
-            { "title": "Trapped Piece", "duration": 2, "description": "With the right pawn moves, you can take away your opponent's safe squares. Even queens are vulnerable to being trapped because any trade for a lesser piece is dangerous." },
-            { "title": "Discovered Attack", "duration": 3, "description": "A discovered attack occurs when you move one piece to reveal an attack from a piece behind it. These moves can be very powerful because the opponent can only move one piece at a time." },
-            { "title": "Discovered Check", "duration": 3, "description": "The discovered check is a powerful type of discovered attack. Because the attack is against the king, you get a free move with the piece you are moving to attack or capture an opposing piece." },
-            { "title": "Double Check", "duration": 2, "description": "A double check is the most forcing move in chess. You make a double check by using a discovered check and also checking with the piece that you move." },
-            { "title": "Remove the Defender", "duration": 2, "description": "Often the opponent defends against a threat with one piece, but that piece can be captured or threatened. If you can capture a defender, then what it was guarding will no longer be protected." },
-            { "title": "Smothered Mate", "duration": 5, "description": "When a knight checkmates a king, which is surrounded by its own pieces, it's called a smothered mate." },
-            { "title": "Deflection", "duration": 3, "description": "Deflection is the tactic of removing a defender by making it move to another square. Often this involves a sacrifice that will be worth it for checkmate or greater material gains." },
-            { "title": "Decoy", "duration": 2, "description": "Decoy is a tactic where you force a piece to a square that it doesn't want to be on. This can be used to remove a defender, lure a piece into a fork or even lure a king into checkmate." },
-            { "title": "Desperado and Zwischenzug", "duration": 3, "description": "Zwischenzug is German for \"in-between move.\" Desperado is a sacrifice of a piece that’s going to be captured anyway. Watch the video for more details." }
+            { "title": "Sacrificing to Win", "urlid": "eq2g9vJrMLFYqam", "duration": 4, "description": "Don't be afraid to give up your pieces if it ultimately leads to winning the game. Pay particular attention to checks, captures, and threats." },
+            { "title": "Trapped Piece", "urlid": "MzkGBQzMDwtmjA1", "duration": 2, "description": "With the right pawn moves, you can take away your opponent's safe squares. Even queens are vulnerable to being trapped because any trade for a lesser piece is dangerous." },
+            { "title": "Discovered Attack", "urlid": "A6LOPw77LlIXrda", "duration": 3, "description": "A discovered attack occurs when you move one piece to reveal an attack from a piece behind it. These moves can be very powerful because the opponent can only move one piece at a time." },
+            { "title": "Discovered Check", "urlid": "Q0a4j8mZkYf01qj", "duration": 3, "description": "The discovered check is a powerful type of discovered attack. Because the attack is against the king, you get a free move with the piece you are moving to attack or capture an opposing piece." },
+            { "title": "Double Check", "urlid": "rBY1LYx44MHbb8g", "duration": 2, "description": "A double check is the most forcing move in chess. You make a double check by using a discovered check and also checking with the piece that you move." },
+            { "title": "Remove the Defender", "urlid": "ZbpyJ4140Kiq93X", "duration": 2, "description": "Often the opponent defends against a threat with one piece, but that piece can be captured or threatened. If you can capture a defender, then what it was guarding will no longer be protected." },
+            { "title": "Smothered Mate", "urlid": "d3OdmwkjpXskR2Z", "duration": 5, "description": "When a knight checkmates a king, which is surrounded by its own pieces, it's called a smothered mate." },
+            { "title": "Deflection", "urlid": "1DlMO68QzlUePxg", "duration": 3, "description": "Deflection is the tactic of removing a defender by making it move to another square. Often this involves a sacrifice that will be worth it for checkmate or greater material gains." },
+            { "title": "Decoy", "urlid": "aVj9MM1d1xS0o7", "duration": 2, "description": "Decoy is a tactic where you force a piece to a square that it doesn't want to be on. This can be used to remove a defender, lure a piece into a fork or even lure a king into checkmate." },
+            { "title": "Desperado and Zwischenzug", "urlid": "G2oolbj93bu1kXB", "duration": 3, "description": "Zwischenzug is German for \"in-between move.\" Desperado is a sacrifice of a piece that’s going to be captured anyway. Watch the video for more details." }
         ]
         },
         {
@@ -213,11 +213,11 @@
         ],
         "releaseDate": "12/28/2018",
         "lessons": [
-            { "title": "Powerful Moves", "duration": 3, "description": "Forcing moves are checks, threats, and captures. Those are moves that the opponent must respond to immediately in order to avoid losing material or the game." },
-            { "title": "Combinations", "duration": 2, "description": "You've learned a lot of tactics - now put them together in powerful combinations. Combinations are a series of forcing moves, often involving sacrifices, that can help to win the game." },
-            { "title": "Checkmate in 3 Moves", "duration": 4, "description": "Look deeper into the position and find forced checkmate in 3 moves. This means three of your moves and two of your opponent's moves." },
-            { "title": "Queen Sacrifices", "duration": 6, "description": "A queen sacrifice is always worth it if you can force checkmate. Sometimes it's also worthwhile if you have good compensation in the form of other well-coordinated pieces." },
-            { "title": "Saving Draws", "duration": 3, "description": "If you are losing, look for ways that you can give up material to force a draw. Try looking for ways to create stalemate, perpetual check or insufficient mating material." }
+            { "title": "Powerful Moves", "urlid": "9q4DwvBYJYsO99", "duration": 3, "description": "Forcing moves are checks, threats, and captures. Those are moves that the opponent must respond to immediately in order to avoid losing material or the game." },
+            { "title": "Combinations", "urlid": "XoPzppagrbUDaWB", "duration": 2, "description": "You've learned a lot of tactics - now put them together in powerful combinations. Combinations are a series of forcing moves, often involving sacrifices, that can help to win the game." },
+            { "title": "Checkmate in 3 Moves", "urlid": "JK4xo78ABbuj8Ro", "duration": 4, "description": "Look deeper into the position and find forced checkmate in 3 moves. This means three of your moves and two of your opponent's moves." },
+            { "title": "Queen Sacrifices", "urlid": "ag4BMbBKkZhxLjy", "duration": 6, "description": "A queen sacrifice is always worth it if you can force checkmate. Sometimes it's also worthwhile if you have good compensation in the form of other well-coordinated pieces." },
+            { "title": "Saving Draws", "urlid": "0JQYDXX6xlib12X", "duration": 3, "description": "If you are losing, look for ways that you can give up material to force a draw. Try looking for ways to create stalemate, perpetual check or insufficient mating material." }
         ]
         },
         {
@@ -229,13 +229,13 @@
         ],
         "releaseDate": "12/21/2018",
         "lessons": [
-            { "title": "Pawn Structures", "duration": 3, "description": "Connected pawns can defend each other as they advance. Doubled pawns block each other. Pawns, with no other pawns next to them are isolated and are frequently easy to attack." },
-            { "title": "Pawn Chains", "duration": 5, "description": "A group of pawns that protect each other on a diagonal is called a pawn chain. The only unprotected pawn in the chain is the base pawn at the back." },
-            { "title": "Space", "duration": 4, "description": "The more space you control on the board, the more room your pieces have to maneuver, and the less space your opponent has. A great way to claim space is to put your pawns in the center." },
-            { "title": "Open, Closed, Semi-open Games", "duration": 7, "description": "There are three main categories of positions, in terms of how blocked they are, open, closed, and semi-open. Watch the video to learn how each of these affects your strategy." },
-            { "title": "Push, Capture, or Ignore", "duration": 4, "description": "Learn how to deal with pawn tension and decide when to push, capture, or play elsewhere." },
-            { "title": "When to Trade Pieces", "duration": 5, "description": "It's usually helpful to trade if you can get ahead but what should you do if a potential trade doesn't gain or lose material? Watch the video for insights." },
-            { "title": "Advanced Chess Notation", "duration": 12, "description": "Beyond basic notation, there are a few key symbols to know. Watch the video for more details." }
+            { "title": "Pawn Structures", "urlid": "7m37M06AYBIApAa", "duration": 3, "description": "Connected pawns can defend each other as they advance. Doubled pawns block each other. Pawns, with no other pawns next to them are isolated and are frequently easy to attack." },
+            { "title": "Pawn Chains", "urlid": "z7Lg2LAPjQtYjek", "duration": 5, "description": "A group of pawns that protect each other on a diagonal is called a pawn chain. The only unprotected pawn in the chain is the base pawn at the back." },
+            { "title": "Space", "urlid": "7bqA2m8lDAsV78", "duration": 4, "description": "The more space you control on the board, the more room your pieces have to maneuver, and the less space your opponent has. A great way to claim space is to put your pawns in the center." },
+            { "title": "Open, Closed, Semi-open Games", "urlid": "4BrQgvpzY0uKlMm", "duration": 7, "description": "There are three main categories of positions, in terms of how blocked they are, open, closed, and semi-open. Watch the video to learn how each of these affects your strategy." },
+            { "title": "Push, Capture, or Ignore", "urlid": "olpbLPy4x0FdKV", "duration": 4, "description": "Learn how to deal with pawn tension and decide when to push, capture, or play elsewhere." },
+            { "title": "When to Trade Pieces", "urlid": "xrl9Yer8LqtkOrY", "duration": 5, "description": "It's usually helpful to trade if you can get ahead but what should you do if a potential trade doesn't gain or lose material? Watch the video for insights." },
+            { "title": "Advanced Chess Notation", "urlid": "1pDxPvv09jUekMW", "duration": 12, "description": "Beyond basic notation, there are a few key symbols to know. Watch the video for more details." }
         ]
         }
     ]
@@ -253,14 +253,14 @@
         ],
         "releaseDate": "12/27/2018",
         "lessons": [
-            { "title": "Offbeat Openings", "duration": 6, "description": "Not all games start with 1.e4 or 1.d4. Learn about White’s less common options like 1.c4, 1.f4, 1.b4, and others." },
-            { "title": "Popular e4 Openings","duration": 6, "description": "Explore the ideas behind some of the main 1. e4 openings. 1. e4 e5 2. Nf3 Nc6 3.Bc4 is the Italian Opening. 3. Bb5 is the popular Ruy Lopez." },
-            { "title": "Popular e4 Defenses: The Sicilian", "duration": 4, "description": "The Sicilian Defense, 1...c5 is a popular reply to 1.e4. The game frequently reaches the Open Sicilian when White plays 2. Nf3 and 3.d4, leading to a complicated game." },
-            { "title": "Popular e4 Defenses: French and Caro-Kann", "duration": 4, "description": "If you want a solid game with Black against. 1. e4, you need to know the French and Caro Kann. Black supports the d7-d5 push with either 1...e6 (the French) or 1...c6 (the Caro Kann)." },
-            { "title": "Popular d4 Openings", "duration": 8, "description": "1.d4 is the second most popular way to start the game. One of the main openings after d4 is the Queen's Gambit, which goes 1.d4 d5 2.c4 e6 (or c6)." },
-            { "title": "Popular d4 Defenses: Nf6 and the Dutch","duration": 7,"description": "The most popular response to 1. d4 is 1...Nf6, which develops and prevents White from playing e4." },
-            { "title": "Gambits", "duration": 7, "description": "Sometimes giving up a pawn or two can accelerate development and create a sharp game. This is risky, but can lead to great attacking play." },
-            { "title": "Opening Traps", "duration": 8, "description": "Everyone should know a few opening traps so they don't lose the game in the first few moves. Learn some traps to watch out for." }
+            { "title": "Offbeat Openings", "urlid": "gqqVbG3RgqUq2Pm", "duration": 6, "description": "Not all games start with 1.e4 or 1.d4. Learn about White’s less common options like 1.c4, 1.f4, 1.b4, and others." },
+            { "title": "Popular e4 Openings", "urlid": "bpYj1KwVb4FL2e","duration": 6, "description": "Explore the ideas behind some of the main 1. e4 openings. 1. e4 e5 2. Nf3 Nc6 3.Bc4 is the Italian Opening. 3. Bb5 is the popular Ruy Lopez." },
+            { "title": "Popular e4 Defenses: The Sicilian", "urlid": "D98qARp00oskKO0", "duration": 4, "description": "The Sicilian Defense, 1...c5 is a popular reply to 1.e4. The game frequently reaches the Open Sicilian when White plays 2. Nf3 and 3.d4, leading to a complicated game." },
+            { "title": "Popular e4 Defenses: French and Caro-Kann", "urlid": "abjWx1lZ1JixjXw", "duration": 4, "description": "If you want a solid game with Black against. 1. e4, you need to know the French and Caro Kann. Black supports the d7-d5 push with either 1...e6 (the French) or 1...c6 (the Caro Kann)." },
+            { "title": "Popular d4 Openings", "urlid": "JwwByj8pv4uj8oa", "duration": 8, "description": "1.d4 is the second most popular way to start the game. One of the main openings after d4 is the Queen's Gambit, which goes 1.d4 d5 2.c4 e6 (or c6)." },
+            { "title": "Popular d4 Defenses: Nf6 and the Dutch", "urlid": "jbLPMYGZjxTDab", "duration": 7,"description": "The most popular response to 1. d4 is 1...Nf6, which develops and prevents White from playing e4." },
+            { "title": "Gambits", "urlid": "bqbej7x474cPewZ", "duration": 7, "description": "Sometimes giving up a pawn or two can accelerate development and create a sharp game. This is risky, but can lead to great attacking play." },
+            { "title": "Opening Traps", "urlid": "lWB1VJz86dcBjX", "duration": 8, "description": "Everyone should know a few opening traps so they don't lose the game in the first few moves. Learn some traps to watch out for." }
 
         ]
         },
@@ -273,14 +273,14 @@
         ],
         "releaseDate": "12/24/2018",
         "lessons": [
-            { "title": "How to Choose a Move", "duration": 6, "description": "It's helpful to look at forcing options for both sides when you decide on a move. That way you'll usually be able to spot important attacking ideas for yourself and your opponent." },
-            { "title": "Making a Plan", "duration": 10, "description": "When you don't know what to do, one good idea is to find your worst placed piece and improve it. Once all of your pieces are on good squares, there's more likely to be a tactical way to win material." },
-            { "title": "Positional Play", "duration": 7, "description": "Tactics are important, but they're usually available to the person who has the best position. Focus on activating all of your pieces, controlling the center, and safeguarding your king." },
-            { "title": "Good & Bad Pieces", "duration": 6, "description": "Good pieces are active and have a purpose. A bad piece has limited mobility and doesn't attack anything. You want to make your pieces active, and trade off pieces that you can't make good." },
-            { "title": "Playing a Bad Position", "duration": 8, "description": "Bad positions don't have to be losing positions - be tenacious and avoid creating additional weaknesses. Also, try to find active counterplay." },
-            { "title": "When You're Losing", "duration": 8, "description": "A losing position isn't always lost - keep a positive attitude and look for your chances. Try to make the position complicated and avoid even trades." },
-            { "title": "Winning the Won Game", "duration": 9, "description": "When you are in a winning position, it's important to keep in mind what your opponent can do to cause trouble. Watch for counterplay and look for chances to simplify the position." }, 
-            { "title": "Overcoming Your Emotions", "duration": 11, "description": "It's important to stay focused on the chess factors in the position and not get distracted by other thoughts like your tournament standing, or the opponent's rating." }
+            { "title": "How to Choose a Move", "urlid": "78RMLb4LOXSVqo", "duration": 6, "description": "It's helpful to look at forcing options for both sides when you decide on a move. That way you'll usually be able to spot important attacking ideas for yourself and your opponent." },
+            { "title": "Making a Plan", "urlid": "pMd3JM3dmxHA0R", "duration": 10, "description": "When you don't know what to do, one good idea is to find your worst placed piece and improve it. Once all of your pieces are on good squares, there's more likely to be a tactical way to win material." },
+            { "title": "Positional Play", "urlid": "oAmmzjDZGXHJmDx", "duration": 7, "description": "Tactics are important, but they're usually available to the person who has the best position. Focus on activating all of your pieces, controlling the center, and safeguarding your king." },
+            { "title": "Good & Bad Pieces", "urlid": "v2d8JvAGy9u4XaW", "duration": 6, "description": "Good pieces are active and have a purpose. A bad piece has limited mobility and doesn't attack anything. You want to make your pieces active, and trade off pieces that you can't make good." },
+            { "title": "Playing a Bad Position", "urlid": "owyWAAyLQ0sJzm3", "duration": 8, "description": "Bad positions don't have to be losing positions - be tenacious and avoid creating additional weaknesses. Also, try to find active counterplay." },
+            { "title": "When You're Losing", "urlid": "PLxqr9BlYDtbDm", "duration": 8, "description": "A losing position isn't always lost - keep a positive attitude and look for your chances. Try to make the position complicated and avoid even trades." },
+            { "title": "Winning the Won Game", "urlid": "0ej210aakOcbog3", "duration": 9, "description": "When you are in a winning position, it's important to keep in mind what your opponent can do to cause trouble. Watch for counterplay and look for chances to simplify the position." }, 
+            { "title": "Overcoming Your Emotions", "urlid": "gPQ30oLp4PtJA9", "duration": 11, "description": "It's important to stay focused on the chess factors in the position and not get distracted by other thoughts like your tournament standing, or the opponent's rating." }
         ]
         },
         {
@@ -292,16 +292,16 @@
         ],
         "releaseDate": "12/27/2018",
         "lessons": [
-            { "title": "Breakthrough", "duration": 7, "description": "Often the way to win a game is to promote a pawn. Since a new queen is so valuable, it's usually worth sacrificing a piece or two to promote a pawn if at all possible." },
-            { "title": "Pawns in the Middlegame", "duration": 7, "description": "In the middlegame, you can often tell where to attack based on where your pawns are pointing and where you have a majority. Watch the video to learn more." },
-            { "title": "Blockading Pawns", "duration": 5, "description": "Passed pawns can be deadly, so you need to keep them blockaded. Knights are great blockading pieces because they can jump over the pawn and remain active." },
-            { "title": "Isolated and Hanging Pawns", "duration": 7, "description": "Isolated pawns are easy to attack because other pawns can't defend them. Hanging pawns are two pawns together, with no pawns on either side. Watch the video to learn more." },
-            { "title": "Outposts", "duration": 6, "description": "An outpost is a square for a piece that cannot be attacked by an opposing pawn. In particular, it helps when that square is defended by one of your pawns and controls key squares in the opponent's position." },
-            { "title": "Using the Bishop Pair", "duration": 6, "description": "Bishops are strong in open positions and particularly powerful when you have both of them." },
-            { "title": "Bishops vs Knights", "duration": 8, "description": "The bishop vs. knight rivalry is one of the greatest battles in chess. Bishops are fast and powerful in open positions while knights thrive in closed positions." },
-            { "title": "Batteries", "duration": 9, "description": "Unlock the full potential of your long-range pieces by focusing them on the same lines. A battery is when two or more pieces work together on a rank, file, or diagonal." },
-            { "title": "Pigs on the 7th Rank", "duration": 5, "description": "One of the most powerful batteries in chess is two rooks on the 7th rank. They're called pigs on the 7th because they can capture everything in their path." },
-            { "title": "Windmill", "duration": 6, "description": "The windmill is a rare, but powerful tactic that occurs when you can repeat a discovered check multiple times, like the blades on a windmill spinning around." }
+            { "title": "Breakthrough", "urlid": "lWB1VJz86dcBjX", "duration": 7, "description": "Often the way to win a game is to promote a pawn. Since a new queen is so valuable, it's usually worth sacrificing a piece or two to promote a pawn if at all possible." },
+            { "title": "Pawns in the Middlegame", "urlid": "lWB1VJz86dcBjX", "duration": 7, "description": "In the middlegame, you can often tell where to attack based on where your pawns are pointing and where you have a majority. Watch the video to learn more." },
+            { "title": "Blockading Pawns", "urlid": "lWB1VJz86dcBjX", "duration": 5, "description": "Passed pawns can be deadly, so you need to keep them blockaded. Knights are great blockading pieces because they can jump over the pawn and remain active." },
+            { "title": "Isolated and Hanging Pawns", "urlid": "lWB1VJz86dcBjX", "duration": 7, "description": "Isolated pawns are easy to attack because other pawns can't defend them. Hanging pawns are two pawns together, with no pawns on either side. Watch the video to learn more." },
+            { "title": "Outposts", "urlid": "lWB1VJz86dcBjX", "duration": 6, "description": "An outpost is a square for a piece that cannot be attacked by an opposing pawn. In particular, it helps when that square is defended by one of your pawns and controls key squares in the opponent's position." },
+            { "title": "Using the Bishop Pair", "urlid": "lWB1VJz86dcBjX", "duration": 6, "description": "Bishops are strong in open positions and particularly powerful when you have both of them." },
+            { "title": "Bishops vs Knights", "urlid": "lWB1VJz86dcBjX", "duration": 8, "description": "The bishop vs. knight rivalry is one of the greatest battles in chess. Bishops are fast and powerful in open positions while knights thrive in closed positions." },
+            { "title": "Batteries", "urlid": "lWB1VJz86dcBjX", "duration": 9, "description": "Unlock the full potential of your long-range pieces by focusing them on the same lines. A battery is when two or more pieces work together on a rank, file, or diagonal." },
+            { "title": "Pigs on the 7th Rank", "urlid": "lWB1VJz86dcBjX", "duration": 5, "description": "One of the most powerful batteries in chess is two rooks on the 7th rank. They're called pigs on the 7th because they can capture everything in their path." },
+            { "title": "Windmill", "urlid": "lWB1VJz86dcBjX", "duration": 6, "description": "The windmill is a rare, but powerful tactic that occurs when you can repeat a discovered check multiple times, like the blades on a windmill spinning around." }
         ]
         },
         {
