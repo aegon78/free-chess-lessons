@@ -292,16 +292,16 @@
         ],
         "releaseDate": "12/27/2018",
         "lessons": [
-            { "title": "Breakthrough", "urlid": "lWB1VJz86dcBjX", "duration": 7, "description": "Often the way to win a game is to promote a pawn. Since a new queen is so valuable, it's usually worth sacrificing a piece or two to promote a pawn if at all possible." },
-            { "title": "Pawns in the Middlegame", "urlid": "lWB1VJz86dcBjX", "duration": 7, "description": "In the middlegame, you can often tell where to attack based on where your pawns are pointing and where you have a majority. Watch the video to learn more." },
-            { "title": "Blockading Pawns", "urlid": "lWB1VJz86dcBjX", "duration": 5, "description": "Passed pawns can be deadly, so you need to keep them blockaded. Knights are great blockading pieces because they can jump over the pawn and remain active." },
-            { "title": "Isolated and Hanging Pawns", "urlid": "lWB1VJz86dcBjX", "duration": 7, "description": "Isolated pawns are easy to attack because other pawns can't defend them. Hanging pawns are two pawns together, with no pawns on either side. Watch the video to learn more." },
-            { "title": "Outposts", "urlid": "lWB1VJz86dcBjX", "duration": 6, "description": "An outpost is a square for a piece that cannot be attacked by an opposing pawn. In particular, it helps when that square is defended by one of your pawns and controls key squares in the opponent's position." },
-            { "title": "Using the Bishop Pair", "urlid": "lWB1VJz86dcBjX", "duration": 6, "description": "Bishops are strong in open positions and particularly powerful when you have both of them." },
-            { "title": "Bishops vs Knights", "urlid": "lWB1VJz86dcBjX", "duration": 8, "description": "The bishop vs. knight rivalry is one of the greatest battles in chess. Bishops are fast and powerful in open positions while knights thrive in closed positions." },
-            { "title": "Batteries", "urlid": "lWB1VJz86dcBjX", "duration": 9, "description": "Unlock the full potential of your long-range pieces by focusing them on the same lines. A battery is when two or more pieces work together on a rank, file, or diagonal." },
-            { "title": "Pigs on the 7th Rank", "urlid": "lWB1VJz86dcBjX", "duration": 5, "description": "One of the most powerful batteries in chess is two rooks on the 7th rank. They're called pigs on the 7th because they can capture everything in their path." },
-            { "title": "Windmill", "urlid": "lWB1VJz86dcBjX", "duration": 6, "description": "The windmill is a rare, but powerful tactic that occurs when you can repeat a discovered check multiple times, like the blades on a windmill spinning around." }
+            { "title": "Breakthrough", "urlid": "a42MByM4qAfxkJl", "duration": 7, "description": "Often the way to win a game is to promote a pawn. Since a new queen is so valuable, it's usually worth sacrificing a piece or two to promote a pawn if at all possible." },
+            { "title": "Pawns in the Middlegame", "urlid": "vrlPZLMvYLC46lZ", "duration": 7, "description": "In the middlegame, you can often tell where to attack based on where your pawns are pointing and where you have a majority. Watch the video to learn more." },
+            { "title": "Blockading Pawns", "urlid": "kLYqp3QpwrIeYJ", "duration": 5, "description": "Passed pawns can be deadly, so you need to keep them blockaded. Knights are great blockading pieces because they can jump over the pawn and remain active." },
+            { "title": "Isolated and Hanging Pawns", "urlid": "XPVzkD2P8lUDyKA", "duration": 7, "description": "Isolated pawns are easy to attack because other pawns can't defend them. Hanging pawns are two pawns together, with no pawns on either side. Watch the video to learn more." },
+            { "title": "Outposts", "urlid": "Rj7xV0mDPaTk2B", "duration": 6, "description": "An outpost is a square for a piece that cannot be attacked by an opposing pawn. In particular, it helps when that square is defended by one of your pawns and controls key squares in the opponent's position." },
+            { "title": "Using the Bishop Pair", "urlid": "v9RY7JvwmwTbl7", "duration": 6, "description": "Bishops are strong in open positions and particularly powerful when you have both of them." },
+            { "title": "Bishops vs Knights", "urlid": "Kq3Wg0JPYxfzQM", "duration": 8, "description": "The bishop vs. knight rivalry is one of the greatest battles in chess. Bishops are fast and powerful in open positions while knights thrive in closed positions." },
+            { "title": "Batteries", "urlid": "reQopJraYXCY9p", "duration": 9, "description": "Unlock the full potential of your long-range pieces by focusing them on the same lines. A battery is when two or more pieces work together on a rank, file, or diagonal." },
+            { "title": "Pigs on the 7th Rank", "urlid": "wYLa36mPzDsJ2gY", "duration": 5, "description": "One of the most powerful batteries in chess is two rooks on the 7th rank. They're called pigs on the 7th because they can capture everything in their path." },
+            { "title": "Windmill", "urlid": "PkZVxRp14VU0ZM1", "duration": 6, "description": "The windmill is a rare, but powerful tactic that occurs when you can repeat a discovered check multiple times, like the blades on a windmill spinning around." }
         ]
         },
         {
@@ -313,11 +313,11 @@
         ],
         "releaseDate": "12/27/2018",
         "lessons": [
-            { "title": "Endgame Principles", "duration": 11, "description": "Master endgame principles and gain the upper hand once most pieces are gone. An important principle is to stay calm to avoid counterplay. There's no extra prize for winning quickly." },
-            { "title": "Common Rook Endgames", "duration": 10, "description": "A rook endgame is one of the most common ways a game can end. It's important to keep the rook as active as possible and have it work well together with your king." },
-            { "title": "King Opposition", "duration": 8, "description": "A key endgame technique is the opposition. This is when the two kings oppose each other one square between them. Watch the video to learn more." },
-            { "title": "Zugzwang", "duration": 5, "description": "In chess you can't skip your turn, which means sometimes you can reach a position where someone must make a disadvantageous move. This situation is called zugzwang." },
-            { "title": "Opposite Colored Bishops in the Endgame", "duration": 4, "description": "In the middlegame opposite colored bishops give each side an extra attacker. In endgames, opposite colored bishops greatly increase drawing opportunities." }
+            { "title": "Endgame Principles", "urlid": "PZMDeVrpj1t0Ook", "duration": 11, "description": "Master endgame principles and gain the upper hand once most pieces are gone. An important principle is to stay calm to avoid counterplay. There's no extra prize for winning quickly." },
+            { "title": "Common Rook Endgames", "urlid": "jvo1LB1avAFqmV", "duration": 10, "description": "A rook endgame is one of the most common ways a game can end. It's important to keep the rook as active as possible and have it work well together with your king." },
+            { "title": "King Opposition", "urlid": "8D2yJ3e7XDSogey", "duration": 8, "description": "A key endgame technique is the opposition. This is when the two kings oppose each other one square between them. Watch the video to learn more." },
+            { "title": "Zugzwang", "urlid": "r0B10AQrOOh8mR", "duration": 5, "description": "In chess you can't skip your turn, which means sometimes you can reach a position where someone must make a disadvantageous move. This situation is called zugzwang." },
+            { "title": "Opposite Colored Bishops in the Endgame", "urlid": "1WbZYMwkBPSLr3", "duration": 4, "description": "In the middlegame opposite colored bishops give each side an extra attacker. In endgames, opposite colored bishops greatly increase drawing opportunities." }
         ]
         },
         {
@@ -329,13 +329,13 @@
         ],
         "releaseDate": "12/24/2018",
         "lessons": [
-            { "title": "King in Danger", "duration": 11, "description": "When one side is attacking it's important to examine all forcing moves, as well as moves that could prevent a king from escaping the danger zone." },
-            { "title": "Attacking the Castled King", "duration": 8, "description": "A castled king isn't always a safe king. You can often sacrifice material to lure the king into danger. One good example of this sacrifice is the \"Greek Gift Sacrifice.\"" },
-            { "title": "Advanced Checkmate Patterns", "duration": 8, "description": "Take your checkmate patterns to the next level and stun your opponents. There are many different mates you can learn by watching this video!" },
-            { "title": "Mating Net", "duration": 5, "description": "A mating net is when your pieces work together to prevent the opposing king from escaping a mating attack. Sometimes it’s best to prepare the net instead of checking the king immediately." },
-            { "title": "Provoking Weaknesses", "duration": 7, "description": "It's hard to attack against a well protected king. It helps to create weaknesses in the opponent's position by forcing pawn weaknesses and trading off important defensive pieces." },
-            { "title": "Pawn Storms", "duration": 8, "description": "When attacking a castled king you need to expose it. One strategy is to launch your pawns toward the king to open lines. This is most effective when your king is castled on the opposite side of the board." },
-            { "title": "Defending the King", "duration": 6, "description": "Defending your king in difficult positions will greatly improve your results. When you are in trouble try to keep a positive attitude and look for any opportunities that might arise." }
+            { "title": "King in Danger", "urlid": "x3W0vqZ3BofkYl3", "duration": 11, "description": "When one side is attacking it's important to examine all forcing moves, as well as moves that could prevent a king from escaping the danger zone." },
+            { "title": "Attacking the Castled King", "urlid": "2akkR8YwBLuWKo", "duration": 8, "description": "A castled king isn't always a safe king. You can often sacrifice material to lure the king into danger. One good example of this sacrifice is the \"Greek Gift Sacrifice.\"" },
+            { "title": "Advanced Checkmate Patterns", "urlid": "kKQw8DWkOlFOvLY", "duration": 8, "description": "Take your checkmate patterns to the next level and stun your opponents. There are many different mates you can learn by watching this video!" },
+            { "title": "Mating Net", "urlid": "411MPY0XbrFKY98", "duration": 5, "description": "A mating net is when your pieces work together to prevent the opposing king from escaping a mating attack. Sometimes it’s best to prepare the net instead of checking the king immediately." },
+            { "title": "Provoking Weaknesses", "urlid": "JYow33kXdjsjDa8", "duration": 7, "description": "It's hard to attack against a well protected king. It helps to create weaknesses in the opponent's position by forcing pawn weaknesses and trading off important defensive pieces." },
+            { "title": "Pawn Storms", "duration": 8, "urlid": "RyZrOYw3JahdQe2", "description": "When attacking a castled king you need to expose it. One strategy is to launch your pawns toward the king to open lines. This is most effective when your king is castled on the opposite side of the board." },
+            { "title": "Defending the King", "urlid": "PbVVWJk3aAh04Kx", "duration": 6, "description": "Defending your king in difficult positions will greatly improve your results. When you are in trouble try to keep a positive attitude and look for any opportunities that might arise." }
         ]
         },
         {
@@ -347,11 +347,11 @@
         ],
         "releaseDate": "06/01/2011",
         "lessons": [
-            { "title": "Exchange Sacrifices", "duration": 7, "description": "One of the most common good sacrifices is the exchange sacrifice Two pawns or a positional advantage is often sufficient compensation for the exchange." },
-            { "title": "Clearance Sacrifices", "duration": 3, "description": "A clearance sacrifice is when you sacrifice a piece simply to get it out of the way of your other pieces. Often these sacrifices will gain time and give you an irresistible attack." },
-            { "title": "Overloading", "duration": 4, "description": "Pieces are not good at defending more than one thing at a time. If a piece is defending too many things it is overloaded and the opponent can often distract the defender and win material." },
-            { "title": "Interference", "duration": 4, "description": "Disrupt your opponent's coordinated pieces by sacrificing one of your own. Interference sacrifices occur when you sacrifice a piece to block a defender from guarding a key point." },
-            { "title": "Underpromotion", "duration": 5, "description": "Before you hurry and promote to a queen, check if there isn't a better piece to be had. Occasionally another piece will help to create a fork or avoid stalemate." }
+            { "title": "Exchange Sacrifices", "urlid": "plXR1RBz4RHDYp", "duration": 7, "description": "One of the most common good sacrifices is the exchange sacrifice Two pawns or a positional advantage is often sufficient compensation for the exchange." },
+            { "title": "Clearance Sacrifices", "urlid": "4Wm1gR1dZwuKb7Y", "duration": 3, "description": "A clearance sacrifice is when you sacrifice a piece simply to get it out of the way of your other pieces. Often these sacrifices will gain time and give you an irresistible attack." },
+            { "title": "Overloading", "urlid": "yPP1XrgA3QT1DQv", "duration": 4, "description": "Pieces are not good at defending more than one thing at a time. If a piece is defending too many things it is overloaded and the opponent can often distract the defender and win material." },
+            { "title": "Interference", "urlid": "GWJJkXV2PJs1pkl", "duration": 4, "description": "Disrupt your opponent's coordinated pieces by sacrificing one of your own. Interference sacrifices occur when you sacrifice a piece to block a defender from guarding a key point." },
+            { "title": "Underpromotion", "urlid": "2aAA4xkMbVHZ4bQ", "duration": 5, "description": "Before you hurry and promote to a queen, check if there isn't a better piece to be had. Occasionally another piece will help to create a fork or avoid stalemate." }
         ]
         },
         {
@@ -363,13 +363,13 @@
         ],
         "releaseDate": "10/11/2018",
         "lessons": [
-            { "title": "Distant Opposition", "duration": 7, "description": "Distant opposition occurs when there are three or even five squares separating kings in the endgame. The same principles apply as in regular opposition." },
-            { "title": "Triangulation", "duration": 6, "description": "In some pawn endings you can take over the opposition and put your opponent in zugzwang by losing a tempo. Watch the video to learn how to use triangulation to win endgames." },
-            { "title": "Lucena Position", "duration": 5, "description": "The Lucena position occurs when one side has a king, rook and pawn against king and rook and the pawn is one square from promotion. Watch the video to learn the winning technique." },
-            { "title": "Philidor Position", "duration": 5, "description": "The most important draw to know in rook endings is the Philidor Position. Watch the video to learn how to defend." },
-            { "title": "Pieces and Pawns", "duration": 5, "description": "Pieces are usually more valuable than pawns, but pawns that are near promotion or that can protect each other can often fight against pieces effectively." },
-            { "title": "Queen vs Pawn", "duration": 6, "description": "When can a queen defeat a pawn on the seventh rank? This video covers the winning and drawing plans." },
-            { "title": "Two Bishop Checkmate", "duration": 7, "description": "It's rare, but you will want to know how to win with only two bishops against a king. Use the opposition and bishops to force the king towards a corner of the board and then checkmate." }
+            { "title": "Distant Opposition", "urlid": "kvzzwM1YwYUrY3",  "duration": 7, "description": "Distant opposition occurs when there are three or even five squares separating kings in the endgame. The same principles apply as in regular opposition." },
+            { "title": "Triangulation", "urlid": "ydLzPWOmbytBde",  "duration": 6, "description": "In some pawn endings you can take over the opposition and put your opponent in zugzwang by losing a tempo. Watch the video to learn how to use triangulation to win endgames." },
+            { "title": "Lucena Position", "urlid": "z30D62Oo1VuoRw",  "duration": 5, "description": "The Lucena position occurs when one side has a king, rook and pawn against king and rook and the pawn is one square from promotion. Watch the video to learn the winning technique." },
+            { "title": "Philidor Position", "urlid": "j6KMrvBOrgszly6",  "duration": 5, "description": "The most important draw to know in rook endings is the Philidor Position. Watch the video to learn how to defend." },
+            { "title": "Pieces and Pawns", "urlid": "erb7dA8ezjuYymw",  "duration": 5, "description": "Pieces are usually more valuable than pawns, but pawns that are near promotion or that can protect each other can often fight against pieces effectively." },
+            { "title": "Queen vs Pawn", "urlid": "DlX9vOKp9Khk1Ap",  "duration": 6, "description": "When can a queen defeat a pawn on the seventh rank? This video covers the winning and drawing plans." },
+            { "title": "Two Bishop Checkmate", "urlid": "rJW1leG1wBUbQov",  "duration": 7, "description": "It's rare, but you will want to know how to win with only two bishops against a king. Use the opposition and bishops to force the king towards a corner of the board and then checkmate." }
     ]
     }
     ]
