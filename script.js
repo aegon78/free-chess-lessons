@@ -6,7 +6,10 @@ function injectComponents(){
         <button class="nav-toggle">
             <svg class="show-nav" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="30px" height="30px"><path d="M96 160C96 142.3 110.3 128 128 128L512 128C529.7 128 544 142.3 544 160C544 177.7 529.7 192 512 192L128 192C110.3 192 96 177.7 96 160zM96 320C96 302.3 110.3 288 128 288L512 288C529.7 288 544 302.3 544 320C544 337.7 529.7 352 512 352L128 352C110.3 352 96 337.7 96 320zM544 480C544 497.7 529.7 512 512 512L128 512C110.3 512 96 497.7 96 480C96 462.3 110.3 448 128 448L512 448C529.7 448 544 462.3 544 480z"/></svg>
         </button>
-        <a class="donate" href="?p=donate">DONATE</a>
+        <a class="donate" href="?p=donate">
+            <?xml version="1.0" encoding="utf-8"?><svg width="20px" height="20px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M2 9.1371C2 14 6.01943 16.5914 8.96173 18.9109C10 19.7294 11 20.5 12 20.5C13 20.5 14 19.7294 15.0383 18.9109C17.9806 16.5914 22 14 22 9.1371C22 4.27416 16.4998 0.825464 12 5.50063C7.50016 0.825464 2 4.27416 2 9.1371Z" fill="#fff"/></svg>
+            DONATE
+        </a>
 
         <div class="links-container">
             <button class="nav-toggle">

@@ -47,7 +47,17 @@ function renderWatch(lesson){
     
     const lessonDescriptionWrapper = document.createElement('div')
     lessonDescriptionWrapper.classList.add('lesson-description-wrapper')
-    lessonDescriptionWrapper.textContent = lesson.description
+    // lessonDescriptionWrapper.textContent = lesson.description
+
+    let index = 0
+    function coachSays(){
+        if(index < lesson.description.length){
+            lessonDescriptionWrapper.innerHTML += lesson.description.charAt(index)
+            index++
+            setTimeout(coachSays, 50)
+        }
+    }
+    coachSays()
 
     coachSection.append(coach, lessonDescriptionWrapper)
     videoInfoContainer.append(videoInfoPanel, coachSection)
