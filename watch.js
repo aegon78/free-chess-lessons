@@ -25,7 +25,7 @@ function renderWatch(lesson){
     const videoContainer = document.createElement('div')
     videoContainer.classList.add('video-container')
     videoContainer.innerHTML = `
-        <iframe src="https://streamtape.com/e/${lesson.urlid}/" allowfullscreen allow="autoplay" scrolling="no"></iframe>
+        <iframe src="https://streamtape.com/e/${lesson.urlid}/" allowfullscreen allow="autoplay" scrolling="no" sandbox="allow-scripts"></iframe>
     `
     //info section (title, coach section...)
     const videoInfoContainer = document.createElement('div')
@@ -47,16 +47,27 @@ function renderWatch(lesson){
     
     const lessonDescriptionWrapper = document.createElement('div')
     lessonDescriptionWrapper.classList.add('lesson-description-wrapper')
-    // lessonDescriptionWrapper.textContent = lesson.description
 
+    const letters = lesson.description.split('')
     let index = 0
+
+    const spans = letters.map(char =>{
+        const span = document.createElement('span')
+        span.textContent = char
+        span.style.opacity = '0'
+        lessonDescriptionWrapper.append(span)
+        return span
+
+    })
+
     function coachSays(){
-        if(index < lesson.description.length){
-            lessonDescriptionWrapper.innerHTML += lesson.description.charAt(index)
-            index++
-            setTimeout(coachSays, 50)
+        if(index < spans.length){
+            spans[index].style.opacity = 1
         }
+        index++
+        setTimeout(coachSays, 40)
     }
+    
     coachSays()
 
     coachSection.append(coach, lessonDescriptionWrapper)
