@@ -55,6 +55,7 @@ function renderWatch(lesson){
         const span = document.createElement('span')
         span.textContent = char
         span.style.opacity = '0'
+        span.style.transition = '0.05s'
         lessonDescriptionWrapper.append(span)
         return span
 
@@ -65,9 +66,9 @@ function renderWatch(lesson){
             spans[index].style.opacity = 1
         }
         index++
-        setTimeout(coachSays, 40)
+        setTimeout(coachSays, 9)
     }
-    
+
     coachSays()
 
     coachSection.append(coach, lessonDescriptionWrapper)
