@@ -235,35 +235,6 @@ span:has(+ .level-info-value){
 }
 
 @media (min-width: 800px){
-    .ec{
-        display: flex;
-        flex-direction: row;
-    }
-
-    .unit-card{
-        /* border-right: 1px solid #888; */
-        width: 100%;
-    }
-    .lessons-container{
-        width: 100%
-    }
-    
-    .unit-info-card{
-        min-width: 300px;
-        max-height: fit-content;
-        padding: 0;
-        border: 1px solid #b8b8b8;
-        margin: 20px 20px 0 0;
-        /* border-radius: 10px; */
-        overflow: hidden;
-        position: sticky;
-        top: 20px;
-    }
-
-    .info-card-title{
-        background-color: #fff;
-    }
-
     .lessons-container a {
         display: flex;
     }
@@ -279,5 +250,43 @@ span:has(+ .level-info-value){
         justify-content: space-between;
         margin-left: 20px;
         padding-bottom: 10px;
+    }
+
+}
+
+@media (min-width: 1100px){
+    .ec{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .unit-card{
+        /* border-right: 1px solid #888; */
+        width: 100%;
+    }
+    .lessons-container{
+        width: 100%
+    }
+    
+    .unit-info-card{
+        background-color: #f1f1f1;
+        min-width: 35%;
+        max-height: fit-content;
+        padding: 0;
+        border: 1px solid #dedede;
+        margin: 30px 20px 0 0;
+        border-radius: 0px;
+        padding: 20px 30px 10px 30px;
+        overflow: hidden;
+        /* position: sticky;
+        top: 20px; */
+    }
+
+    .info-card-title{
+        background-color: #f1f1f1;
+    }
+
+    .description-container{
+        padding: 0 10px 0px 20px;
     }
 }
