@@ -96,10 +96,13 @@ function renderUnit(level, unit){
             </div>
         `
         const lessonDetailsContainer = document.createElement('div')
+        lessonDetailsContainer.classList.add('lesson-details-container')
         lessonDetailsContainer.innerHTML = `
-                <h3 class="lesson-title">${lesson.title}</h3>
-                <p class="lesson-description">${lesson.description}</p>
-                <div class="lessonTagsContainer">
+                <div class="title-and-description">
+                    <h3 class="lesson-title">${lesson.title}</h3>
+                    <p class="lesson-description">${lesson.description}</p>
+                </div>
+                    <div class="lessonTagsContainer">
                     <span class="duration-icon ficon">J</span>
                     <span class="video-duration-value">${lesson.duration} min</span>
                 </div>
@@ -136,16 +139,16 @@ function renderUnit(level, unit){
         const infoTag = document.createElement('div')
         infoTag.classList.add('info-tag')
         infoTag.innerHTML = `
-            <span class="info-tag-icon ficon">${tag.icon}</span>
+            <span class="ficon info-tag-icon">${tag.icon}</span>
             <span class="${tag.className}">${tag.value}</span>
         `
         unitInfoCard.append(infoTag)
     })
 
-    const saveLink = document.createElement('div')
-    saveLink.classList.add('info-tag')
+    const saveLink = document.createElement('a')
+
     saveLink.innerHTML = `
-        <span class="ficon">ᾠ</span>Add to Bookmarks
+        <span class="ficon info-tag-icon save-link">ᾠ</span>Add to Bookmarks
     `
     unitInfoCard.append(saveLink)
 
