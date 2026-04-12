@@ -21,7 +21,9 @@ initUnit()
 function renderUnit(level, unit){
     const bodyEl = document.querySelector('body')
     const unitCard = document.querySelector('.unit-card')
-    unitCard.innerHTML = ''
+
+    const cal = document.createElement('div')
+    cal.classList.add('cal')
 
     //creating the level name at top and appending it
     const levelName = document.createElement('h2')
@@ -139,5 +141,22 @@ function renderUnit(level, unit){
         `
         unitInfoCard.append(infoTag)
     })
+
+    const saveLink = document.createElement('div')
+    saveLink.classList.add('info-tag')
+    saveLink.innerHTML = `
+        <span class="ficon">ᾠ</span>Add to Bookmarks
+    `
+    unitInfoCard.append(saveLink)
+
+
+
+    cal.append(unitCard, lessonsContainer)
+
+    const ec = document.createElement('div')
+    ec.classList.add('ec')
+    
+    ec.append(cal, unitInfoCard)
+    bodyEl.append(ec)
 
 }

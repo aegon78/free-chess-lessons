@@ -285,3 +285,8 @@ footer{
 .svgs-container.copied .copy-svg{
     display: none;
 }
+
+
+@media (min-width: 800px){
+
+}

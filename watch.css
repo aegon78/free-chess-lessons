@@ -1,5 +1,6 @@
 body{
     background-color: #312e2b;
+    font-family: 'figtree', sans-serif;
     display: flex;
     flex-direction: column;
     /* align-items: center; */
@@ -101,3 +102,9 @@ iframe{
     transform: rotate(45deg);
 }
 
+@media (min-width: 800px){
+    .main-container{
+        display: flex;
+        min-width: 100%;
+    }
+}

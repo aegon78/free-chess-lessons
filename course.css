@@ -15,6 +15,10 @@ body{
     background-color: #fff;
 }
 
+.ec{
+    display: flex;
+    flex-direction: column;
+}
 .ficon {
     font-family: 'ChessGlyph';
     display: inline-block;
@@ -141,8 +145,8 @@ body{
 
 .play-icon-background{
     position: relative;
-    width: 55px;
-    height: 55px;
+    width: 58px;
+    height: 58px;
     color: #fff;
     background-color: #f7931a;
     display: flex;
@@ -156,8 +160,8 @@ body{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-45%, -56%);
-    font-size: 2.4rem;
+    transform: translate(-47%, -49%);
+    font-size: 2.2rem;
 }
 
 .thumbnail-img{
@@ -201,4 +205,21 @@ body{
 
 .info-tag{
     margin-left: 5px;
+}
+
+
+@media (min-width: 800px){
+    .ec{
+        display: flex;
+        flex-direction: row;
+    }
+    .unit-card{
+        background-color: #f4f4f4;
+    }
+    .unit-info-card{
+        min-width: 300px;
+        /* background-color: #f4f4f4; */
+        max-height: fit-content;
+        padding: 0;
+    }
 }
