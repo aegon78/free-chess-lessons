@@ -45,9 +45,7 @@
 
 .donate-heart{
     font-size: 1.2rem;
-    /* display: inline-block; */
     margin-right: 5px;
-    transform: translateY(1px);
 }
 
 
@@ -116,6 +114,10 @@
     padding: 10px;
 }
 
+.navbar-logo{
+    display: none;
+}
+
 @media (min-width: 1000px) {
     .nav-toggle{
         display: none;
@@ -124,6 +126,7 @@
         display: flex;
         flex-direction: row-reverse;
         justify-content: flex-end;
+        height: 90px;
     }
 
     .links-container{
@@ -151,5 +154,19 @@
 
     .donate{
         margin-left: auto;
+    }
+
+    .navbar-logo{
+        display: block;
+        width: 40px;
+        height: auto;
+        margin: 0 auto 0 20px;
+        cursor: pointer;
+    }
+    .overlay{
+        display: none;
+    }
+    .mobile-nav-icon{
+        display: none;
     }
 }

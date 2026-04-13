@@ -3,6 +3,8 @@
     padding: 0;
     margin: 0;
     -webkit-tap-highlight-color: transparent;
+    /* outline: 1px solid red; */
+
 }
 
 body{
@@ -68,12 +70,13 @@ body{
 .level-header{
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     cursor: pointer;
     padding: 0 0 15px 0;
     position: relative;
     min-width: 300px;
     width: 90vw;
+
 }
 
 .level-header .level-toggle{
@@ -98,7 +101,8 @@ body{
     border-radius: 5px;
     background-color: #86aa4e;
     top: 50%;
-    right: 5px;
+    left: 50%;
+    /* right: 5px; */
     transform: translateY(-50%);
     transition: 0.2s ease;
 }
@@ -111,7 +115,9 @@ body{
     border-radius: 5px;
     background-color: #86aa4e;
     top: 50%;
-    right: 5px;
+    /* right: 5px; */
+    /* just added left 50% */
+    left: 50%;
     transition: opacity 0.3s ease;
     transform: translateY(-50%) rotate(90deg);
     opacity: 1;
@@ -141,6 +147,7 @@ body{
     overflow: hidden;
     transition: max-height 0.5s ease, opacity 0.4s ease;
     flex-wrap: wrap;
+    max-width: 90vw;
 }
 
 .level-header.show + .level-body{

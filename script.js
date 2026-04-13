@@ -14,11 +14,12 @@ function injectComponents(){
             </button>
 
 
-            <a href="" class="link">Levels ></a>
-            <a href="" class="link">Support ></a>
-            <a href="" class="saved">Bookmarks ></a>
-            <a href="" class="faqs">FAQs ></a>
+            <a href="" class="link"><span class="ficon mobile-nav-icon">ἔ</span>Lessons <span class="ficon"><</span></a>
+            <a href="" class="saved"><span class="ficon mobile-nav-icon">ὦ</span>Bookmarks <span class="ficon"></span></a>
+            <a href="" class="faqs"><span class="ficon mobile-nav-icon">v</span>FAQs <span class="ficon"></span></a>
         </div>
+
+        <img class="navbar-logo" src="assets/learn.png">
         <div class="overlay"></div>    
     `
 }
