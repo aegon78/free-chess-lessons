@@ -172,7 +172,7 @@ body{
 .unit-title{
     font-size: 0.9rem;
     font-weight: 600;
-    transition: 0.3s ease;
+    transition: 0.2s ease;
     text-align: center;
 }
 
@@ -193,7 +193,7 @@ body{
     border: solid 12px #e8e7e6;
     background-color: transparent;
     border-radius: 50%;
-    transition: 0.3s ease;
+    transition: 0.2s ease;
 }
 
 .unit:hover .svg-container::before{

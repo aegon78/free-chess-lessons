@@ -17,6 +17,7 @@ function injectComponents(){
             <a href="" class="link">Levels ></a>
             <a href="" class="link">Support ></a>
             <a href="" class="saved">Bookmarks ></a>
+            <a href="" class="faqs">FAQs ></a>
         </div>
         <div class="overlay"></div>    
     `

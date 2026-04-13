@@ -116,3 +116,40 @@
     padding: 10px;
 }
 
+@media (min-width: 1000px) {
+    .nav-toggle{
+        display: none;
+    }
+    .navbar{    
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: flex-end;
+    }
+
+    .links-container{
+        background-color: transparent;
+        /* position: absolute; */
+        flex-direction: row;
+        /* align-items: center; */
+        position: static;
+        /* justify-content: center; */
+        width: auto;
+        height: auto;
+        top: 0;
+        left: 0;
+        /* z-index: 0; */
+        transform: translateX(0);
+    }
+
+    .links-container a{
+        color: #fff;
+    }
+
+    .links-container a:first-of-type{
+    margin-top: 0;
+    }
+
+    .donate{
+        margin-left: auto;
+    }
+}
