@@ -101,6 +101,16 @@
     margin-top: 40px;
 }
 
+.links-container a:hover:first-of-type .ddm-1{
+    display: none;
+    
+}
+
+.links-container a:first-of-type .ddm-1{
+    display: none;
+    /* opacity: 0; */
+}
+
 .links-container.active{
     transform: translateX(0);
 }
@@ -131,23 +141,25 @@
 
     .links-container{
         background-color: transparent;
-        /* position: absolute; */
         flex-direction: row;
-        /* align-items: center; */
+        align-items: center;
         position: static;
-        /* justify-content: center; */
         width: auto;
-        height: auto;
+        height: 90px;
         top: 0;
         left: 0;
-        /* z-index: 0; */
         transform: translateX(0);
     }
 
     .links-container a{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
         color: #fff;
     }
 
+    
     .links-container a:first-of-type{
     margin-top: 0;
     }
@@ -168,5 +180,43 @@
     }
     .mobile-nav-icon{
         display: none;
+    }
+    .links-container a:first-of-type{
+        position: relative;
+    }
+
+    .links-container .ddm-1{
+        /* display: none; */
+        position: absolute;
+        width: 180px;
+        background-color: #312e2b;
+        padding: 5px 0;
+        top: 100%;
+        left: 0;
+        transform: translateY(30px);
+        border-radius: 0 0 5px 5px;
+    }
+
+    .links-container a:hover.lessons-nav .ddm-1{
+        display: block;
+        transform: translateY(0);
+
+    }
+    .ddm-1 ul{
+        /* min-width: auto; */
+    }
+
+    .ddm-1 ul li{
+        list-style-type: none;
+        color: #fff;
+        padding: 10px 10px;
+        /* min-width: fit-content; */
+    }
+
+    .ddm-1 ul li:hover{
+        transition: 0.2s ease-out;
+        background-color: #f7931a;
+        transform: scale(1.05);
+        border-radius: 5px;
     }
 }

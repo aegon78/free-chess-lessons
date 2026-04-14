@@ -10,7 +10,7 @@ async function initWatchPage(){
             unit.lessons.forEach(lesson =>{
                 const currentLesson = lesson.title.toLowerCase().replace(/\s+/g, '-')
                 if(currentLesson === lessonSlug){
-                    renderWatch(lesson)
+                    renderWatch(lesson, unit)
                 }
             })
         })
@@ -19,7 +19,7 @@ async function initWatchPage(){
 
 initWatchPage()
 
-function renderWatch(lesson){
+function renderWatch(lesson, unit){
     const mainContainer = document.querySelector('.main-container')
     
     const videoContainer = document.createElement('div')
@@ -33,9 +33,10 @@ function renderWatch(lesson){
 
     const videoInfoPanel = document.createElement('div')
     videoInfoPanel.classList.add('video-info-panel')
-    videoInfoPanel.innerHTML = `
+    if(videoInfoPanel){
+        videoInfoPanel.innerHTML = `
         <span class="ficon lesson-icon">ἔ</span><span class="video-title">${lesson.title}</span>
-    `
+    `}
     const coachSection = document.createElement('div')
     
     coachSection.classList.add('coach-section')
@@ -43,7 +44,9 @@ function renderWatch(lesson){
     const coach = document.createElement('div')
     coach.classList.add('coach')
     
-    coach.innerHTML = `<img src="assets/coach.png" alt="">`
+    let currentInstructor = unit.instructor.toLowerCase()
+
+    coach.innerHTML = `<img src="assets/instructors/${currentInstructor}.png" alt="">`
     
     const lessonDescriptionWrapper = document.createElement('div')
     lessonDescriptionWrapper.classList.add('lesson-description-wrapper')

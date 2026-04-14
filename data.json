@@ -8,6 +8,7 @@
         { 
         "title": "Learn to Play Chess",
         "icon": "handpawn",
+        "instructor": "David",
         "description": [
             {"headline": "Learn how all of the pieces move and how to set up a chessboard!\n\n"},
             {"body": "Are you learning the royal game? Do you want to play chess with a friend or family member? Then this course is for you! By learning the material in this course you will be ready to set up a board and play a game of chess!\n\nHere is what you will learn:\n\n"},
@@ -33,6 +34,7 @@
         {
         "title": "Playing the Game",
         "icon": "board",
+        "instructor": "David",
         "description": [
             {"headline": "Learn the rules of the game and start playing today!\n\n"},
             {"body": "If you know how the pieces move and can set up a board, what is the next step? Learning the rules of the game! This course is specifically designed for those looking to play a full game of chess from start to finish. By learning these rules you will be ready to play a game with anyone!\n\nHere is what you will learn:\n\n"},
@@ -57,6 +59,7 @@
         { 
         "title": "Opening Principles",
         "icon": "openingprincipales",
+        "instructor": "David",
         "description": [
             {"headline": "Learn the correct way to play the first moves of the game!\n\n"},
             {"body": "Are you tired of not knowing what to do in the opening? Have you ever felt like you were behind from the very first move? Then this course is for you! By learning these important opening principles you will start playing the first moves of the game confidently!\n\nHere is what you will learn:\n\n"},
@@ -74,6 +77,7 @@
         {
         "title": "Winning the Game",
         "icon": "trophy",
+        "instructor": "David",
         "description": [
             {"headline": "Learn different ways to checkmate your opponent and win!\n\n"},
             {"body": "Have you ever had a queen or a rook versus your opponent's lone king but couldn't figure out how to win? Have you ever stalemated an opponent's lone king? Then this course for you! By learning these different types of checkmates you will start winning more of your games!\n\nHere is what you will learn:\n\n"},
@@ -90,6 +94,7 @@
         },
         {
         "title": "Capturing Pieces", "icon": "capturingpieces",
+        "instructor": "David",
         "description": [
             {"headline": "Learn these tactics to capture more of your opponent's pieces!\n\n"},
             {"body": "Have you ever wondered if you should trade your rook for a knight? Do you want to be able to set up forks and other cool tactics? Then this is the course for you! By learning these tactical ideas you will start winning more material, and you will also start recognizing when your opponent is threatening these tricks and avoid them! Increase your tactical abilities and watch your rating skyrocket!\n\nHere is what you will learn:\n\n"},
@@ -110,6 +115,7 @@
         },
         {
         "title": "Finding Checkmate", "icon": "checkmate",
+        "instructor": "David",
         "description": [
             {"headline": "Start attacking weak kings and deliver checkmates!\n\n"},
             {"body": "Have you ever wondered how strong players know which squares to attack? Do you want to improve your checkmating abilities? Then this course is for you! By learning how to attack weak squares and how to calculate checkmates you will start improving your results. Start winning your games with these checkmates!\n\nHere is what you will learn:\n\n"},
@@ -127,6 +133,7 @@
         },
         {
         "title": "Intro to Book Openings", "icon": "openings",
+        "instructor": "David",
         "description": [
             {"headline": "Learn the main ideas of the most popular and classic openings!\n\n"},
             {"body": "Have you ever wondered why 1.e4 and 1.d4 are the most popular openings? Would you like to know more about openings? Then this is the course for you! By learning book moves and the idea of \"chess theory\" you will start having more success in the opening. Improve your opening knowledge and get great positions from the start of the game!\n\nHere is what you will learn:\n\n"},
@@ -149,6 +156,7 @@
     "units": [
         {
         "title": "Make the Most of Your Pieces", "icon": "mostpieces",
+        "instructor": "David",
         "description": [
             {"headline": "Learn how to maximize the strength of your pieces!\n\n"},
             {"body": "Have you ever had the feeling that you aren't getting the most out of your pieces? Is it sometimes unclear where one of your pieces should be placed? Then this is the course for you! Learning how to best use your pieces is an important strategical step for any chess player. Going through this course will help your positional abilities while you watch your rating shoot up!\n\nHere is what you will learn:\n\n"},
@@ -167,6 +175,7 @@
         },
         {
         "title": "Understanding Endgames", "icon": "endgames",
+        "instructor": "David",
         "description": [
             {"headline": "Stop avoiding king and pawn endgames and start winning them!\n\n"},
             {"body": "Do you feel uncomfortable about the idea of playing technical endgames? Have you ever drawn or even lost a king and pawn endgame up a pawn or more? Then this is the course for you! By learning these endgame principles you will become more comfortable with less material on the board and will start aiming for certain types of endgames. Watch your rating grow as you start beating your opponents in the endgame!\n\nHere is what you will learn:\n\n"},
@@ -185,6 +194,7 @@
         },
         {
         "title": "Winning with Tactics", "icon": "tactics",
+        "instructor": "David",
         "description": [
             {"headline": "Defeat your opponents with incredible tactics!\n\n"},
             {"body": "Would you like to improve your attacking abilities? Have you ever analyzed one of your games and discovered that you missed a cool tactic? Then this course is for you! By learning these tactical themes and attacking patterns, you will increase your tactical abilities and crush your opponents!\n\nHere is what you will learn:\n\n"},
@@ -206,6 +216,7 @@
         },
         {
         "title": "Forcing Moves", "icon": "forcing",
+        "instructor": "David",
         "description": [
             {"headline": "Learn how to calculate in chess by using forcing moves!\n\n"},
             {"body": "Have you ever had a messy position in front of you, but you couldn't find the right move or idea? Do you sometimes play a safe move instead of calculating? Then this course is for you! By learning about forcing moves you can improve your calculation abilities and start winning with powerful moves!\n\nHere is what you will learn:\n\n"},
@@ -222,6 +233,7 @@
         },
         {
         "title": "Reading the Board", "icon": "reading",
+        "instructor": "David",
         "description": [
             {"headline": "Learn full board awareness to find the best plan!\n\n"},
             {"body": "Have you ever wondered which pawn to push and why? Have you ever wondered if you should exchange a piece or keep it on the board? Then this course is for you! By learning about different types of positions and how we should act in them we can learn about the entire board. These important strategical ideas are the key to finding the right plan and winning more games!\n\nHere is what you will learn:\n\n"},
@@ -246,6 +258,7 @@
     "units": [
         {
         "title": "Key Openings", "icon": "openings",
+        "instructor": "David",
         "description": [
             {"headline": "Learn these openings to get an early advantage!\n\n"},
             {"body": "Are you tired of feeling lost in the opening stage of the game? Then this is the course for you! Learning openings can be difficult for some players, and losing to an opening trap is a bad feeling. By learning these important and popular openings you will start getting great positions from the start of the game, and maybe even win some fast games with opening traps!\n\nHere is what you will learn:\n\n"},
@@ -266,6 +279,7 @@
         },
         {
         "title": "Choosing the Best Move", "icon": "choosing",
+        "instructor": "David",
         "description": [
             {"headline": "Learn how to make a plan in any position!\n\n"},
             {"body": "Have you ever been in a position where you couldn't find the right move or the right plan? Have you ever had a winning position but couldn't finish off your opponent? Then this is the course for you! Learning how to win the \"won\" game and learning how to formulate a plan are the cornerstones of becoming a strong player. By learning these integral ideas, your chess understanding will grow exponentially while you watch your rating climb higher and higher!\n\nHere is what you will learn:\n\n"},
@@ -285,6 +299,7 @@
         },
         {
         "title": "Activating Your Pieces", "icon": "activatingpieces",
+        "instructor": "David",
         "description": [
             {"headline": "Get the most out of all of your pieces!\n\n"},
             {"body": "Have you ever struggled to get the most potential out of your bishop pair or find the right squares for your pieces? Then this is the course for you! Learning how to get your pieces activated and placed on their best outposts is a difficult skill to learn, but not with this lesson plan. By learning these ideas you will begin deploying your pieces more harmoniously and start racking up the wins!\n\nHere is what you will learn:\n\n"},
@@ -306,6 +321,7 @@
         },
         {
         "title": "Advanced Endgames", "icon": "advancedendgames",
+        "instructor": "David",
         "description": [
             {"headline": "Start winning in the endgame!\n\n"},
             {"body": "If you have ever felt lost or without a plan in an endgame, you are not alone. Almost every chess player struggles with the endgame until they learn the important endgame principles in this course! By understanding these advanced endgame ideas you will start winning your endgames!\n\nHere is what you will learn:\n\n"},
@@ -322,6 +338,7 @@
         },
         {
         "title": "Attacking the King", "icon": "attackingking",
+        "instructor": "David",
         "description": [
             {"headline": "Win your games with vicious attacks against the enemy king!\n\n"},
             {"body": "Everyone enjoys conducting a brutal assault against an opponent's king, but how are your advanced attacking skills? If you want to add to your attacking arsenal then this course is for you! By learning these advanced attacking techniques you will also increase your defensive abilities. Add these arrays of assaults to your game so you can crush your opponents!\n\nHere is what you will learn:\n\n"},
@@ -340,6 +357,7 @@
         },
         {
         "title": "Advanced Tactics", "icon": "advancedtactics",
+        "instructor": "David",
         "description": [
             {"headline": "Destroy your opponents with mind-blowing sacrifices!\n\n"},
             {"body": "Have you ever watched a Mikhail Tal or Paul Morphy game in complete awe of their attacking abilities? Have you ever analyzed one of your games only to find out that you missed an insane tactic? Then this course is for you! By learning these advanced tactical ideas you will increase your ability to blow your opponent off of the board with incredible combinations!\n\nHere is what you will learn:\n\n"},
@@ -356,6 +374,7 @@
         },
         {
         "title": "Endgame Patterns", "icon": "endgamepatterns",
+        "instructor": "David",
         "description": [
             {"headline": "Learn these advanced patterns to win your endgames!\n\n"},
             {"body": "Are you tired of drawing your rook and pawn endgames when you are up a pawn? Then this is the course for you! Converting a winning advantage in the endgame can sometimes be extremely difficult. By learning these advanced techniques and concepts you will increase your winning chances in the endgame, and even learn to save some positions you used to lose!\n\nHere is what you will learn:\n\n"},

@@ -75,13 +75,33 @@ body{
     margin-top: 15px;
 }
 
+.instructor-info-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 10px
+}
+
+.instructor-img{
+    width: 35px;
+    border-radius: 50%;
+    background-color: #e7e8e8;
+    margin-left: 20px;
+}
+
+.instructor-name{
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #333;
+}
+
 .description-container{
     /* margin: 20px; better for phone */
     margin: 20px 0;
     white-space: pre-wrap;
     font-size: 0.97rem;
     line-height: 1.2;
-    padding: 0 20px
+    padding: 0 10px
 }
 
 .description-headline{
@@ -95,6 +115,7 @@ body{
 .description-container ul li:last-of-type{
     font-weight: 550;
 }
+
 
 .lessons-container{
     width: 100%;
@@ -192,10 +213,10 @@ body{
 }
 
 .info-card-title{
-    background-color: #f1f1f1;
-    font-size: 1.2rem;
+    /* background-color: #f1f1f1; */
+    font-size: 1.1rem;
     font-weight: 600;
-    padding: 7px;
+    padding: 10px 0 0 7px;
 }
 
 .info-tag-icon{
@@ -243,7 +264,14 @@ span:has(+ .level-info-value){
         min-height: 190px;
         margin: 10px;
     }
-    
+    .play-icon-background{
+        width: 62px;
+        height: 62px;
+    }
+    .play-icon{
+        font-size: 2.3rem;
+
+    }
     .lesson-details-container{
         display: flex;
         flex-direction: column;
@@ -264,16 +292,24 @@ span:has(+ .level-info-value){
         /* border-right: 1px solid #888; */
         width: 100%;
     }
+
+    .description-container{
+    /* margin: 20px; better for phone */
+        margin: 20px 0;
+        padding: 0 20px
+    }
     .lessons-container{
         width: 100%
     }
     
     .unit-info-card{
         background-color: #f1f1f1;
+        /* background-color: #f7941a12; */
         min-width: 35%;
         max-height: fit-content;
         padding: 0;
         border: 1px solid #dedede;
+        /* border: 1px solid #f7931a; */
         margin: 110px 20px 0 0;
         border-radius: 0px;
         padding: 20px 30px 10px 30px;

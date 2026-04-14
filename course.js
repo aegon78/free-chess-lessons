@@ -51,6 +51,20 @@ function renderUnit(level, unit){
     unitTitle.innerText = unit.title
     unitCard.append(unitTitle)
 
+    // creating the instructor info and appending it.
+
+    const instructorInfoContainer = document.createElement('div')
+    instructorInfoContainer.classList.add('instructor-info-container')
+    const instructorImg = document.createElement('img')
+    instructorImg.classList.add('instructor-img')
+    let currentInstructor = unit.instructor.toLowerCase()
+    instructorImg.setAttribute('src', `assets/instructors/${currentInstructor}.png`)
+    const instructorName = document.createElement('span')
+    instructorName.textContent = unit.instructor
+    instructorName.classList.add('instructor-name')
+    
+    instructorInfoContainer.append(instructorImg, instructorName)
+    unitCard.append(instructorInfoContainer)
     //creating description/description items & appending them.
 
     const descriptionContainer = document.createElement('div')

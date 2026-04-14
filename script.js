@@ -14,9 +14,20 @@ function injectComponents(){
             </button>
 
 
-            <a href="" class="link"><span class="ficon mobile-nav-icon">ἔ</span>Lessons <span class="ficon"><</span></a>
+            <a href="" class="lessons-nav"><span class="ficon mobile-nav-icon">ἔ</span>Lessons <span class="ficon"><</span>
+                <div class="ddm-1">
+                    <ul>
+                        <li>New to Chess</li>
+                        <li>Beginner</li>
+                        <li>Intermediate</li>
+                        <li>Advanced</li>
+                        <li>Mastery</li>
+                    </ul>
+                </div>
+
+            </a>
             <a href="" class="saved"><span class="ficon mobile-nav-icon">ὦ</span>Bookmarks <span class="ficon"></span></a>
-            <a href="" class="faqs"><span class="ficon mobile-nav-icon">v</span>FAQs <span class="ficon"></span></a>
+            <a href="" class="faqs"><span class="ficon mobile-nav-icon">)</span>About <span class="ficon"></span></a>
         </div>
 
         <img class="navbar-logo" src="assets/learn.png">
@@ -51,7 +62,9 @@ async function renderUnits(){
 
         const levelDiv = document.createElement('div')
         levelDiv.classList.add('level', `level-${idx + 1}`)
-        levelsContainer.appendChild(levelDiv)
+        if(levelsContainer){
+            levelsContainer.appendChild(levelDiv)
+        }
         
         const levelHeaderDiv = document.createElement('div')
         const levelBodyDiv = document.createElement('div')
