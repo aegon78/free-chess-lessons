@@ -90,6 +90,8 @@
     text-decoration: none;
     color: #000;
     transition: 0.3s ease;
+    display: flex;
+    gap: 5px;
 }
 
 .links-container a:hover{
@@ -124,6 +126,10 @@
     padding: 10px;
 }
 
+.mobile-nav-icon{
+    width: 20px;
+}
+
 .navbar-logo{
     display: none;
 }
@@ -149,6 +155,7 @@
         top: 0;
         left: 0;
         transform: translateX(0);
+        /* margin-left: auto; */
     }
 
     .links-container a{
@@ -165,7 +172,7 @@
     }
 
     .donate{
-        margin-left: auto;
+        margin-left: 15px;
     }
 
     .navbar-logo{
