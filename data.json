@@ -258,7 +258,7 @@
     "units": [
         {
         "title": "Key Openings", "icon": "openings",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Learn these openings to get an early advantage!\n\n"},
             {"body": "Are you tired of feeling lost in the opening stage of the game? Then this is the course for you! Learning openings can be difficult for some players, and losing to an opening trap is a bad feeling. By learning these important and popular openings you will start getting great positions from the start of the game, and maybe even win some fast games with opening traps!\n\nHere is what you will learn:\n\n"},
@@ -279,7 +279,7 @@
         },
         {
         "title": "Choosing the Best Move", "icon": "choosing",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Learn how to make a plan in any position!\n\n"},
             {"body": "Have you ever been in a position where you couldn't find the right move or the right plan? Have you ever had a winning position but couldn't finish off your opponent? Then this is the course for you! Learning how to win the \"won\" game and learning how to formulate a plan are the cornerstones of becoming a strong player. By learning these integral ideas, your chess understanding will grow exponentially while you watch your rating climb higher and higher!\n\nHere is what you will learn:\n\n"},
@@ -299,7 +299,7 @@
         },
         {
         "title": "Activating Your Pieces", "icon": "activatingpieces",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Get the most out of all of your pieces!\n\n"},
             {"body": "Have you ever struggled to get the most potential out of your bishop pair or find the right squares for your pieces? Then this is the course for you! Learning how to get your pieces activated and placed on their best outposts is a difficult skill to learn, but not with this lesson plan. By learning these ideas you will begin deploying your pieces more harmoniously and start racking up the wins!\n\nHere is what you will learn:\n\n"},
@@ -321,7 +321,7 @@
         },
         {
         "title": "Advanced Endgames", "icon": "advancedendgames",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Start winning in the endgame!\n\n"},
             {"body": "If you have ever felt lost or without a plan in an endgame, you are not alone. Almost every chess player struggles with the endgame until they learn the important endgame principles in this course! By understanding these advanced endgame ideas you will start winning your endgames!\n\nHere is what you will learn:\n\n"},
@@ -338,7 +338,7 @@
         },
         {
         "title": "Attacking the King", "icon": "attackingking",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Win your games with vicious attacks against the enemy king!\n\n"},
             {"body": "Everyone enjoys conducting a brutal assault against an opponent's king, but how are your advanced attacking skills? If you want to add to your attacking arsenal then this course is for you! By learning these advanced attacking techniques you will also increase your defensive abilities. Add these arrays of assaults to your game so you can crush your opponents!\n\nHere is what you will learn:\n\n"},
@@ -357,7 +357,7 @@
         },
         {
         "title": "Advanced Tactics", "icon": "advancedtactics",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Destroy your opponents with mind-blowing sacrifices!\n\n"},
             {"body": "Have you ever watched a Mikhail Tal or Paul Morphy game in complete awe of their attacking abilities? Have you ever analyzed one of your games only to find out that you missed an insane tactic? Then this course is for you! By learning these advanced tactical ideas you will increase your ability to blow your opponent off of the board with incredible combinations!\n\nHere is what you will learn:\n\n"},
@@ -374,7 +374,7 @@
         },
         {
         "title": "Endgame Patterns", "icon": "endgamepatterns",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Learn these advanced patterns to win your endgames!\n\n"},
             {"body": "Are you tired of drawing your rook and pawn endgames when you are up a pawn? Then this is the course for you! Converting a winning advantage in the endgame can sometimes be extremely difficult. By learning these advanced techniques and concepts you will increase your winning chances in the endgame, and even learn to save some positions you used to lose!\n\nHere is what you will learn:\n\n"},
@@ -407,16 +407,16 @@
         ],
         "releaseDate": "3/2/2019",
         "lessons": [
-            { "title": "The First Modern Chess Game Ever Recorded", "urlid": "kvzzwM1YwYUrY3",  "duration": 11, "description": "Check out the oldest recorded chess game on record." },
-            { "title": "Games That Changed Chess History: The Romantic Era", "urlid": "ydLzPWOmbytBde",  "duration": 7, "description": "Learn about Greco, perhaps the first ever professional chess player!" },
-            { "title": "Philidor's Pawn Revolution", "urlid": "z30D62Oo1VuoRw",  "duration": 13, "description": "Learn about Philidor, the first player to appreciate the role of pawns in chess." },
-            { "title": "The Shock Of Positional Chess", "urlid": "j6KMrvBOrgszly6",  "duration": 15, "description": "Learn about Steinitz, the first World Champion and how he developed modern positional ideas." },
-            { "title": "The Biggest Rivalry In Chess", "urlid": "erb7dA8ezjuYymw",  "duration": 21, "description": "Nimzowitsch and Tarrasch argued about how chess should be played. See what happened when these geniuses clashed over the board!" },
-            { "title": "Botvinnik: Master Of The Soviet Chess School", "urlid": "DlX9vOKp9Khk1Ap",  "duration": 12, "description": "Learn how Botvinnik became World Champion and started an era of Soviet chess dominance." },
-            { "title": "Bobby Fischer Makes Chess History", "urlid": "rJW1leG1wBUbQov",  "duration": 19, "description": "Learn about the most famous game from the Match of the Century, where American chess genius Bobby Fischer interrupted years of Soviet dominance of the world title." },
-            { "title": "Karpov vs Kasparov", "urlid": "kvzzwM1YwYUrY3",  "duration": 21, "description": "How did Garry Kasparov, perhaps the greatest champion in history, take the title from his arch-rival?" },
-            { "title": "Judit Polgar", "urlid": "kvzzwM1YwYUrY3",  "duration": 22, "description": "Learn about the best female chess player of all time and her quest to break Fischer's record to become the youngest Grandmaster ever!" },
-            { "title": "Deep Blue vs Kasparov", "urlid": "kvzzwM1YwYUrY3",  "duration": 9, "description": "We end our course on chess history by introducing the new top players -computers! See the shocking game that won Deep Blue a match against World Champion Kasparov." }
+            { "title": "The First Modern Chess Game Ever Recorded", "urlid": "6aB1lWXdmKFp9O",  "duration": 11, "description": "Check out the oldest recorded chess game on record." },
+            { "title": "Games That Changed Chess History: The Romantic Era", "urlid": "jkzvrrKxMZTzkja",  "duration": 7, "description": "Learn about Greco, perhaps the first ever professional chess player!" },
+            { "title": "Philidor's Pawn Revolution", "urlid": "ZJLbxAklApcqeP9",  "duration": 13, "description": "Learn about Philidor, the first player to appreciate the role of pawns in chess." },
+            { "title": "The Shock Of Positional Chess", "urlid": "gPJW1RZ0YZTqQ46",  "duration": 15, "description": "Learn about Steinitz, the first World Champion and how he developed modern positional ideas." },
+            { "title": "The Biggest Rivalry In Chess", "urlid": "3VQaklzzoqHdJOg",  "duration": 21, "description": "Nimzowitsch and Tarrasch argued about how chess should be played. See what happened when these geniuses clashed over the board!" },
+            { "title": "Botvinnik: Master Of The Soviet Chess School", "urlid": "AMBPVgBB86FXqQm",  "duration": 12, "description": "Learn how Botvinnik became World Champion and started an era of Soviet chess dominance." },
+            { "title": "Bobby Fischer Makes Chess History", "urlid": "DM7JV2b04yhxwe",  "duration": 19, "description": "Learn about the most famous game from the Match of the Century, where American chess genius Bobby Fischer interrupted years of Soviet dominance of the world title." },
+            { "title": "Karpov vs Kasparov", "urlid": "KqamrRKZoWIobw",  "duration": 21, "description": "How did Garry Kasparov, perhaps the greatest champion in history, take the title from his arch-rival?" },
+            { "title": "Judit Polgar", "urlid": "xPoRKrQ6jjUkPAb",  "duration": 22, "description": "Learn about the best female chess player of all time and her quest to break Fischer's record to become the youngest Grandmaster ever!" },
+            { "title": "Deep Blue vs Kasparov", "urlid": "rAD0dJJ2oXFbrDG",  "duration": 9, "description": "We end our course on chess history by introducing the new top players -computers! See the shocking game that won Deep Blue a match against World Champion Kasparov." }
         ]
     },
     {

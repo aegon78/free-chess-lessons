@@ -25,7 +25,7 @@ function renderWatch(lesson, unit){
     const videoContainer = document.createElement('div')
     videoContainer.classList.add('video-container')
     videoContainer.innerHTML = `
-        <iframe src="https://streamtape.com/e/${lesson.urlid}/" allowfullscreen allow="autoplay" scrolling="no" sandbox="allow-scripts"></iframe>
+        <iframe src="https://streamtape.com/e/${lesson.urlid}/" allowfullscreen allow="autoplay" scrolling="no"></iframe>
     `
     //info section (title, coach section...)
     const videoInfoContainer = document.createElement('div')
