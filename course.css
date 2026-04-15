@@ -79,7 +79,8 @@ body{
     width: 100%;
     display: flex;
     align-items: center;
-    gap: 7px
+    gap: 7px;
+    margin-top: 15px
 }
 
 .instructor-img{
