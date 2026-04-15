@@ -44,7 +44,7 @@ function renderWatch(lesson, unit){
     const coach = document.createElement('div')
     coach.classList.add('coach')
     
-    let currentInstructor = unit.instructor.toLowerCase()
+    let currentInstructor = unit.instructor.toLowerCase().replace(/\s+/g, '-')
 
     coach.innerHTML = `<img src="assets/instructors/${currentInstructor}.png" alt="">`
     

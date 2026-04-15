@@ -8,7 +8,7 @@
         { 
         "title": "Learn to Play Chess",
         "icon": "handpawn",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Learn how all of the pieces move and how to set up a chessboard!\n\n"},
             {"body": "Are you learning the royal game? Do you want to play chess with a friend or family member? Then this course is for you! By learning the material in this course you will be ready to set up a board and play a game of chess!\n\nHere is what you will learn:\n\n"},
@@ -34,7 +34,7 @@
         {
         "title": "Playing the Game",
         "icon": "board",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Learn the rules of the game and start playing today!\n\n"},
             {"body": "If you know how the pieces move and can set up a board, what is the next step? Learning the rules of the game! This course is specifically designed for those looking to play a full game of chess from start to finish. By learning these rules you will be ready to play a game with anyone!\n\nHere is what you will learn:\n\n"},
@@ -59,7 +59,7 @@
         { 
         "title": "Opening Principles",
         "icon": "openingprincipales",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Learn the correct way to play the first moves of the game!\n\n"},
             {"body": "Are you tired of not knowing what to do in the opening? Have you ever felt like you were behind from the very first move? Then this course is for you! By learning these important opening principles you will start playing the first moves of the game confidently!\n\nHere is what you will learn:\n\n"},
@@ -77,7 +77,7 @@
         {
         "title": "Winning the Game",
         "icon": "trophy",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Learn different ways to checkmate your opponent and win!\n\n"},
             {"body": "Have you ever had a queen or a rook versus your opponent's lone king but couldn't figure out how to win? Have you ever stalemated an opponent's lone king? Then this course for you! By learning these different types of checkmates you will start winning more of your games!\n\nHere is what you will learn:\n\n"},
@@ -94,7 +94,7 @@
         },
         {
         "title": "Capturing Pieces", "icon": "capturingpieces",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Learn these tactics to capture more of your opponent's pieces!\n\n"},
             {"body": "Have you ever wondered if you should trade your rook for a knight? Do you want to be able to set up forks and other cool tactics? Then this is the course for you! By learning these tactical ideas you will start winning more material, and you will also start recognizing when your opponent is threatening these tricks and avoid them! Increase your tactical abilities and watch your rating skyrocket!\n\nHere is what you will learn:\n\n"},
@@ -115,7 +115,7 @@
         },
         {
         "title": "Finding Checkmate", "icon": "checkmate",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Start attacking weak kings and deliver checkmates!\n\n"},
             {"body": "Have you ever wondered how strong players know which squares to attack? Do you want to improve your checkmating abilities? Then this course is for you! By learning how to attack weak squares and how to calculate checkmates you will start improving your results. Start winning your games with these checkmates!\n\nHere is what you will learn:\n\n"},
@@ -133,7 +133,7 @@
         },
         {
         "title": "Intro to Book Openings", "icon": "openings",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Learn the main ideas of the most popular and classic openings!\n\n"},
             {"body": "Have you ever wondered why 1.e4 and 1.d4 are the most popular openings? Would you like to know more about openings? Then this is the course for you! By learning book moves and the idea of \"chess theory\" you will start having more success in the opening. Improve your opening knowledge and get great positions from the start of the game!\n\nHere is what you will learn:\n\n"},
@@ -156,7 +156,7 @@
     "units": [
         {
         "title": "Make the Most of Your Pieces", "icon": "mostpieces",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Learn how to maximize the strength of your pieces!\n\n"},
             {"body": "Have you ever had the feeling that you aren't getting the most out of your pieces? Is it sometimes unclear where one of your pieces should be placed? Then this is the course for you! Learning how to best use your pieces is an important strategical step for any chess player. Going through this course will help your positional abilities while you watch your rating shoot up!\n\nHere is what you will learn:\n\n"},
@@ -175,7 +175,7 @@
         },
         {
         "title": "Understanding Endgames", "icon": "endgames",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Stop avoiding king and pawn endgames and start winning them!\n\n"},
             {"body": "Do you feel uncomfortable about the idea of playing technical endgames? Have you ever drawn or even lost a king and pawn endgame up a pawn or more? Then this is the course for you! By learning these endgame principles you will become more comfortable with less material on the board and will start aiming for certain types of endgames. Watch your rating grow as you start beating your opponents in the endgame!\n\nHere is what you will learn:\n\n"},
@@ -194,7 +194,7 @@
         },
         {
         "title": "Winning with Tactics", "icon": "tactics",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Defeat your opponents with incredible tactics!\n\n"},
             {"body": "Would you like to improve your attacking abilities? Have you ever analyzed one of your games and discovered that you missed a cool tactic? Then this course is for you! By learning these tactical themes and attacking patterns, you will increase your tactical abilities and crush your opponents!\n\nHere is what you will learn:\n\n"},
@@ -216,7 +216,7 @@
         },
         {
         "title": "Forcing Moves", "icon": "forcing",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Learn how to calculate in chess by using forcing moves!\n\n"},
             {"body": "Have you ever had a messy position in front of you, but you couldn't find the right move or idea? Do you sometimes play a safe move instead of calculating? Then this course is for you! By learning about forcing moves you can improve your calculation abilities and start winning with powerful moves!\n\nHere is what you will learn:\n\n"},
@@ -233,7 +233,7 @@
         },
         {
         "title": "Reading the Board", "icon": "reading",
-        "instructor": "David",
+        "instructor": "Satoshi Nakamoto",
         "description": [
             {"headline": "Learn full board awareness to find the best plan!\n\n"},
             {"body": "Have you ever wondered which pawn to push and why? Have you ever wondered if you should exchange a piece or keep it on the board? Then this course is for you! By learning about different types of positions and how we should act in them we can learn about the entire board. These important strategical ideas are the key to finding the right plan and winning more games!\n\nHere is what you will learn:\n\n"},
@@ -398,21 +398,28 @@
     "levelicon": "Ā",
     "units": [
         {
-        "title": "Openings", "icon": "openings",
+        "title": "Games that Changed Chess History", "icon": "board",
+        "instructor": "Anna Rudolf",
+        "description": [
+            {"headline": "Learn about the games and rivalries that defined the history of chess!\n\n"},
+            {"body": "Do you want to learn how modern chess came to be? Learn about the moments that changed the history of the game with IM Anna Rudolf, starting with the oldest recorded game and showing some of the greatest rivalries in chess history! Learn history and strategy from the legends of the past. Start increasing your knowledge of chess history today!\n\nHere is what you will learn:\n\n"},
+            {"objectives": ["Learn about key games from the last 500 years!", "Learn about the romantic era and exciting attacking games!", "Learn about the great rivalries throughout the history of the game!"]}
+        ],
+        "releaseDate": "3/2/2019",
         "lessons": [
-            { "title": "", "description": "" },
-            { "title": "", "description": "" },
-            { "title": "", "description": "" },
-            { "title": "", "description": "" },
-            { "title": "", "description": "" },
-            { "title": "", "description": "" },
-            { "title": "", "description": "" },
-            { "title": "", "description": "" },
-            { "title": "", "description": "" },
-            { "title": "", "description": "" }
+            { "title": "The First Modern Chess Game Ever Recorded", "urlid": "kvzzwM1YwYUrY3",  "duration": 11, "description": "Check out the oldest recorded chess game on record." },
+            { "title": "Games That Changed Chess History: The Romantic Era", "urlid": "ydLzPWOmbytBde",  "duration": 7, "description": "Learn about Greco, perhaps the first ever professional chess player!" },
+            { "title": "Philidor's Pawn Revolution", "urlid": "z30D62Oo1VuoRw",  "duration": 13, "description": "Learn about Philidor, the first player to appreciate the role of pawns in chess." },
+            { "title": "The Shock Of Positional Chess", "urlid": "j6KMrvBOrgszly6",  "duration": 15, "description": "Learn about Steinitz, the first World Champion and how he developed modern positional ideas." },
+            { "title": "The Biggest Rivalry In Chess", "urlid": "erb7dA8ezjuYymw",  "duration": 21, "description": "Nimzowitsch and Tarrasch argued about how chess should be played. See what happened when these geniuses clashed over the board!" },
+            { "title": "Botvinnik: Master Of The Soviet Chess School", "urlid": "DlX9vOKp9Khk1Ap",  "duration": 12, "description": "Learn how Botvinnik became World Champion and started an era of Soviet chess dominance." },
+            { "title": "Bobby Fischer Makes Chess History", "urlid": "rJW1leG1wBUbQov",  "duration": 19, "description": "Learn about the most famous game from the Match of the Century, where American chess genius Bobby Fischer interrupted years of Soviet dominance of the world title." },
+            { "title": "Karpov vs Kasparov", "urlid": "kvzzwM1YwYUrY3",  "duration": 21, "description": "How did Garry Kasparov, perhaps the greatest champion in history, take the title from his arch-rival?" },
+            { "title": "Judit Polgar", "urlid": "kvzzwM1YwYUrY3",  "duration": 22, "description": "Learn about the best female chess player of all time and her quest to break Fischer's record to become the youngest Grandmaster ever!" },
+            { "title": "Deep Blue vs Kasparov", "urlid": "kvzzwM1YwYUrY3",  "duration": 9, "description": "We end our course on chess history by introducing the new top players -computers! See the shocking game that won Deep Blue a match against World Champion Kasparov." }
         ]
-        },
-        {
+    },
+    {
         "title": "Strategy", "icon": "strategy",
         "lessons": [
             { "title": "", "description": "" },
