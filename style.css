@@ -7,6 +7,33 @@
 
 }
 
+/* dark theme style */
+
+body.dark-mode{
+    background-color: #312e2b;
+}
+
+body.dark-mode .ficon.level-icon{
+    color: #e3e0e0;
+}
+
+body.dark-mode .level-header.show .level-toggle::before{
+    background-color: #d3d3cf;
+}
+
+body.dark-mode .level-header{
+    color: #fff;
+}
+body.dark-mode .unit-title{
+    color: #fff;
+}
+
+body.dark-mode .svg-container::before{
+    border: solid 12px #787878;
+}
+
+
+/* dark theme style end */
 body{
     font-family: 'figtree', sans-serif;
     background-color: #fff;
@@ -18,13 +45,6 @@ body{
     font-weight: normal;
     font-style: normal;
 }
-
-/* temoporary */
-/* .main-section{
-    margin-top: 70px;
-} */
-/* ignore above */
-
 
 .ficon {
     font-family: 'ChessGlyph';
@@ -76,7 +96,7 @@ body{
     position: relative;
     min-width: 300px;
     width: 90vw;
-
+    color: #000;
 }
 
 .level-header .level-toggle{

@@ -1,5 +1,5 @@
 const params = new URLSearchParams(window.location.search)
-const lessonSlug = params.get('l')
+const lessonSlug = encodeURIComponent(params.get('l'))
 
 async function initWatchPage(){
     const response = await fetch('data.json')
@@ -8,7 +8,7 @@ async function initWatchPage(){
     data.levels.forEach(level =>{
         level.units.forEach(unit =>{
             unit.lessons.forEach(lesson =>{
-                const currentLesson = lesson.title.toLowerCase().replace(/\s+/g, '-')
+                const currentLesson = encodeURIComponent(lesson.title.toLowerCase())
                 if(currentLesson === lessonSlug){
                     renderWatch(lesson, unit)
                 }

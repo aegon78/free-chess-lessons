@@ -99,7 +99,7 @@ function renderUnit(level, unit){
     
     unit.lessons.forEach((lesson, idx) =>{
         const lessonCard = document.createElement('a')
-        lessonCard.setAttribute('href', `watch.html?l=${lesson.title.toLowerCase().replace(/\s+/g, '-')}`)
+        lessonCard.setAttribute('href', `watch.html?l=${encodeURIComponent(lesson.title.toLowerCase())}`)
         lessonCard.classList.add('lesson-card')
         lessonCard.innerHTML = `
             <div class="lesson-thumbnail">
@@ -111,6 +111,7 @@ function renderUnit(level, unit){
         `
         const lessonDetailsContainer = document.createElement('div')
         lessonDetailsContainer.classList.add('lesson-details-container')
+        // let lessonTitle = lesson.title.replace('&', 'and')
         lessonDetailsContainer.innerHTML = `
                 <div class="title-and-description">
                     <h3 class="lesson-title">${lesson.title}</h3>

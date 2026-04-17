@@ -4,8 +4,13 @@
     padding: 0;
 }
 
+/* body.dark-mode nav{
+    background-color: #222;
+} */
+
 .navbar{
-    background-color: #312e2b;
+    background-color: #262421
+;
     height: 70px;
     display: flex; 
     align-items: center;
@@ -188,6 +193,11 @@
     .mobile-nav-icon{
         display: none;
     }
+
+    .links-container .support-nav-link{
+        display: none;
+    }
+
     .links-container a:first-of-type{
         position: relative;
     }
