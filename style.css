@@ -1,3 +1,7 @@
+:root{
+    --shade-1: #575452;
+    --shade-2: #d2ceb4;
+}
 *{
     box-sizing: border-box;
     padding: 0;
@@ -11,10 +15,12 @@
 
 body.dark-mode{
     background-color: #312e2b;
+    --shade-1: #d2ceb4;
+    --shade-2: #575452;
 }
 
 body.dark-mode .ficon.level-icon{
-    color: #e3e0e0;
+    color: #cfcfcf;
 }
 
 body.dark-mode .level-header.show .level-toggle::before{
@@ -24,12 +30,17 @@ body.dark-mode .level-header.show .level-toggle::before{
 body.dark-mode .level-header{
     color: #fff;
 }
+
+/* body.dark-mode .svg-container svg use #blackpiece{
+    fill: #d2ceb4;
+} */
+
 body.dark-mode .unit-title{
     color: #fff;
 }
 
 body.dark-mode .svg-container::before{
-    border: solid 12px #787878;
+    border: solid 12px #615d59;
 }
 
 
