@@ -4,9 +4,9 @@
     padding: 0;
 }
 
-/* body.dark-mode nav{
-    background-color: #222;
-} */
+body.dark-mode .links-container{
+    background-color: #312e2b;
+}
 
 .navbar{
     background-color: #262421
@@ -139,7 +139,20 @@
     display: none;
 }
 
+.theme-toggle .sun-svg{
+    display: none;
+}
+
+body.dark-mode .theme-toggle .moon-svg{
+    display: none;
+}
+
+
 @media (min-width: 1000px) {
+
+    body.dark-mode .links-container{
+        background-color: transparent;
+    }
     .nav-toggle{
         display: none;
     }
@@ -236,4 +249,19 @@
         transform: scale(1.05);
         border-radius: 5px;
     }
+
+    .theme-toggle{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .theme-toggle .theme-toggle-text{
+        display: none;
+    }
+    .theme-toggle .theme-toggle-svgs svg{
+        fill: #f00;
+        display: block;
+    }
+
 }

@@ -4,22 +4,68 @@
     margin: 0;
     -webkit-tap-highlight-color: transparent;
 }
-
+/* 
 body{
     font-family: 'figtree', sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    /* gap: 10px; */
     background-color: #fff;
+} */
+
+/* dark mode for course page starts here */
+
+body.dark-mode .ec{
+    background-color: #312e2b;
 }
 
+body.dark-mode .unit-card{
+    background-color: #312e2b;
+    color: #fff;
+}
+
+body.dark-mode .level-name{
+    color: hsla(0, 0%, 100%, 0.803);
+}
+
+body.dark-mode .instructor-name{
+    color: #ffffffd9;
+}
+
+body.dark-mode .unit-icon-container{
+    border: 14px solid #45423e;
+}
+
+body.dark-mode .unit-info-card{
+    background-color: rgba(0,0,0,0.2);
+    color: hsla(0,0%,100%,.85);
+    border: none;
+    border-radius: 5px;
+}
+
+body.dark-mode .lessons-container .lesson-card{
+    background-color: #312e2b;
+    border-top-color: #423f3c;
+}
+
+body.dark-mode .lessons-container .lesson-card:hover{
+    background-color: #383531;
+}
+
+body.dark-mode .lessons-container .lesson-title{
+    color: #fff;
+}
+
+body.dark-mode .lessons-container .lesson-description{
+    color: #ffffffd9;
+}
+/* dark mode style ends here */
 .ec{
     display: flex;
     flex-direction: column;
-    /* min-width: 100%; */
 }
+
 .ficon {
     font-family: 'ChessGlyph';
     display: inline-block;
@@ -53,6 +99,7 @@ body{
     font-size: 1.7rem;
     margin-bottom: 30px;
 }
+
 .level-icon{
     color: #777574;
     font-size: 3.1rem;
@@ -320,9 +367,9 @@ span:has(+ .level-info-value){
         top: 20px; */
     }
 
-    .info-card-title{
+    /* .info-card-title{
         background-color: #f1f1f1;
-    }
+    } */
 
     .description-container{
         padding: 0 10px 0px 20px;
