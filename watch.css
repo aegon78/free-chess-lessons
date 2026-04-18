@@ -1,16 +1,31 @@
+body.dark-mode .video-container{
+    background-color: #000;
+}
+body.dark-mode .video-info-container{
+    background-color: #312e2b;
+}
+body.dark-mode .lesson-description-wrapper{
+    border: none;
+    background-color: #4b4847;
+    color: #fff;
+}
+body.dark-mode .lesson-description-wrapper::after,
+body.dark-mode .lesson-description-wrapper::before{
+    background-color: #4b4847;
+    border: none;
+}
+
+body.dark-mode .coach{
+    background-color: #4b4847;
+}
 body{
-    /* background-color: #312e2b; */
-    background-color: #fff;
-    font-family: 'figtree', sans-serif;
-    /* display: flex; */
-    /* flex-direction: column; */
-    /* align-items: center; */
-    /* justify-content: center; */
+    /* nothing here */
 }
 
 .main-container{
     max-width: 500px;
     justify-content: space-between;
+    /* transition: 0.4s ease; */
     /* background-color: #f00; */
 }
 
@@ -40,6 +55,7 @@ iframe{
     padding: 20px;
     max-width: 100%;
     min-height: 300px;
+    transition: 0.4s ease;
     /* display: flex; */
 }
 
@@ -48,7 +64,7 @@ iframe{
     align-items: center;
     justify-content: center;
     padding-bottom: 20px;
-    color: hsla(0, 0%, 100%, 0.65);
+    color: #ffffffa6;
 }
 
 .video-info-panel span{

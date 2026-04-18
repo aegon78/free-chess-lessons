@@ -52,6 +52,7 @@ body.dark-mode .svg-container::before{
 body{
     font-family: 'figtree', sans-serif;
     background-color: #fff;
+    transition: 0.4s ease;
 }
 
 @font-face {

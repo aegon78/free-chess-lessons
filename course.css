@@ -64,6 +64,7 @@ body.dark-mode .lessons-container .lesson-description{
 .ec{
     display: flex;
     flex-direction: column;
+    /* transition: 0.4s ease; */
 }
 
 .ficon {
@@ -115,6 +116,8 @@ body.dark-mode .lessons-container .lesson-description{
     width: 96%;
     padding: 10px;
     background-color: #fff;
+    transition: 0.4s ease;
+
 }
 
 .unit-title{

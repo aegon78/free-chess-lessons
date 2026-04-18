@@ -9,14 +9,14 @@ body.dark-mode .links-container{
 }
 
 .navbar{
-    background-color: #262421
-;
+    background-color: #262421;
     height: 70px;
     display: flex; 
     align-items: center;
     justify-content: space-between;
     width: 100%;
     top: 0;
+    /* transition: 0.4s ease; */
 }
 
 .nav-toggle{
@@ -64,6 +64,7 @@ body.dark-mode .links-container{
     background-color: #fff;
     height: 100%;
     width: 300px;
+    transition: background-color 0.4s ease;
     transition: transform 0.4s ease;
     z-index: 10;
 }
@@ -139,14 +140,11 @@ body.dark-mode .links-container{
     display: none;
 }
 
-.theme-toggle .sun-svg{
-    display: none;
-}
+.moon-svg{ display: block; }
+.sun-svg{display: none;}
 
-body.dark-mode .theme-toggle .moon-svg{
-    display: none;
-}
-
+.dark-mode .moon-svg{ display: none; }
+.dark-mode .sun-svg{ display: block;}
 
 @media (min-width: 1000px) {
 
@@ -260,8 +258,12 @@ body.dark-mode .theme-toggle .moon-svg{
         display: none;
     }
     .theme-toggle .theme-toggle-svgs svg{
-        fill: #f00;
-        display: block;
+        fill: #fff;
     }
+    .moon-svg{ display: block; }
+    .sun-svg{display: none;}
+
+    .dark-mode .moon-svg{ display: none; }
+    .dark-mode .sun-svg{ display: block;}
 
 }
