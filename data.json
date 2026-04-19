@@ -147,7 +147,34 @@
             { "title": "Defending Against e4: French, Caro-Kann, Scandinavian", "urlid": "eKpJoYjrWYSJBj", "duration": 3, "description": "If Black meets 1.e4 with a move other than e5 or c5, the main idea will be to place a pawn on d5. The most common plan is 1...e6 or 1..c6 to prepare d5 on the next move." },
             { "title": "Defending Against d4: d5 and Nf6", "urlid": "lPw7ZK1OwYhbG9", "duration": 3, "description": "When playing against 1.d4 most players prevent White from playing e4 with 1...Nf6 or 1...d5." }
         ]
-        }
+        },
+        {
+            "title": "Checkmate Patterns You Should Know", "icon": "checkmate",
+            "instructor": "Simon Williams",
+            "description": [
+                {"headline": "Never miss another opportunity to checkmate!\n\n"},
+                {"body": "Have you ever missed an incredible checkmate? Do you want to spot every checkmate opportunity? Then this is the course for you! Practice essential checkmating patterns with GM Simon Williams! Learn these incredible ideas to shock your opponents and win. Start finding all of the checkmates in your own games today!\n\nHere is what you will learn:\n\n"},
+                {"objectives": ["Fool your opponent with Fools Mate!", "Practice back rank mates!", "Learn the Kiss Of Death checkmate!", "Destroy with the Damiano Mate!", "Try out the Opera Mate!", "Learn the Arabian Mate!", "Win with the amazing Boden's Mate!", "Learn the Epaulette Mate!", "Try out the Dovetail Mate!", "Practice the classic Smothered Mate!", "Enjoy the Two Bishops Mate", "Shock your opponent's with Legal's Mate!", "Find out about Ananstasia's Mate!", "Learn Simons' new term, the Forest Gump Mate!"]}
+            ],
+            "releaseDate": " 3/2/2019",
+            "lessons": [
+                { "title": "Fool's Mate", "urlid": "", "duration": 8, "description": "Don't be a fool! Learn how to prevent and take advantage of Fool's mate tactics." },
+                { "title": "Back Rank Mate", "urlid": "", "duration": 9, "description": "Keep an eye on the back rank and master back-rank mate checkmate tactics." },
+                { "title": "Kiss of Death Mate", "urlid": "", "duration": 8, "description": "A queen's kiss can be deadly. Master the kiss of death checkmate." },
+                { "title": "Damiano Mate", "urlid": "", "duration": 8, "description": "A pawn in the enemy camp can be deadly. Learn about sacrifices and the stunning Damiano mate." },
+                { "title": "Opera Mate", "urlid": "", "duration": 6, "description": "Learn about one of the most famous games of all time and the amazing Opera Checkmate!" },
+                { "title": "Arabian Mate", "urlid": "", "duration": 9, "description": "Perhaps the oldest type of checkmate - learn about the stunning Arabian mate!" },
+                { "title": "Morphy Mate", "urlid": "", "duration": 7, "description": "Another Paul Morphy specialty! Learn about the powerful Morphy mate." },
+                { "title": "Boden's Mate", "urlid": "", "duration": 8, "description": "Watch out for the bishop pair! Learn about the spectacular and surprising Boden's mate." },
+                { "title": "Epaulette Mate", "urlid": "", "duration": 8, "description": "Having your rooks near the king isn't always helpful - learn about the surprising Epaulette Mate." },
+                { "title": "Dovetail Mate", "urlid": "", "duration": 7, "description": "Learn about a checkmate pattern that looks like a dove, but is anything but peaceful!" },
+                { "title": "Smothered Mate", "urlid": "", "duration": 9, "description": "Get ready to sacrifice your queen! Learn about one of the most fun mating combinations in chess - the smothered checkmate." },
+                { "title": "Double Bishop Mate", "urlid": "", "duration": 7, "description": "The bishop pair make a great team, especially when aiming for checkmate!" },
+                { "title": "Legal's Mate", "urlid": "", "duration": 8, "description": "Learn about one of the most shocking mate tactics in all of chess. After you learn Legal's mate, you'll never look at f-pawn the same way again!" },
+                { "title": "Anastasia Mate", "urlid": "", "duration": 9, "description": "Knights, queens and rooks work together for the spectacular Anastasia mate. Learn how to use it in your own games!" },
+                { "title": "Forrest Gump Mate", "urlid": "", "duration": 12, "description": "Learn how to make the opponent's king run across the board like Forrest Gump!" }
+            ]
+            }
     ]
     },
     {
@@ -165,31 +192,31 @@
         ],
         "releaseDate": "12/29/2018",
         "lessons": [
-            { "title": "Learn The Italian Game", "urlid": "Jv8GVDBGBLTjqg4", "duration": 0, "description": "The Italian Game has been a popular opening for centuries and it's still played at the highest level today. Learn the key ideas to play the Italian with either side." },
-            { "title": "Learn The Two Knights Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas for both sides in the Two Knights Defense." },
-            { "title": "Learn The Evans Gambit", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key strategic ideas and tactics for both sides in the Evans Gambit." },
-            { "title": "Learn the Ruy Lopez Berlin Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "The Berlin Defense is one of the most popular and solid defenses against 1.e4. Learn the key ideas for both White and Black in this key opening." },
-            { "title": "Learn the Ruy Lopez Marshall Attack", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas and structures that you need to play effectively with either White or Black in the Marshall Attack." },
-            { "title": "Learn The Ruy Lopez Closed Variation", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "The Closed Ruy Lopez is one of the most popular openings throughout the history of chess. This lesson focuses specifically on the Chigorin and Breyer variations." },
-            { "title": "Learn the Ruy Lopez Tricky Systems", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas in three tricky Ruy Lopez variations. This video covers the Schlieman Variation, the Exchange Variation, and the Open Variation. Each line is important, but you can play it well if you know the basics." },
-            { "title": "Learn the Sicilian Najdorf", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the essentials of the Sicilian Najdorf with an educational video on move order, pawn structures and the key themes to know." },
-            { "title": "Learn The Sicilian Rossolimo And Moscow Variations", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "3. Bb5 is a popular move against the Sicilian, leading to the Rossolimo and Moscow Variations, depending on Black's second move." },
-            { "title": "Learn the Sicilian Sveshnikov", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the essentials of the Sicilian Sveshnikov with an educational video on move order, pawn structures and the key themes to know." },
-            { "title": "Learn the Sicilian Dragon", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the essentials of the Sicilian Dragon with this video on key plans and attacking ideas for both sides." },
-            { "title": "Learn the Sicilian with 2...e6", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Watch a video to learn the ins and outs of the flexible 2...e6 Sicilian for both Black and White." },
-            { "title": "Learn the Sicilian Alapin Variation", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "The Open Variation of the Sicilian Defense offers Black significant counterplay. Sometimes White prefers to avoid this with the move 2.c3. This variation allows White an opportunity to control the center with the advance d2-d4, but also gives Black chances to take advantage of White's failure to develop on move two." },
-            { "title": "Learn the Closed Sicilian", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Watch a video to learn the strengths and weaknesses of the Closed Sicilian, a slow-building opening, with many tactical opportunities hiding under the surface." },
-            { "title": "Learn the Queen's Gambit Declined", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the ideas behind the solid Queen's Gambit declined for both White and Black." },
-            { "title": "Learn The Queen's Gambit Exchange Variation", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas for both sides in the popular Exchange Variation of the Queen's Gambit. This video also covers the active, but risky Tarrasch Defense and the solid Semi-Tarrasch Defense." },
-            { "title": "Learn The Queen's Gambit Accepted", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas and tactics for both sides in the Queen's Gambit Accepted, including the variations after 3.e3, 3.e4 and 3.Nf3." },
-            { "title": "Learn The Queen's Gambit Bf4 Variation", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas and tactics in the Bf4 variation of the Queen's Gambit. This video examines Black's responses based on 6...Nd7, 6...c5, and 6...b6." },
-            { "title": "Learn the Queen's Gambit Cambridge Springs and Orthodox Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas for both sides in the tactical Cambridge Springs Defense and the solid Orthodox Defense. These openings have been played by World Champions for more than a century!" },
-            { "title": "Learn The Nimzo Indian Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas for both sides in the strategically rich, Nimzo Indian Defense." },
-            { "title": "Learn The London And Colle Systems", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas for both sides in the popular London System, and the solid Colle System." },
-            { "title": "Learn The French Defense With 3.Nc3", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the main lines of the French Defense for White and Black." },
-            { "title": "Learn The French Tarrasch And Advance Variations", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the main lines and ideas in the French Tarrasch and Advance variations." },
-            { "title": "Learn The Caro-Kann Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the main lines and key ideas for both sides in the Caro-Kann Defense." },
-            { "title": "Learn The English Opening", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas and main lines in the English Opening." },
+            { "title": "Learn The Italian Game", "urlid": "MY39xKg8XDIm4Je", "duration": 30, "description": "The Italian Game has been a popular opening for centuries and it's still played at the highest level today. Learn the key ideas to play the Italian with either side." },
+            { "title": "Learn The Two Knights Defense", "urlid": "a0e7qYv9mbixrkO", "duration": 23, "description": "Learn the key ideas for both sides in the Two Knights Defense." },
+            { "title": "Learn The Evans Gambit", "urlid": "M9dAqxLL11hD39", "duration": 30, "description": "Learn the key strategic ideas and tactics for both sides in the Evans Gambit." },
+            { "title": "Learn the Ruy Lopez Berlin Defense", "urlid": "yoWrj3dzl1iyj4", "duration": 19, "description": "The Berlin Defense is one of the most popular and solid defenses against 1.e4. Learn the key ideas for both White and Black in this key opening." },
+            { "title": "Learn the Ruy Lopez Marshall Attack", "urlid": "xvgAerJXwktDzx", "duration": 19, "description": "Learn the key ideas and structures that you need to play effectively with either White or Black in the Marshall Attack." },
+            { "title": "Learn The Ruy Lopez Closed Variation", "urlid": "7R9YWGzl72cArQp", "duration": 22, "description": "The Closed Ruy Lopez is one of the most popular openings throughout the history of chess. This lesson focuses specifically on the Chigorin and Breyer variations." },
+            { "title": "Learn the Ruy Lopez Tricky Systems", "urlid": "XyW7v324zAtDekv", "duration": 19, "description": "Learn the key ideas in three tricky Ruy Lopez variations. This video covers the Schlieman Variation, the Exchange Variation, and the Open Variation. Each line is important, but you can play it well if you know the basics." },
+            { "title": "Learn the Sicilian Najdorf", "urlid": "PW3lGrAOpwF0zw1", "duration": 10, "description": "Learn the essentials of the Sicilian Najdorf with an educational video on move order, pawn structures and the key themes to know." },
+            { "title": "Learn The Sicilian Rossolimo And Moscow Variations", "urlid": "84jxjmXomRCoVXy", "duration": 22, "description": "3. Bb5 is a popular move against the Sicilian, leading to the Rossolimo and Moscow Variations, depending on Black's second move." },
+            { "title": "Learn the Sicilian Sveshnikov", "urlid": "Dk1xrZoDa8skMBL", "duration": 15, "description": "Learn the essentials of the Sicilian Sveshnikov with an educational video on move order, pawn structures and the key themes to know." },
+            { "title": "Learn the Sicilian Dragon", "urlid": "AMloYGxj13HWwm", "duration": 13, "description": "Learn the essentials of the Sicilian Dragon with this video on key plans and attacking ideas for both sides." },
+            { "title": "Learn the Sicilian with 2...e6", "urlid": "e3xo1K2W4kUOGQ", "duration": 22, "description": "Watch a video to learn the ins and outs of the flexible 2...e6 Sicilian for both Black and White." },
+            { "title": "Learn the Sicilian Alapin Variation", "urlid": "JoP00eok2AIj8jP", "duration": 17, "description": "The Open Variation of the Sicilian Defense offers Black significant counterplay. Sometimes White prefers to avoid this with the move 2.c3. This variation allows White an opportunity to control the center with the advance d2-d4, but also gives Black chances to take advantage of White's failure to develop on move two." },
+            { "title": "Learn the Closed Sicilian", "urlid": "eY769gmx9xhkl1", "duration": 19, "description": "Watch a video to learn the strengths and weaknesses of the Closed Sicilian, a slow-building opening, with many tactical opportunities hiding under the surface." },
+            { "title": "Learn the Queen's Gambit Declined", "urlid": "V7W9kedXRlcO0R", "duration": 24, "description": "Learn the ideas behind the solid Queen's Gambit declined for both White and Black." },
+            { "title": "Learn The Queen's Gambit Exchange Variation", "urlid": "xqkXwAgPx1skA2G", "duration": 28, "description": "Learn the key ideas for both sides in the popular Exchange Variation of the Queen's Gambit. This video also covers the active, but risky Tarrasch Defense and the solid Semi-Tarrasch Defense." },
+            { "title": "Learn The Queen's Gambit Accepted", "urlid": "LM84O2oOkkFRVY0", "duration": 19, "description": "Learn the key ideas and tactics for both sides in the Queen's Gambit Accepted, including the variations after 3.e3, 3.e4 and 3.Nf3." },
+            { "title": "Learn The Queen's Gambit Bf4 Variation", "urlid": "ZJG2xMrqzLcKPj", "duration": 19, "description": "Learn the key ideas and tactics in the Bf4 variation of the Queen's Gambit. This video examines Black's responses based on 6...Nd7, 6...c5, and 6...b6." },
+            { "title": "Learn the Queen's Gambit Cambridge Springs and Orthodox Defense", "urlid": "MjOMe18xKQfmZQq", "duration": 23, "description": "Learn the key ideas for both sides in the tactical Cambridge Springs Defense and the solid Orthodox Defense. These openings have been played by World Champions for more than a century!" },
+            { "title": "Learn The Nimzo Indian Defense", "urlid": "eKGKVovabkSYR1G", "duration": 20, "description": "Learn the key ideas for both sides in the strategically rich, Nimzo Indian Defense." },
+            { "title": "Learn The London And Colle Systems", "urlid": "vljP0q27OeH4p9p", "duration": 30, "description": "Learn the key ideas for both sides in the popular London System, and the solid Colle System." },
+            { "title": "Learn The French Defense With 3.Nc3", "urlid": "vljP0q27OeH4p9p", "duration": 22, "description": "Learn the main lines of the French Defense for White and Black." },
+            { "title": "Learn The French Tarrasch And Advance Variations", "urlid": "vljP0q27OeH4p9p", "duration": 26, "description": "Learn the main lines and ideas in the French Tarrasch and Advance variations." },
+            { "title": "Learn The Caro-Kann Defense", "urlid": "vljP0q27OeH4p9p", "duration": 30, "description": "Learn the main lines and key ideas for both sides in the Caro-Kann Defense." },
+            { "title": "Learn The English Opening", "urlid": "vljP0q27OeH4p9p", "duration": 35, "description": "Learn the key ideas and main lines in the English Opening." },
             { "title": "Learn The Slav Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "The Slav is one of Black's safest and strongest defenses against the Queen's Gambit. Learn the key ideas and tactics for both sides." },
             { "title": "Learn the Semi-Slav Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the essentials of the Semi-Slav Defense, including pawn structures, tactics and key themes to know." },
             { "title": "Learn the King's Indian Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the essentials of the King's Indian Defense with an educational video on move order, pawn structures, and key themes to know." },
@@ -215,6 +242,28 @@
             { "title": "Learn The Indian Defenses And The Black Knights' Tango", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the ideas behind the Indian Defenses and take and find out how to play both sides of the Black Knights' Tango." },
             { "title": "Learn The Budapest Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas for both sides in the Budapest Defense." },
             { "title": "Learn The Old Indian Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the main lines and key ideas for both sides in the Old Indian Defense." }
+        ]
+        },
+        {
+        "title": "Games that Changed Chess History", "icon": "board",
+        "instructor": "Anna Rudolf",
+        "description": [
+            {"headline": "Learn about the games and rivalries that defined the history of chess!\n\n"},
+            {"body": "Do you want to learn how modern chess came to be? Learn about the moments that changed the history of the game with IM Anna Rudolf, starting with the oldest recorded game and showing some of the greatest rivalries in chess history! Learn history and strategy from the legends of the past. Start increasing your knowledge of chess history today!\n\nHere is what you will learn:\n\n"},
+            {"objectives": ["Learn about key games from the last 500 years!", "Learn about the romantic era and exciting attacking games!", "Learn about the great rivalries throughout the history of the game!"]}
+        ],
+        "releaseDate": "3/2/2019",
+        "lessons": [
+            { "title": "The First Modern Chess Game Ever Recorded", "urlid": "6aB1lWXdmKFp9O",  "duration": 11, "description": "Check out the oldest recorded chess game on record." },
+            { "title": "Games That Changed Chess History: The Romantic Era", "urlid": "jkzvrrKxMZTzkja",  "duration": 7, "description": "Learn about Greco, perhaps the first ever professional chess player!" },
+            { "title": "Philidor's Pawn Revolution", "urlid": "ZJLbxAklApcqeP9",  "duration": 13, "description": "Learn about Philidor, the first player to appreciate the role of pawns in chess." },
+            { "title": "The Shock Of Positional Chess", "urlid": "gPJW1RZ0YZTqQ46",  "duration": 15, "description": "Learn about Steinitz, the first World Champion and how he developed modern positional ideas." },
+            { "title": "The Biggest Rivalry In Chess", "urlid": "3VQaklzzoqHdJOg",  "duration": 21, "description": "Nimzowitsch and Tarrasch argued about how chess should be played. See what happened when these geniuses clashed over the board!" },
+            { "title": "Botvinnik: Master Of The Soviet Chess School", "urlid": "AMBPVgBB86FXqQm",  "duration": 12, "description": "Learn how Botvinnik became World Champion and started an era of Soviet chess dominance." },
+            { "title": "Bobby Fischer Makes Chess History", "urlid": "DM7JV2b04yhxwe",  "duration": 19, "description": "Learn about the most famous game from the Match of the Century, where American chess genius Bobby Fischer interrupted years of Soviet dominance of the world title." },
+            { "title": "Karpov vs Kasparov", "urlid": "KqamrRKZoWIobw",  "duration": 21, "description": "How did Garry Kasparov, perhaps the greatest champion in history, take the title from his arch-rival?" },
+            { "title": "Judit Polgar", "urlid": "xPoRKrQ6jjUkPAb",  "duration": 22, "description": "Learn about the best female chess player of all time and her quest to break Fischer's record to become the youngest Grandmaster ever!" },
+            { "title": "Deep Blue vs Kasparov", "urlid": "rAD0dJJ2oXFbrDG",  "duration": 9, "description": "We end our course on chess history by introducing the new top players -computers! See the shocking game that won Deep Blue a match against World Champion Kasparov." }
         ]
         },
 
@@ -461,28 +510,6 @@
     "title": "Mastery",
     "levelicon": "Ā",
     "units": [
-        {
-        "title": "Games that Changed Chess History", "icon": "board",
-        "instructor": "Anna Rudolf",
-        "description": [
-            {"headline": "Learn about the games and rivalries that defined the history of chess!\n\n"},
-            {"body": "Do you want to learn how modern chess came to be? Learn about the moments that changed the history of the game with IM Anna Rudolf, starting with the oldest recorded game and showing some of the greatest rivalries in chess history! Learn history and strategy from the legends of the past. Start increasing your knowledge of chess history today!\n\nHere is what you will learn:\n\n"},
-            {"objectives": ["Learn about key games from the last 500 years!", "Learn about the romantic era and exciting attacking games!", "Learn about the great rivalries throughout the history of the game!"]}
-        ],
-        "releaseDate": "3/2/2019",
-        "lessons": [
-            { "title": "The First Modern Chess Game Ever Recorded", "urlid": "6aB1lWXdmKFp9O",  "duration": 11, "description": "Check out the oldest recorded chess game on record." },
-            { "title": "Games That Changed Chess History: The Romantic Era", "urlid": "jkzvrrKxMZTzkja",  "duration": 7, "description": "Learn about Greco, perhaps the first ever professional chess player!" },
-            { "title": "Philidor's Pawn Revolution", "urlid": "ZJLbxAklApcqeP9",  "duration": 13, "description": "Learn about Philidor, the first player to appreciate the role of pawns in chess." },
-            { "title": "The Shock Of Positional Chess", "urlid": "gPJW1RZ0YZTqQ46",  "duration": 15, "description": "Learn about Steinitz, the first World Champion and how he developed modern positional ideas." },
-            { "title": "The Biggest Rivalry In Chess", "urlid": "3VQaklzzoqHdJOg",  "duration": 21, "description": "Nimzowitsch and Tarrasch argued about how chess should be played. See what happened when these geniuses clashed over the board!" },
-            { "title": "Botvinnik: Master Of The Soviet Chess School", "urlid": "AMBPVgBB86FXqQm",  "duration": 12, "description": "Learn how Botvinnik became World Champion and started an era of Soviet chess dominance." },
-            { "title": "Bobby Fischer Makes Chess History", "urlid": "DM7JV2b04yhxwe",  "duration": 19, "description": "Learn about the most famous game from the Match of the Century, where American chess genius Bobby Fischer interrupted years of Soviet dominance of the world title." },
-            { "title": "Karpov vs Kasparov", "urlid": "KqamrRKZoWIobw",  "duration": 21, "description": "How did Garry Kasparov, perhaps the greatest champion in history, take the title from his arch-rival?" },
-            { "title": "Judit Polgar", "urlid": "xPoRKrQ6jjUkPAb",  "duration": 22, "description": "Learn about the best female chess player of all time and her quest to break Fischer's record to become the youngest Grandmaster ever!" },
-            { "title": "Deep Blue vs Kasparov", "urlid": "rAD0dJJ2oXFbrDG",  "duration": 9, "description": "We end our course on chess history by introducing the new top players -computers! See the shocking game that won Deep Blue a match against World Champion Kasparov." }
-        ]
-    },
     {
         "title": "Strategy", "icon": "strategy",
         "lessons": [
