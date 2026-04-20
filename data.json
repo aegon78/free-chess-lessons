@@ -147,34 +147,7 @@
             { "title": "Defending Against e4: French, Caro-Kann, Scandinavian", "urlid": "eKpJoYjrWYSJBj", "duration": 3, "description": "If Black meets 1.e4 with a move other than e5 or c5, the main idea will be to place a pawn on d5. The most common plan is 1...e6 or 1..c6 to prepare d5 on the next move." },
             { "title": "Defending Against d4: d5 and Nf6", "urlid": "lPw7ZK1OwYhbG9", "duration": 3, "description": "When playing against 1.d4 most players prevent White from playing e4 with 1...Nf6 or 1...d5." }
         ]
-        },
-        {
-            "title": "Checkmate Patterns You Should Know", "icon": "checkmate",
-            "instructor": "Simon Williams",
-            "description": [
-                {"headline": "Never miss another opportunity to checkmate!\n\n"},
-                {"body": "Have you ever missed an incredible checkmate? Do you want to spot every checkmate opportunity? Then this is the course for you! Practice essential checkmating patterns with GM Simon Williams! Learn these incredible ideas to shock your opponents and win. Start finding all of the checkmates in your own games today!\n\nHere is what you will learn:\n\n"},
-                {"objectives": ["Fool your opponent with Fools Mate!", "Practice back rank mates!", "Learn the Kiss Of Death checkmate!", "Destroy with the Damiano Mate!", "Try out the Opera Mate!", "Learn the Arabian Mate!", "Win with the amazing Boden's Mate!", "Learn the Epaulette Mate!", "Try out the Dovetail Mate!", "Practice the classic Smothered Mate!", "Enjoy the Two Bishops Mate", "Shock your opponent's with Legal's Mate!", "Find out about Ananstasia's Mate!", "Learn Simons' new term, the Forest Gump Mate!"]}
-            ],
-            "releaseDate": " 3/2/2019",
-            "lessons": [
-                { "title": "Fool's Mate", "urlid": "", "duration": 8, "description": "Don't be a fool! Learn how to prevent and take advantage of Fool's mate tactics." },
-                { "title": "Back Rank Mate", "urlid": "", "duration": 9, "description": "Keep an eye on the back rank and master back-rank mate checkmate tactics." },
-                { "title": "Kiss of Death Mate", "urlid": "", "duration": 8, "description": "A queen's kiss can be deadly. Master the kiss of death checkmate." },
-                { "title": "Damiano Mate", "urlid": "", "duration": 8, "description": "A pawn in the enemy camp can be deadly. Learn about sacrifices and the stunning Damiano mate." },
-                { "title": "Opera Mate", "urlid": "", "duration": 6, "description": "Learn about one of the most famous games of all time and the amazing Opera Checkmate!" },
-                { "title": "Arabian Mate", "urlid": "", "duration": 9, "description": "Perhaps the oldest type of checkmate - learn about the stunning Arabian mate!" },
-                { "title": "Morphy Mate", "urlid": "", "duration": 7, "description": "Another Paul Morphy specialty! Learn about the powerful Morphy mate." },
-                { "title": "Boden's Mate", "urlid": "", "duration": 8, "description": "Watch out for the bishop pair! Learn about the spectacular and surprising Boden's mate." },
-                { "title": "Epaulette Mate", "urlid": "", "duration": 8, "description": "Having your rooks near the king isn't always helpful - learn about the surprising Epaulette Mate." },
-                { "title": "Dovetail Mate", "urlid": "", "duration": 7, "description": "Learn about a checkmate pattern that looks like a dove, but is anything but peaceful!" },
-                { "title": "Smothered Mate", "urlid": "", "duration": 9, "description": "Get ready to sacrifice your queen! Learn about one of the most fun mating combinations in chess - the smothered checkmate." },
-                { "title": "Double Bishop Mate", "urlid": "", "duration": 7, "description": "The bishop pair make a great team, especially when aiming for checkmate!" },
-                { "title": "Legal's Mate", "urlid": "", "duration": 8, "description": "Learn about one of the most shocking mate tactics in all of chess. After you learn Legal's mate, you'll never look at f-pawn the same way again!" },
-                { "title": "Anastasia Mate", "urlid": "", "duration": 9, "description": "Knights, queens and rooks work together for the spectacular Anastasia mate. Learn how to use it in your own games!" },
-                { "title": "Forrest Gump Mate", "urlid": "", "duration": 12, "description": "Learn how to make the opponent's king run across the board like Forrest Gump!" }
-            ]
-            }
+        }
     ]
     },
     {
@@ -212,36 +185,36 @@
             { "title": "Learn The Queen's Gambit Bf4 Variation", "urlid": "ZJG2xMrqzLcKPj", "duration": 19, "description": "Learn the key ideas and tactics in the Bf4 variation of the Queen's Gambit. This video examines Black's responses based on 6...Nd7, 6...c5, and 6...b6." },
             { "title": "Learn the Queen's Gambit Cambridge Springs and Orthodox Defense", "urlid": "MjOMe18xKQfmZQq", "duration": 23, "description": "Learn the key ideas for both sides in the tactical Cambridge Springs Defense and the solid Orthodox Defense. These openings have been played by World Champions for more than a century!" },
             { "title": "Learn The Nimzo Indian Defense", "urlid": "eKGKVovabkSYR1G", "duration": 20, "description": "Learn the key ideas for both sides in the strategically rich, Nimzo Indian Defense." },
-            { "title": "Learn The London And Colle Systems", "urlid": "vljP0q27OeH4p9p", "duration": 30, "description": "Learn the key ideas for both sides in the popular London System, and the solid Colle System." },
-            { "title": "Learn The French Defense With 3.Nc3", "urlid": "vljP0q27OeH4p9p", "duration": 22, "description": "Learn the main lines of the French Defense for White and Black." },
-            { "title": "Learn The French Tarrasch And Advance Variations", "urlid": "vljP0q27OeH4p9p", "duration": 26, "description": "Learn the main lines and ideas in the French Tarrasch and Advance variations." },
-            { "title": "Learn The Caro-Kann Defense", "urlid": "vljP0q27OeH4p9p", "duration": 30, "description": "Learn the main lines and key ideas for both sides in the Caro-Kann Defense." },
-            { "title": "Learn The English Opening", "urlid": "vljP0q27OeH4p9p", "duration": 35, "description": "Learn the key ideas and main lines in the English Opening." },
-            { "title": "Learn The Slav Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "The Slav is one of Black's safest and strongest defenses against the Queen's Gambit. Learn the key ideas and tactics for both sides." },
-            { "title": "Learn the Semi-Slav Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the essentials of the Semi-Slav Defense, including pawn structures, tactics and key themes to know." },
-            { "title": "Learn the King's Indian Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the essentials of the King's Indian Defense with an educational video on move order, pawn structures, and key themes to know." },
-            { "title": "Learn The Scotch Game", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "If White wants to imbalance the game after 1.e4 e5, the Scotch Game is an excellent idea. White takes over the center, but Black can often gain a lead in development. Learn the key ideas for both sides." },
-            { "title": "Learn The Catalan", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the main lines and key ideas in the Catalan." },
-            { "title": "Learn The Scandinavian Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the main lines and key ideas for both sides in the Scandinavian Defense." },
-            { "title": "Learn The Petroff Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "The Petroff Defense is one of the most solid defenses against 1.e4. Learn the key ideas for both sides." },
-            { "title": "Learn The Four Knights Game", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas and main lines for both sides in the Four Knights Game." },
-            { "title": "Learn The Grunfeld Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas for both sides in the dynamic Grunfeld Defense." },
-            { "title": "Learn the Vienna Game And Bishop's Opening", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas and move orders in the Vienna Game and Bishop's Opening." },
-            { "title": "Learn The Queen's Indian Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas you'll need to play either side of the Queen's Indian Defense." },
-            { "title": "Learn The Bogo Indian Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ leads to the strategically rich Bogo Indian Defense. Learn the key ideas and tactics for both sides." },
-            { "title": "Learn The Benoni Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key plans and tactical ideas for both sides in the Benoni Defense." },
-            { "title": "Learn The Benko Gambit", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas for both sides in the sharp Benko Gambit." },
-            { "title": "Learn The Pirc Defense And The Modern Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the main lines, tactics, and strategies in the Pirc and Modern Defenses." },
-            { "title": "Learn The Dutch Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the main lines and key ideas in the Dutch Defense." },
-            { "title": "Learn The Alekhine's Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the main lines and key ideas in the Alekhine's Defense for both Black and White." },
-            { "title": "Learn The Trompowsky And Torre Attack", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas for both sides in the Trompowsky and the Torre Attack." },
-            { "title": "Learn The King's Indian Attack And The Reti Opening", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the main lines and key ideas for both sides in the King's Indian Attack and the Reti Opening." },
-            { "title": "Learn The Center Game And Danish Gambit", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas and main lines of the Center Game and Danish Gambit." },
-            { "title": "Learn The King's Gambit", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key variations, plans, and tactics for both sides in the King's Gambit." },
-            { "title": "Learn The Flank Openings", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the main variations and key ideas in a variety of unusual openings." },
-            { "title": "Learn The Indian Defenses And The Black Knights' Tango", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the ideas behind the Indian Defenses and take and find out how to play both sides of the Black Knights' Tango." },
-            { "title": "Learn The Budapest Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the key ideas for both sides in the Budapest Defense." },
-            { "title": "Learn The Old Indian Defense", "urlid": "vljP0q27OeH4p9p", "duration": 0, "description": "Learn the main lines and key ideas for both sides in the Old Indian Defense." }
+            { "title": "Learn The London And Colle Systems", "urlid": "", "duration": 30, "description": "Learn the key ideas for both sides in the popular London System, and the solid Colle System." },
+            { "title": "Learn The French Defense With 3.Nc3", "urlid": "", "duration": 22, "description": "Learn the main lines of the French Defense for White and Black." },
+            { "title": "Learn The French Tarrasch And Advance Variations", "urlid": "", "duration": 26, "description": "Learn the main lines and ideas in the French Tarrasch and Advance variations." },
+            { "title": "Learn The Caro-Kann Defense", "urlid": "", "duration": 30, "description": "Learn the main lines and key ideas for both sides in the Caro-Kann Defense." },
+            { "title": "Learn The English Opening", "urlid": "", "duration": 35, "description": "Learn the key ideas and main lines in the English Opening." },
+            { "title": "Learn The Slav Defense", "urlid": "", "duration": 0, "description": "The Slav is one of Black's safest and strongest defenses against the Queen's Gambit. Learn the key ideas and tactics for both sides." },
+            { "title": "Learn the Semi-Slav Defense", "urlid": "", "duration": 0, "description": "Learn the essentials of the Semi-Slav Defense, including pawn structures, tactics and key themes to know." },
+            { "title": "Learn the King's Indian Defense", "urlid": "", "duration": 0, "description": "Learn the essentials of the King's Indian Defense with an educational video on move order, pawn structures, and key themes to know." },
+            { "title": "Learn The Scotch Game", "urlid": "", "duration": 0, "description": "If White wants to imbalance the game after 1.e4 e5, the Scotch Game is an excellent idea. White takes over the center, but Black can often gain a lead in development. Learn the key ideas for both sides." },
+            { "title": "Learn The Catalan", "urlid": "", "duration": 0, "description": "Learn the main lines and key ideas in the Catalan." },
+            { "title": "Learn The Scandinavian Defense", "urlid": "", "duration": 0, "description": "Learn the main lines and key ideas for both sides in the Scandinavian Defense." },
+            { "title": "Learn The Petroff Defense", "urlid": "", "duration": 0, "description": "The Petroff Defense is one of the most solid defenses against 1.e4. Learn the key ideas for both sides." },
+            { "title": "Learn The Four Knights Game", "urlid": "", "duration": 0, "description": "Learn the key ideas and main lines for both sides in the Four Knights Game." },
+            { "title": "Learn The Grunfeld Defense", "urlid": "", "duration": 0, "description": "Learn the key ideas for both sides in the dynamic Grunfeld Defense." },
+            { "title": "Learn the Vienna Game And Bishop's Opening", "urlid": "", "duration": 0, "description": "Learn the key ideas and move orders in the Vienna Game and Bishop's Opening." },
+            { "title": "Learn The Queen's Indian Defense", "urlid": "", "duration": 0, "description": "Learn the key ideas you'll need to play either side of the Queen's Indian Defense." },
+            { "title": "Learn The Bogo Indian Defense", "urlid": "", "duration": 0, "description": "1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ leads to the strategically rich Bogo Indian Defense. Learn the key ideas and tactics for both sides." },
+            { "title": "Learn The Benoni Defense", "urlid": "", "duration": 0, "description": "Learn the key plans and tactical ideas for both sides in the Benoni Defense." },
+            { "title": "Learn The Benko Gambit", "urlid": "", "duration": 0, "description": "Learn the key ideas for both sides in the sharp Benko Gambit." },
+            { "title": "Learn The Pirc Defense And The Modern Defense", "urlid": "", "duration": 0, "description": "Learn the main lines, tactics, and strategies in the Pirc and Modern Defenses." },
+            { "title": "Learn The Dutch Defense", "urlid": "", "duration": 0, "description": "Learn the main lines and key ideas in the Dutch Defense." },
+            { "title": "Learn The Alekhine's Defense", "urlid": "", "duration": 0, "description": "Learn the main lines and key ideas in the Alekhine's Defense for both Black and White." },
+            { "title": "Learn The Trompowsky And Torre Attack", "urlid": "", "duration": 0, "description": "Learn the key ideas for both sides in the Trompowsky and the Torre Attack." },
+            { "title": "Learn The King's Indian Attack And The Reti Opening", "urlid": "", "duration": 0, "description": "Learn the main lines and key ideas for both sides in the King's Indian Attack and the Reti Opening." },
+            { "title": "Learn The Center Game And Danish Gambit", "urlid": "", "duration": 0, "description": "Learn the key ideas and main lines of the Center Game and Danish Gambit." },
+            { "title": "Learn The King's Gambit", "urlid": "", "duration": 0, "description": "Learn the key variations, plans, and tactics for both sides in the King's Gambit." },
+            { "title": "Learn The Flank Openings", "urlid": "", "duration": 0, "description": "Learn the main variations and key ideas in a variety of unusual openings." },
+            { "title": "Learn The Indian Defenses And The Black Knights' Tango", "urlid": "", "duration": 0, "description": "Learn the ideas behind the Indian Defenses and take and find out how to play both sides of the Black Knights' Tango." },
+            { "title": "Learn The Budapest Defense", "urlid": "", "duration": 0, "description": "Learn the key ideas for both sides in the Budapest Defense." },
+            { "title": "Learn The Old Indian Defense", "urlid": "", "duration": 0, "description": "Learn the main lines and key ideas for both sides in the Old Indian Defense." }
         ]
         },
         {
@@ -362,7 +335,35 @@
             { "title": "When to Trade Pieces", "urlid": "xrl9Yer8LqtkOrY", "duration": 5, "description": "It's usually helpful to trade if you can get ahead but what should you do if a potential trade doesn't gain or lose material? Watch the video for insights." },
             { "title": "Advanced Chess Notation", "urlid": "1pDxPvv09jUekMW", "duration": 12, "description": "Beyond basic notation, there are a few key symbols to know. Watch the video for more details." }
         ]
-        }
+        },
+        {
+        "title": "Checkmate Patterns You Should Know", "icon": "checkmate",
+        "instructor": "Simon Williams",
+        "description": [
+            {"headline": "Never miss another opportunity to checkmate!\n\n"},
+            {"body": "Have you ever missed an incredible checkmate? Do you want to spot every checkmate opportunity? Then this is the course for you! Practice essential checkmating patterns with GM Simon Williams! Learn these incredible ideas to shock your opponents and win. Start finding all of the checkmates in your own games today!\n\nHere is what you will learn:\n\n"},
+            {"objectives": ["Fool your opponent with Fools Mate!", "Practice back rank mates!", "Learn the Kiss Of Death checkmate!", "Destroy with the Damiano Mate!", "Try out the Opera Mate!", "Learn the Arabian Mate!", "Win with the amazing Boden's Mate!", "Learn the Epaulette Mate!", "Try out the Dovetail Mate!", "Practice the classic Smothered Mate!", "Enjoy the Two Bishops Mate", "Shock your opponent's with Legal's Mate!", "Find out about Ananstasia's Mate!", "Learn Simons' new term, the Forest Gump Mate!"]}
+        ],
+        "releaseDate": " 3/2/2019",
+        "lessons": [
+            { "title": "Fool's Mate", "urlid": "Vm0D7OVLyAsKK8z", "duration": 8, "description": "Don't be a fool! Learn how to prevent and take advantage of Fool's mate tactics." },
+            { "title": "Back Rank Mate", "urlid": "vpQ93krXy7HDxB", "duration": 9, "description": "Keep an eye on the back rank and master back-rank mate checkmate tactics." },
+            { "title": "Kiss of Death Mate", "urlid": "ayOqRyBwAVTxk8k", "duration": 8, "description": "A queen's kiss can be deadly. Master the kiss of death checkmate." },
+            { "title": "Damiano Mate", "urlid": "L2qGd9ddxRC6rM", "duration": 8, "description": "A pawn in the enemy camp can be deadly. Learn about sacrifices and the stunning Damiano mate." },
+            { "title": "Opera Mate", "urlid": "r99YeMA8Y8Fgbd", "duration": 6, "description": "Learn about one of the most famous games of all time and the amazing Opera Checkmate!" },
+            { "title": "Arabian Mate", "urlid": "Gpv0Kl0vAZS182L", "duration": 9, "description": "Perhaps the oldest type of checkmate - learn about the stunning Arabian mate!" },
+            { "title": "Morphy Mate", "urlid": "1Rx8qMVprzteoDg", "duration": 7, "description": "Another Paul Morphy specialty! Learn about the powerful Morphy mate." },
+            { "title": "Boden's Mate", "urlid": "bQXglmm0dWuRbq", "duration": 8, "description": "Watch out for the bishop pair! Learn about the spectacular and surprising Boden's mate." },
+            { "title": "Epaulette Mate", "urlid": "QAlJoGe0M7c0aX7", "duration": 8, "description": "Having your rooks near the king isn't always helpful - learn about the surprising Epaulette Mate." },
+            { "title": "Dovetail Mate", "urlid": "gj9WVqgdKkcqpq0", "duration": 7, "description": "Learn about a checkmate pattern that looks like a dove, but is anything but peaceful!" },
+            { "title": "Smothered Mate", "urlid": "8RrVqW4gGXSjv9", "duration": 9, "description": "Get ready to sacrifice your queen! Learn about one of the most fun mating combinations in chess - the smothered checkmate." },
+            { "title": "Double Bishop Mate", "urlid": "yA7qWBM3Vaue96", "duration": 7, "description": "The bishop pair make a great team, especially when aiming for checkmate!" },
+            { "title": "Legal's Mate", "urlid": "ewBPor78kgu2km", "duration": 8, "description": "Learn about one of the most shocking mate tactics in all of chess. After you learn Legal's mate, you'll never look at f-pawn the same way again!" },
+            { "title": "Anastasia Mate", "urlid": "j4AwZWMWyeFzeMR", "duration": 9, "description": "Knights, queens and rooks work together for the spectacular Anastasia mate. Learn how to use it in your own games!" },
+            { "title": "Forrest Gump Mate", "urlid": "DPQxYwoy8KFkrq0", "duration": 12, "description": "Learn how to make the opponent's king run across the board like Forrest Gump!" }
+        ]
+    }
+
     ]
     },
     {
